@@ -1,0 +1,73 @@
+{
+    "id": "RAD001",
+    "core": "Led R&D of next-generation radiation-hardened optical fiber for navigation sensors",
+    "dates": {
+      "start": "2019-10",
+      "end": "present"
+    },
+    "company": "Draper Lab",
+    "variations": {
+      "technical_ic": {
+        "short": "Developed rad-hard optical fiber for navigation sensors",
+        "medium": "Led development of radiation-hardened optical fiber, implementing ML-driven process improvements",
+        "detailed": "Led R&D of radiation-hardened optical fiber for navigation sensors, incorporating ML analysis to optimize production processes and radiation performance"
+      },
+      "research": {
+        "short": "Researched radiation effects in optical fiber",
+        "medium": "Conducted radiation physics research to improve optical fiber performance",
+        "detailed": "Led investigation into radiation effects on optical fiber, combining first principles analysis with ML-driven optimization"
+      },
+      "technical_lead": {
+        "short": "Led rad-hard optical fiber development team",
+        "medium": "Led cross-functional team developing radiation-hardened optical fiber",
+        "detailed": "Directed R&D team across multiple disciplines, coordinating between materials scientists, manufacturing engineers, and test facilities"
+      },
+      "project_manager": {
+        "short": "Managed rad-hard fiber development program",
+        "medium": "Led program developing radiation-hardened fiber for critical navigation systems",
+        "detailed": "Managed development program for mission-critical optical fiber, maintaining schedule and budget while coordinating multiple stakeholders"
+      }
+    },
+    "metrics": [
+      {
+        "value": "on-schedule",
+        "context": "timeline adherence",
+        "verified": true
+      },
+      {
+        "value": "within budget",
+        "context": "resource management",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "First principles radiation physics analysis",
+      "ML-driven process optimization",
+      "Production yield improvement",
+      "Environmental testing protocols",
+      "Performance validation methods",
+      "Manufacturing process development"
+    ],
+    "impact": [
+      "Maintained critical program timeline",
+      "Improved production efficiency",
+      "Established testing standards",
+      "Enhanced product performance",
+      "Developed in-house expertise"
+    ],
+    "skills": [
+      "Radiation Physics",
+      "Machine Learning",
+      "R&D Leadership",
+      "Process Optimization",
+      "Team Management",
+      "Stakeholder Management"
+    ],
+    "tags": [
+      "Hardware",
+      "Research",
+      "Leadership",
+      "Manufacturing",
+      "ML/AI"
+    ]
+  }

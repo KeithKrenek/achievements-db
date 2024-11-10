@@ -1,0 +1,27 @@
+{
+    "id": "",
+    "core": "",
+    "dates": {
+      "start": "",
+      "end": ""
+    },
+    "company": "",
+    "variations": {
+      "technical_ic": {
+        "short": "",
+        "medium": "",
+        "detailed": ""
+      }
+    },
+    "metrics": [
+      {
+        "value": "",
+        "context": "",
+        "verified": true
+      }
+    ],
+    "technical_details": [],
+    "impact": [],
+    "skills": [],
+    "tags": []
+  }

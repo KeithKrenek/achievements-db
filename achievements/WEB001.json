@@ -1,0 +1,83 @@
+{
+    "id": "WEB001",
+    "core": "Developed responsive professional website for engineering manufacturing company",
+    "dates": {
+      "start": "2023-06",
+      "end": "2023-09"
+    },
+    "company": "Elementsist",
+    "variations": {
+      "web_developer": {
+        "short": "Built manufacturing company website",
+        "medium": "Developed CMS-driven website with advanced interactions",
+        "detailed": "Architected professional manufacturing website using Webflow's CMS and advanced interactions, implementing responsive design and optimized asset delivery"
+      },
+      "ux_designer": {
+        "short": "Designed manufacturing website UX",
+        "medium": "Created responsive, user-focused manufacturing website",
+        "detailed": "Designed intuitive user experience for manufacturing website with custom animations and optimized mobile-to-desktop transitions"
+      },
+      "technical_lead": {
+        "short": "Led manufacturing website development",
+        "medium": "Led end-to-end development of company website",
+        "detailed": "Managed complete website development from requirements gathering through deployment, implementing advanced features and optimizations"
+      },
+      "marketing_specialist": {
+        "short": "Created lead-generating website",
+        "medium": "Developed conversion-optimized manufacturing website",
+        "detailed": "Created strategic online presence with integrated lead generation and optimized conversion pathways"
+      }
+    },
+    "metrics": [
+      {
+        "value": "70%+",
+        "context": "development time reduction vs traditional coding",
+        "verified": true
+      },
+      {
+        "value": "500+",
+        "context": "employees supported",
+        "verified": true
+      },
+      {
+        "value": "improved",
+        "context": "search rankings",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Webflow CMS implementation",
+      "Advanced interactions",
+      "Custom animations",
+      "Responsive design",
+      "Image delivery optimization",
+      "Contact form integration",
+      "SEO optimization",
+      "Performance tuning",
+      "Analytics integration"
+    ],
+    "impact": [
+      "Elevated brand presence",
+      "Improved lead generation",
+      "Enhanced product showcase",
+      "Reduced page load times",
+      "Optimized search presence",
+      "Enabled content management"
+    ],
+    "skills": [
+      "Web Development",
+      "UX Design",
+      "CMS Implementation",
+      "Performance Optimization",
+      "SEO",
+      "Content Strategy",
+      "Analytics"
+    ],
+    "tags": [
+      "Web Development",
+      "Design",
+      "Marketing",
+      "CMS",
+      "Business Impact"
+    ]
+  }

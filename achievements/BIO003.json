@@ -1,0 +1,81 @@
+{
+    "id": "BIO003",
+    "core": "Developed high-throughput microfluidic system for cell aging studies",
+    "dates": {
+      "start": "2013-08",
+      "end": "2015-05"
+    },
+    "company": "Texas A&M NanoBio Systems Lab",
+    "variations": {
+      "research_scientist": {
+        "short": "Developed microfluidic aging system",
+        "medium": "Created microfluidic platform for aging studies",
+        "detailed": "Designed and implemented microfluidic system for studying cellular aging, incorporating automated analysis and high-throughput processing"
+      },
+      "technical_ic": {
+        "short": "Built automated cell analysis system",
+        "medium": "Developed automated cell morphology analysis platform",
+        "detailed": "Engineered comprehensive system combining microfluidic device fabrication with automated cell analysis software"
+      },
+      "automation_engineer": {
+        "short": "Automated cell analysis workflow",
+        "medium": "Created automated cellular analysis pipeline",
+        "detailed": "Developed automated analysis software that increased experimental throughput by 10x for cell aging studies"
+      },
+      "project_lead": {
+        "short": "Led aging research platform development",
+        "medium": "Managed development of cell aging research tools",
+        "detailed": "Planned and executed multi-year project to build comprehensive tool for studying cell aging"
+      }
+    },
+    "metrics": [
+      {
+        "value": "10x",
+        "context": "increase in experimental throughput",
+        "verified": true
+      },
+      {
+        "value": "100+",
+        "context": "microfluidic devices fabricated",
+        "verified": true
+      },
+      {
+        "value": "multiple",
+        "context": "customer requirements met",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Microfluidic device design",
+      "Clean room fabrication",
+      "Computer vision algorithms",
+      "Automated image analysis",
+      "Cell morphology quantification",
+      "Process optimization",
+      "Data pipeline development",
+      "User interface creation"
+    ],
+    "impact": [
+      "Accelerated aging research",
+      "Enabled high-throughput studies",
+      "Improved experimental accuracy",
+      "Reduced manual analysis time",
+      "Created reusable platform",
+      "Met research milestones"
+    ],
+    "skills": [
+      "Microfluidics",
+      "Device Fabrication",
+      "Image Analysis",
+      "Process Automation",
+      "Software Development",
+      "Project Management"
+    ],
+    "tags": [
+      "Biotech",
+      "Automation",
+      "Research",
+      "Software",
+      "Hardware"
+    ]
+  }

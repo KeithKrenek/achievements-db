@@ -1,0 +1,82 @@
+{
+    "id": "AI006",
+    "core": "Developed AI-powered content generation and optimization systems",
+    "dates": {
+      "start": "2023-08",
+      "end": "2024-04"
+    },
+    "company": "Elementsist",
+    "variations": {
+      "ai_engineer": {
+        "short": "Built AI content systems",
+        "medium": "Developed AI content generation platform",
+        "detailed": "Engineered comprehensive AI system for generating and optimizing multi-modal content across platforms"
+      },
+      "content_strategist": {
+        "short": "Created AI content strategy",
+        "medium": "Implemented AI-driven content optimization",
+        "detailed": "Developed strategic approach to content creation combining AI generation with human expertise"
+      },
+      "technical_lead": {
+        "short": "Led AI content development",
+        "medium": "Directed AI content system implementation",
+        "detailed": "Led development of integrated AI content generation and optimization platform across multiple media types"
+      },
+      "product_manager": {
+        "short": "Managed AI content product",
+        "medium": "Oversaw AI content platform development",
+        "detailed": "Managed development of AI-powered content platform, balancing technical capabilities with business needs"
+      }
+    },
+    "metrics": [
+      {
+        "value": "multiple",
+        "context": "content types supported (text, image, video)",
+        "verified": true
+      },
+      {
+        "value": "various",
+        "context": "platforms integrated",
+        "verified": true
+      },
+      {
+        "value": "significant",
+        "context": "reduction in content creation time",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Multi-modal AI integration",
+      "Content optimization algorithms",
+      "Platform-specific formatting",
+      "Quality validation systems",
+      "Automated workflows",
+      "Performance analytics",
+      "Style consistency checks",
+      "Content distribution",
+      "Version control"
+    ],
+    "impact": [
+      "Accelerated content creation",
+      "Improved content quality",
+      "Enhanced consistency",
+      "Enabled scalability",
+      "Optimized workflows",
+      "Increased engagement"
+    ],
+    "skills": [
+      "AI Implementation",
+      "Content Strategy",
+      "System Integration",
+      "Quality Assurance",
+      "Process Automation",
+      "Platform Development"
+    ],
+    "tags": [
+      "AI/ML",
+      "Content",
+      "Automation",
+      "Strategy",
+      "Innovation"
+    ]
+  }

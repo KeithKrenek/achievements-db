@@ -1,0 +1,76 @@
+{
+    "id": "WEB002",
+    "core": "Developed rapid-deployment website for political campaign",
+    "dates": {
+      "start": "2023-10",
+      "end": "2023-12"
+    },
+    "company": "Elementsist",
+    "variations": {
+      "web_developer": {
+        "short": "Built campaign website",
+        "medium": "Developed dynamic campaign website with donation system",
+        "detailed": "Developed rapid-deployment campaign website with dynamic CMS, secure donation integration, and volunteer management system"
+      },
+      "technical_lead": {
+        "short": "Led campaign website development",
+        "medium": "Led development of comprehensive campaign platform",
+        "detailed": "Directed development of integrated campaign platform combining content management, donation processing, and volunteer coordination"
+      },
+      "digital_strategist": {
+        "short": "Created campaign digital presence",
+        "medium": "Developed strategic campaign digital platform",
+        "detailed": "Established professional online presence with integrated supporter engagement and campaign analytics systems"
+      },
+      "project_manager": {
+        "short": "Managed campaign website delivery",
+        "medium": "Managed rapid website deployment for political campaign",
+        "detailed": "Coordinated rapid development and deployment of campaign website meeting urgent timeline and security requirements"
+      }
+    },
+    "metrics": [
+      {
+        "value": "rapid",
+        "context": "deployment timeline achieved",
+        "verified": true
+      },
+      {
+        "value": "multiple",
+        "context": "integrated systems (donations, volunteers, content)",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Dynamic content management system",
+      "Secure donation integration",
+      "Volunteer sign-up forms",
+      "Mobile-first responsive layouts",
+      "Campaign analytics",
+      "Security implementations",
+      "Content update system",
+      "Performance optimization"
+    ],
+    "impact": [
+      "Established professional online presence",
+      "Enabled supporter engagement",
+      "Facilitated volunteer recruitment",
+      "Supported campaign messaging",
+      "Enabled rapid content updates",
+      "Provided campaign analytics"
+    ],
+    "skills": [
+      "Web Development",
+      "Content Management",
+      "Security Implementation",
+      "Analytics Integration",
+      "Mobile Design",
+      "System Integration"
+    ],
+    "tags": [
+      "Web Development",
+      "Political",
+      "Security",
+      "CMS",
+      "Digital Strategy"
+    ]
+  }

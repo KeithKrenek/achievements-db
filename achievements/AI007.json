@@ -1,0 +1,82 @@
+{
+    "id": "AI007",
+    "core": "Developed AI-powered research and analysis automation system",
+    "dates": {
+      "start": "2023-09",
+      "end": "2024-03"
+    },
+    "company": "Elementsist",
+    "variations": {
+      "data_scientist": {
+        "short": "Built AI research automation",
+        "medium": "Developed AI-powered research platform",
+        "detailed": "Engineered comprehensive AI system for automating complex research and analysis tasks across multiple domains"
+      },
+      "research_engineer": {
+        "short": "Created research automation tools",
+        "medium": "Implemented AI research assistance system",
+        "detailed": "Developed sophisticated AI tools for accelerating research processes, including literature review and data analysis"
+      },
+      "technical_lead": {
+        "short": "Led AI research tool development",
+        "medium": "Directed development of AI research platform",
+        "detailed": "Led implementation of AI-powered research automation system, integrating multiple models for comprehensive analysis"
+      },
+      "solution_architect": {
+        "short": "Architected research AI system",
+        "medium": "Designed AI-powered research platform",
+        "detailed": "Architected scalable AI system for automating various aspects of research and analysis workflows"
+      }
+    },
+    "metrics": [
+      {
+        "value": "multiple",
+        "context": "research domains automated",
+        "verified": true
+      },
+      {
+        "value": "significant",
+        "context": "reduction in research time",
+        "verified": true
+      },
+      {
+        "value": "various",
+        "context": "AI models integrated",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Research automation workflows",
+      "Literature analysis tools",
+      "Data synthesis algorithms",
+      "Multi-model integration",
+      "Natural language processing",
+      "Information extraction",
+      "Pattern recognition",
+      "Automated summarization",
+      "Insight generation"
+    ],
+    "impact": [
+      "Accelerated research processes",
+      "Enhanced analysis depth",
+      "Improved insight generation",
+      "Enabled scalable research",
+      "Reduced manual effort",
+      "Standardized analysis"
+    ],
+    "skills": [
+      "AI Integration",
+      "Research Automation",
+      "System Architecture",
+      "Data Analysis",
+      "Process Optimization",
+      "Technical Leadership"
+    ],
+    "tags": [
+      "AI/ML",
+      "Research",
+      "Automation",
+      "Analysis",
+      "Innovation"
+    ]
+  }

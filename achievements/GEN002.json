@@ -1,0 +1,77 @@
+{
+    "id": "GEN002",
+    "core": "Led implementation of generative design system for photonic integrated circuits",
+    "dates": {
+      "start": "2022-06",
+      "end": "2023-12"
+    },
+    "company": "Draper Lab",
+    "variations": {
+      "technical_ic": {
+        "short": "Developed generative design system for photonics",
+        "medium": "Implemented generative design workflows achieving order-of-magnitude efficiency gains",
+        "detailed": "Architected physics-based generative design system for photonic integrated circuits, delivering order-of-magnitude improvements in design efficiency"
+      },
+      "technical_lead": {
+        "short": "Led photonic design automation team",
+        "medium": "Led cross-functional team implementing generative design for photonics",
+        "detailed": "Led diverse team of ML experts, software developers, and photonics engineers in creating automated design infrastructure for photonic circuits"
+      },
+      "research": {
+        "short": "Pioneered generative photonics design",
+        "medium": "Developed novel generative design approach for photonic circuits",
+        "detailed": "Advanced state-of-the-art in photonic circuit design through implementation of AI-assisted generative design methodologies"
+      },
+      "project_manager": {
+        "short": "Managed photonic design automation project",
+        "medium": "Coordinated development of generative design infrastructure",
+        "detailed": "Managed complex stakeholder requirements while delivering generative design solution that dramatically improved design efficiency"
+      }
+    },
+    "metrics": [
+      {
+        "value": "orders of magnitude",
+        "context": "improvement in design efficiency",
+        "verified": true
+      },
+      {
+        "value": "multiple",
+        "context": "stakeholder teams coordinated",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Physics-based generative algorithms",
+      "High-performance computing integration",
+      "Stakeholder requirement gathering",
+      "Infrastructure development",
+      "Performance validation methods",
+      "Security compliance implementation",
+      "Literature review and benchmarking",
+      "User interface development"
+    ],
+    "impact": [
+      "Enhanced customer service offerings",
+      "Dramatically improved design efficiency",
+      "Created scalable infrastructure",
+      "Established new design capabilities",
+      "Reduced computational resource needs"
+    ],
+    "skills": [
+      "Team Leadership",
+      "Generative AI",
+      "Photonic Design",
+      "Stakeholder Management",
+      "Infrastructure Development",
+      "Requirements Analysis",
+      "Project Management"
+    ],
+    "tags": [
+      "AI/ML",
+      "Hardware",
+      "Leadership",
+      "Innovation",
+      "Research",
+      "Design Automation"
+    ]
+  }

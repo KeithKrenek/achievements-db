@@ -1,0 +1,82 @@
+{
+    "id": "CV001",
+    "core": "Developed 3D particle tracking system using computer vision",
+    "dates": {
+      "start": "2022-03",
+      "end": "2023-06"
+    },
+    "company": "Draper Lab",
+    "variations": {
+      "computer_vision_engineer": {
+        "short": "Built 3D tracking system",
+        "medium": "Developed vision-based 3D tracking system",
+        "detailed": "Engineered computer vision system for automated 3D tracking of blood cells and nanoparticles in microfluidic devices"
+      },
+      "ml_engineer": {
+        "short": "Created ML tracking algorithm",
+        "medium": "Implemented ML-based particle tracking",
+        "detailed": "Developed machine learning algorithm to translate 2D microscope images into accurate 3D trajectories"
+      },
+      "research_engineer": {
+        "short": "Developed particle analysis system",
+        "medium": "Created automated particle tracking platform",
+        "detailed": "Created comprehensive system for analyzing particle behavior in acoustic fields using computer vision and machine learning"
+      },
+      "technical_lead": {
+        "short": "Led vision system development",
+        "medium": "Directed 3D tracking system creation",
+        "detailed": "Led development of automated vision system for quantifying acoustic forces through particle tracking"
+      }
+    },
+    "metrics": [
+      {
+        "value": "3D",
+        "context": "trajectory reconstruction from 2D images",
+        "verified": true
+      },
+      {
+        "value": "multiple",
+        "context": "particle types tracked simultaneously",
+        "verified": true
+      },
+      {
+        "value": "automated",
+        "context": "analysis pipeline",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Computer vision algorithms",
+      "3D reconstruction techniques",
+      "Machine learning integration",
+      "Real-time tracking",
+      "Multi-particle detection",
+      "Trajectory analysis",
+      "Performance optimization",
+      "Data visualization",
+      "Automated calibration"
+    ],
+    "impact": [
+      "Enabled acoustic force measurement",
+      "Automated analysis process",
+      "Improved measurement accuracy",
+      "Enhanced research capabilities",
+      "Accelerated experimentation",
+      "Validated theoretical models"
+    ],
+    "skills": [
+      "Computer Vision",
+      "Machine Learning",
+      "Algorithm Development",
+      "System Integration",
+      "Data Analysis",
+      "Scientific Computing"
+    ],
+    "tags": [
+      "Computer Vision",
+      "AI/ML",
+      "Research",
+      "Automation",
+      "Scientific Computing"
+    ]
+  }

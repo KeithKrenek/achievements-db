@@ -1,0 +1,82 @@
+{
+    "id": "AI003",
+    "core": "Developed AI/ML applications across diverse business domains",
+    "dates": {
+      "start": "2023-09",
+      "end": "2024-04"
+    },
+    "company": "Elementsist",
+    "variations": {
+      "ai_engineer": {
+        "short": "Implemented diverse AI solutions",
+        "medium": "Developed varied AI applications for business use",
+        "detailed": "Created and implemented AI solutions across multiple domains including legal, marketing, research, and business strategy"
+      },
+      "technical_lead": {
+        "short": "Led AI implementation projects",
+        "medium": "Directed development of AI-powered solutions",
+        "detailed": "Led development of AI applications spanning text analysis, content generation, and decision support systems"
+      },
+      "consultant": {
+        "short": "Provided AI solution consulting",
+        "medium": "Delivered AI-powered business solutions",
+        "detailed": "Consulted on AI implementation strategies across diverse business needs, from legal compliance to marketing optimization"
+      },
+      "product_manager": {
+        "short": "Managed AI product development",
+        "medium": "Oversaw AI solution implementation",
+        "detailed": "Managed development and deployment of AI-powered tools for various business applications and client needs"
+      }
+    },
+    "metrics": [
+      {
+        "value": "multiple",
+        "context": "domains served (legal, marketing, research)",
+        "verified": true
+      },
+      {
+        "value": "diverse",
+        "context": "AI tools integrated",
+        "verified": true
+      },
+      {
+        "value": "numerous",
+        "context": "successful implementations",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "LLM integration",
+      "Text generation",
+      "Image generation",
+      "Video content creation",
+      "Legal document analysis",
+      "Market research automation",
+      "Content optimization",
+      "Strategy development tools",
+      "Brand analysis systems"
+    ],
+    "impact": [
+      "Streamlined business processes",
+      "Enhanced decision making",
+      "Automated routine tasks",
+      "Improved content quality",
+      "Accelerated research",
+      "Optimized operations"
+    ],
+    "skills": [
+      "AI Implementation",
+      "Solution Architecture",
+      "Business Analysis",
+      "Technical Integration",
+      "Project Management",
+      "Strategic Planning"
+    ],
+    "tags": [
+      "AI/ML",
+      "Business",
+      "Consulting",
+      "Innovation",
+      "Strategy"
+    ]
+  }

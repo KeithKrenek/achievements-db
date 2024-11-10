@@ -1,0 +1,85 @@
+{
+    "id": "BIO001",
+    "core": "Developed automated microfluidic system for cell therapy manufacturing",
+    "dates": {
+      "start": "2021-03",
+      "end": "2023-08"
+    },
+    "company": "Draper Lab",
+    "variations": {
+      "technical_ic": {
+        "short": "Automated cell processing system",
+        "medium": "Developed automated microfluidic system for cell manipulation",
+        "detailed": "Engineered automated acousto-fluidic device for precise cell manipulation in immunotherapy manufacturing process"
+      },
+      "research": {
+        "short": "Advanced microfluidic cell processing",
+        "medium": "Developed novel approach to automated cell manipulation",
+        "detailed": "Pioneered acoustic-based microfluidic system for efficient cell processing, combining multiphysics modeling with experimental validation"
+      },
+      "systems_engineer": {
+        "short": "Integrated bioprocessing system",
+        "medium": "Optimized complex bioprocessing system integration",
+        "detailed": "Led system integration of acoustic, fluidic, and control components for automated cell therapy manufacturing"
+      },
+      "project_lead": {
+        "short": "Led biomanufacturing automation",
+        "medium": "Directed development of automated cell processing system",
+        "detailed": "Led cross-functional development of automated cell processing system, coordinating between biology, engineering, and manufacturing teams"
+      }
+    },
+    "metrics": [
+      {
+        "value": "3x",
+        "context": "reduction in system size",
+        "verified": true
+      },
+      {
+        "value": "significant",
+        "context": "RF power optimization",
+        "verified": true
+      },
+      {
+        "value": "multiple",
+        "context": "cell types processed",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Multiphysics modeling (acoustic, fluid, thermal)",
+      "Automated calibration system",
+      "RF power delivery optimization",
+      "Impedance matching network",
+      "Computer vision integration",
+      "3D particle tracking",
+      "Process parameter optimization",
+      "System size reduction",
+      "Integration with existing workflow"
+    ],
+    "impact": [
+      "Enabled efficient cell therapy manufacturing",
+      "Reduced system footprint",
+      "Improved process reliability",
+      "Enhanced user experience",
+      "Integrated with commercial platform",
+      "Validated through experiments"
+    ],
+    "skills": [
+      "Multiphysics Modeling",
+      "System Integration",
+      "Process Automation",
+      "Computer Vision",
+      "RF Engineering",
+      "Microfluidics",
+      "Experimental Design",
+      "Cross-functional Leadership"
+    ],
+    "tags": [
+      "Biotech",
+      "Automation",
+      "Hardware",
+      "Software",
+      "Research",
+      "Manufacturing"
+    ]
+  }
