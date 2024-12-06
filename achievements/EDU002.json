@@ -1,0 +1,165 @@
+{
+    "id": "EDU002",
+    "core": "Received multiple teaching awards and demonstrated exceptional ability to communicate complex technical concepts across diverse audiences, from military officials to elementary students",
+    "dates": {
+        "start": "2015-09",
+        "end": "present"
+    },
+    "company": "Multiple (Harvard, Texas A&M, Public Schools)",
+    "variations": {
+        "teaching_fellow": {
+            "short": "Award-winning university instructor",
+            "medium": "Led advanced technical education with distinction",
+            "detailed": "Delivered university-level instruction in engineering and physics, earning Harvard's Distinction in Teaching Award for excellence in graduate education"
+        },
+        "public_speaker": {
+            "short": "Led technical presentations",
+            "medium": "Delivered complex technical topics to diverse audiences",
+            "detailed": "Successfully communicated advanced technical concepts to audiences ranging from military officials to elementary students, earning recognition for clarity and engagement"
+        },
+        "research_presenter": {
+            "short": "Award-winning research communication",
+            "medium": "Recognized for research presentation excellence",
+            "detailed": "Earned First Place Oral Presentation Award at Texas A&M Student Research Week for effective communication of complex technical research"
+        },
+        "science_communicator": {
+            "short": "Created accessible technical content",
+            "medium": "Developed public science communications",
+            "detailed": "Authored and edited technical content for diverse audiences, translating complex research into accessible formats for public understanding"
+        }
+    },
+    "metrics": [
+        {
+            "value": "2",
+            "context": "major teaching awards received",
+            "verified": true,
+            "category": "recognition",
+            "timeframe": "cumulative",
+            "impact_area": "teaching_excellence"
+        },
+        {
+            "value": "1000+",
+            "context": "students reached through presentations",
+            "verified": true,
+            "category": "outreach",
+            "timeframe": "cumulative",
+            "impact_area": "stem_education"
+        },
+        {
+            "value": "dozens",
+            "context": "technical articles authored/edited",
+            "verified": true,
+            "category": "communication",
+            "timeframe": "cumulative",
+            "impact_area": "public_engagement"
+        },
+        {
+            "value": "3+",
+            "context": "years tutoring experience",
+            "verified": true,
+            "category": "education",
+            "timeframe": "cumulative",
+            "impact_area": "student_support"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "instruction",
+            "detail": "University-level teaching",
+            "proficiency": "expert"
+        },
+        {
+            "category": "presentation",
+            "detail": "Technical presentations",
+            "proficiency": "expert"
+        },
+        {
+            "category": "writing",
+            "detail": "Science communication",
+            "proficiency": "expert"
+        },
+        {
+            "category": "tutoring",
+            "detail": "One-on-one instruction",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Enhanced STEM education accessibility",
+        "Improved public science understanding",
+        "Advanced student learning outcomes",
+        "Strengthened academic communication",
+        "Built educational relationships",
+        "Inspired future scientists",
+        "Facilitated knowledge transfer",
+        "Enhanced technical communication",
+        "Developed teaching methodologies",
+        "Improved learning experiences"
+    ],
+    "skills": [
+        "Technical Teaching",
+        "Public Speaking",
+        "Science Communication",
+        "Curriculum Development",
+        "Student Mentoring",
+        "Educational Assessment",
+        "Presentation Design",
+        "Content Creation",
+        "Audience Engagement",
+        "Knowledge Translation",
+        "Tutorial Development",
+        "Educational Technology"
+    ],
+    "tags": [
+        "Education",
+        "Communication",
+        "Teaching",
+        "Outreach",
+        "STEM",
+        "Mentoring",
+        "Public Speaking",
+        "Science Writing"
+    ],
+    "awards_recognition": [
+        {
+            "name": "Harvard Distinction in Teaching Award",
+            "year": "2019",
+            "context": "Graduate education excellence"
+        },
+        {
+            "name": "First Place Oral Presentation",
+            "year": "2014",
+            "context": "Student Research Week"
+        }
+    ],
+    "audience_types": [
+        {
+            "group": "Military Personnel",
+            "topic": "Radiation physics",
+            "format": "Technical briefings"
+        },
+        {
+            "group": "Elementary Students",
+            "topic": "Brain-machine interfaces",
+            "format": "Interactive presentations"
+        },
+        {
+            "group": "University Students",
+            "topic": "Engineering fundamentals",
+            "format": "Classroom instruction"
+        },
+        {
+            "group": "General Public",
+            "topic": "Technical concepts",
+            "format": "Written articles"
+        }
+    ],
+    "teaching_methods": [
+        "Interactive Lectures",
+        "Hands-on Demonstrations",
+        "Visual Aids",
+        "Group Discussions",
+        "One-on-one Tutoring",
+        "Written Explanations"
+    ]
+}

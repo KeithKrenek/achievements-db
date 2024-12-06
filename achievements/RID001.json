@@ -1,0 +1,244 @@
+{
+    "id": "RID001",
+    "core": "Established comprehensive research infrastructure across multiple disciplines, including wet biology labs, testing facilities, and integrated research platforms",
+    "dates": {
+        "start": "2015-09",
+        "end": "present"
+    },
+    "company": "Multiple (Harvard, Draper Lab, MIT Lincoln Lab)",
+    "variations": {
+        "lab_founder": {
+            "short": "Built research labs",
+            "medium": "Established research facilities",
+            "detailed": "Created comprehensive research facilities from ground up, including wet biology labs and testing platforms"
+        },
+        "infrastructure_lead": {
+            "short": "Developed research capabilities",
+            "medium": "Built research infrastructure",
+            "detailed": "Established complete research infrastructure including equipment, protocols, and supporting systems"
+        },
+        "facilities_manager": {
+            "short": "Managed research facilities",
+            "medium": "Directed facility development",
+            "detailed": "Led development and management of research facilities, ensuring optimal functionality and compliance"
+        },
+        "systems_architect": {
+            "short": "Designed research systems",
+            "medium": "Created research platforms",
+            "detailed": "Designed and implemented integrated research platforms enabling advanced experimental capabilities"
+        },
+        "operations_manager": {
+            "short": "Led research operations",
+            "medium": "Managed research activities",
+            "detailed": "Directed research operations across multiple facilities, optimizing resource utilization and efficiency"
+        },
+        "technical_lead": {
+            "short": "Led technical development",
+            "medium": "Directed infrastructure projects",
+            "detailed": "Led technical aspects of research infrastructure development, ensuring capability alignment with objectives"
+        },
+        "protocol_developer": {
+            "short": "Established protocols",
+            "medium": "Created research procedures",
+            "detailed": "Developed comprehensive research protocols and procedures ensuring reliable operation and compliance"
+        },
+        "integration_specialist": {
+            "short": "Integrated research systems",
+            "medium": "Led system integration",
+            "detailed": "Coordinated integration of multiple research systems and capabilities, enabling advanced research"
+        }
+    },
+    "metrics": [
+        {
+            "value": "100+",
+            "context": "experiments supported",
+            "verified": true,
+            "category": "scale",
+            "timeframe": "cumulative",
+            "impact_area": "research_output"
+        },
+        {
+            "value": "terabytes",
+            "context": "of research data generated",
+            "verified": true,
+            "category": "capacity",
+            "timeframe": "cumulative",
+            "impact_area": "data_generation"
+        },
+        {
+            "value": "5+",
+            "context": "research platforms established",
+            "verified": true,
+            "category": "infrastructure",
+            "timeframe": "cumulative",
+            "impact_area": "research_capabilities"
+        },
+        {
+            "value": "15+",
+            "context": "team members trained",
+            "verified": true,
+            "category": "training",
+            "timeframe": "cumulative",
+            "impact_area": "capability_development"
+        },
+        {
+            "value": "24/7",
+            "context": "facility availability maintained",
+            "verified": true,
+            "category": "operations",
+            "timeframe": "continuous",
+            "impact_area": "research_support"
+        },
+        {
+            "value": "multiple",
+            "context": "compliance standards met",
+            "verified": true,
+            "category": "compliance",
+            "timeframe": "continuous",
+            "impact_area": "regulatory_requirements"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "facilities",
+            "detail": "Research lab development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "protocols",
+            "detail": "Procedure development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "safety",
+            "detail": "Safety system implementation",
+            "proficiency": "expert"
+        },
+        {
+            "category": "integration",
+            "detail": "System integration",
+            "proficiency": "expert"
+        },
+        {
+            "category": "operations",
+            "detail": "Facility operations",
+            "proficiency": "expert"
+        },
+        {
+            "category": "compliance",
+            "detail": "Regulatory compliance",
+            "proficiency": "expert"
+        },
+        {
+            "category": "training",
+            "detail": "Personnel development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "maintenance",
+            "detail": "System maintenance",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Enabled advanced research",
+        "Enhanced experimental capabilities",
+        "Improved operational efficiency",
+        "Ensured regulatory compliance",
+        "Developed team capabilities",
+        "Established best practices",
+        "Created new research platforms",
+        "Optimized resource utilization",
+        "Advanced scientific knowledge",
+        "Built sustainable infrastructure"
+    ],
+    "skills": [
+        "Facility Development",
+        "Protocol Creation",
+        "System Integration",
+        "Safety Management",
+        "Team Training",
+        "Compliance Management",
+        "Operations Planning",
+        "Resource Optimization",
+        "Project Management",
+        "Technical Documentation",
+        "Risk Assessment",
+        "Quality Control"
+    ],
+    "tags": [
+        "Research",
+        "Infrastructure",
+        "Facilities",
+        "Operations",
+        "Protocols",
+        "Integration",
+        "Training",
+        "Compliance"
+    ],
+    "key_facilities": [
+        {
+            "name": "Wet Biology Lab",
+            "capabilities": "Cell culture, analysis",
+            "impact": "Enabled neuronal research"
+        },
+        {
+            "name": "Testing Platform",
+            "capabilities": "Automated testing",
+            "impact": "Enhanced throughput"
+        },
+        {
+            "name": "Integration Facility",
+            "capabilities": "System assembly",
+            "impact": "Improved efficiency"
+        }
+    ],
+    "research_protocols": [
+        {
+            "area": "Cell Culture",
+            "scope": "Biological research",
+            "status": "Implemented"
+        },
+        {
+            "area": "Safety Procedures",
+            "scope": "All operations",
+            "status": "Active"
+        },
+        {
+            "area": "Quality Control",
+            "scope": "Research outputs",
+            "status": "Maintained"
+        }
+    ],
+    "facility_capabilities": [
+        "Cell Culture",
+        "System Integration",
+        "Environmental Control",
+        "Safety Systems",
+        "Data Collection"
+    ],
+    "compliance_frameworks": [
+        "Laboratory Safety",
+        "Biological Materials",
+        "Hazardous Materials",
+        "Data Management",
+        "Quality Control"
+    ],
+    "resource_management": [
+        {
+            "type": "Equipment",
+            "strategy": "Preventive maintenance",
+            "impact": "Maximized uptime"
+        },
+        {
+            "type": "Personnel",
+            "strategy": "Ongoing training",
+            "impact": "Enhanced capabilities"
+        },
+        {
+            "type": "Materials",
+            "strategy": "Inventory control",
+            "impact": "Optimized usage"
+        }
+    ]
+}

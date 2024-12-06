@@ -1,0 +1,244 @@
+{
+    "id": "TPS001",
+    "core": "Established comprehensive technical standards and policies across multiple disciplines, including electrical design practices, environmental testing protocols, and quality control frameworks",
+    "dates": {
+        "start": "2011-12",
+        "end": "present"
+    },
+    "company": "Multiple (Draper Lab, Wood Group Mustang, Harvard)",
+    "variations": {
+        "standards_developer": {
+            "short": "Created technical standards",
+            "medium": "Developed engineering standards",
+            "detailed": "Established comprehensive technical standards and policies ensuring consistent quality and reliability across multiple domains"
+        },
+        "policy_architect": {
+            "short": "Developed technical policies",
+            "medium": "Created engineering policies",
+            "detailed": "Architected technical policies integrating best practices, compliance requirements, and operational efficiency considerations"
+        },
+        "quality_manager": {
+            "short": "Led quality initiatives",
+            "medium": "Managed quality frameworks",
+            "detailed": "Developed and implemented quality management systems ensuring consistent high standards in technical operations"
+        },
+        "compliance_lead": {
+            "short": "Led compliance efforts",
+            "medium": "Managed regulatory compliance",
+            "detailed": "Directed compliance initiatives across multiple technical domains, ensuring adherence to regulatory requirements"
+        },
+        "process_developer": {
+            "short": "Created technical processes",
+            "medium": "Established standard procedures",
+            "detailed": "Developed standardized processes and procedures for complex technical operations and testing"
+        },
+        "technical_lead": {
+            "short": "Led standards development",
+            "medium": "Directed technical standards",
+            "detailed": "Led development of technical standards and policies across multiple engineering disciplines"
+        },
+        "documentation_manager": {
+            "short": "Managed technical documentation",
+            "medium": "Led documentation initiatives",
+            "detailed": "Directed development and maintenance of comprehensive technical documentation systems"
+        },
+        "training_coordinator": {
+            "short": "Led standards training",
+            "medium": "Developed training programs",
+            "detailed": "Created and implemented training programs ensuring effective adoption of technical standards"
+        }
+    },
+    "metrics": [
+        {
+            "value": "500+",
+            "context": "employees using standards",
+            "verified": true,
+            "category": "adoption",
+            "timeframe": "continuous",
+            "impact_area": "organizational_reach"
+        },
+        {
+            "value": "15+",
+            "context": "engineers trained on protocols",
+            "verified": true,
+            "category": "training",
+            "timeframe": "cumulative",
+            "impact_area": "capability_development"
+        },
+        {
+            "value": "100%",
+            "context": "compliance achievement",
+            "verified": true,
+            "category": "compliance",
+            "timeframe": "continuous",
+            "impact_area": "regulatory_adherence"
+        },
+        {
+            "value": "30%",
+            "context": "reduction in technical issues",
+            "verified": true,
+            "category": "quality",
+            "timeframe": "comparative",
+            "impact_area": "operational_excellence"
+        },
+        {
+            "value": "3",
+            "context": "major frameworks established",
+            "verified": true,
+            "category": "development",
+            "timeframe": "cumulative",
+            "impact_area": "standards_implementation"
+        },
+        {
+            "value": "40%",
+            "context": "reduction in documentation time",
+            "verified": true,
+            "category": "efficiency",
+            "timeframe": "comparative",
+            "impact_area": "process_optimization"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "standards",
+            "detail": "Technical standards development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "policy",
+            "detail": "Policy framework creation",
+            "proficiency": "expert"
+        },
+        {
+            "category": "compliance",
+            "detail": "Regulatory compliance",
+            "proficiency": "expert"
+        },
+        {
+            "category": "quality",
+            "detail": "Quality systems",
+            "proficiency": "expert"
+        },
+        {
+            "category": "documentation",
+            "detail": "Technical documentation",
+            "proficiency": "expert"
+        },
+        {
+            "category": "training",
+            "detail": "Training development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "process",
+            "detail": "Process standardization",
+            "proficiency": "expert"
+        },
+        {
+            "category": "validation",
+            "detail": "Standards validation",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Enhanced operational consistency",
+        "Improved product quality",
+        "Ensured regulatory compliance",
+        "Reduced technical issues",
+        "Standardized processes",
+        "Enhanced team capabilities",
+        "Improved documentation",
+        "Optimized workflows",
+        "Reduced errors",
+        "Enhanced knowledge transfer"
+    ],
+    "skills": [
+        "Standards Development",
+        "Policy Creation",
+        "Compliance Management",
+        "Quality Systems",
+        "Technical Writing",
+        "Training Development",
+        "Process Optimization",
+        "Documentation Management",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Change Management",
+        "System Integration"
+    ],
+    "tags": [
+        "Standards",
+        "Policy",
+        "Quality",
+        "Compliance",
+        "Documentation",
+        "Training",
+        "Process",
+        "Technical"
+    ],
+    "key_frameworks": [
+        {
+            "name": "Electrical Design Standards",
+            "scope": "Company-wide",
+            "impact": "Enhanced design consistency"
+        },
+        {
+            "name": "Environmental Testing Protocols",
+            "scope": "Multiple products",
+            "impact": "Improved validation"
+        },
+        {
+            "name": "Quality Control Framework",
+            "scope": "All operations",
+            "impact": "Reduced defects"
+        }
+    ],
+    "standard_types": [
+        {
+            "category": "Design Practices",
+            "application": "Engineering",
+            "status": "Implemented"
+        },
+        {
+            "category": "Testing Protocols",
+            "application": "Validation",
+            "status": "Active"
+        },
+        {
+            "category": "Documentation Requirements",
+            "application": "All processes",
+            "status": "Maintained"
+        }
+    ],
+    "implementation_methods": [
+        "Staged Rollout",
+        "Training Programs",
+        "Documentation Systems",
+        "Compliance Monitoring",
+        "Continuous Improvement"
+    ],
+    "compliance_areas": [
+        "Safety Standards",
+        "Quality Requirements",
+        "Industry Regulations",
+        "Environmental Standards",
+        "Documentation Requirements"
+    ],
+    "knowledge_management": [
+        {
+            "system": "Technical Documentation",
+            "purpose": "Standards reference",
+            "users": "Engineering teams"
+        },
+        {
+            "system": "Training Materials",
+            "purpose": "Capability development",
+            "users": "New employees"
+        },
+        {
+            "system": "Process Guidelines",
+            "purpose": "Operational consistency",
+            "users": "All staff"
+        }
+    ]
+}

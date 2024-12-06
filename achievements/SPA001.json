@@ -1,0 +1,245 @@
+{
+    "id": "SPA001",
+    "core": "Developed sophisticated signal processing and analysis systems across multiple domains, implementing advanced algorithms for data processing, image analysis, and pattern recognition",
+    "dates": {
+        "start": "2015-09",
+        "end": "present"
+    },
+    "company": "Multiple (Draper Lab, Harvard, MIT Lincoln Lab)",
+    "variations": {
+        "signal_processing_engineer": {
+            "short": "Developed signal processing systems",
+            "medium": "Created advanced signal analysis solutions",
+            "detailed": "Engineered sophisticated signal processing systems incorporating advanced algorithms and real-time analysis capabilities"
+        },
+        "data_scientist": {
+            "short": "Built data pipelines",
+            "medium": "Developed data processing systems",
+            "detailed": "Created comprehensive data processing pipelines enabling automated analysis of large-scale experimental data"
+        },
+        "image_processing_specialist": {
+            "short": "Led image analysis",
+            "medium": "Developed image processing systems",
+            "detailed": "Engineered advanced image processing systems enabling automated analysis and object detection in complex scenarios"
+        },
+        "algorithm_developer": {
+            "short": "Created analysis algorithms",
+            "medium": "Developed processing algorithms",
+            "detailed": "Designed and implemented sophisticated algorithms for signal processing and pattern recognition applications"
+        },
+        "systems_analyst": {
+            "short": "Led systems analysis",
+            "medium": "Developed analysis frameworks",
+            "detailed": "Created comprehensive analysis frameworks for complex system characterization and optimization"
+        },
+        "automation_engineer": {
+            "short": "Automated analysis processes",
+            "medium": "Developed automated analysis",
+            "detailed": "Engineered automated analysis systems enabling continuous processing of complex data streams"
+        },
+        "research_scientist": {
+            "short": "Advanced analysis methods",
+            "medium": "Developed novel analysis techniques",
+            "detailed": "Created innovative approaches to signal processing and analysis, advancing capabilities in multiple domains"
+        },
+        "integration_specialist": {
+            "short": "Integrated analysis systems",
+            "medium": "Led analysis system integration",
+            "detailed": "Coordinated integration of multiple analysis systems and data sources, enabling comprehensive insights"
+        }
+    },
+    "metrics": [
+        {
+            "value": "10x",
+            "context": "increase in analysis throughput",
+            "verified": true,
+            "category": "efficiency",
+            "timeframe": "comparative",
+            "impact_area": "processing_speed"
+        },
+        {
+            "value": "terabytes",
+            "context": "of data processed",
+            "verified": true,
+            "category": "scale",
+            "timeframe": "cumulative",
+            "impact_area": "data_volume"
+        },
+        {
+            "value": "3D",
+            "context": "tracking capability implemented",
+            "verified": true,
+            "category": "functionality",
+            "timeframe": "continuous",
+            "impact_area": "analysis_capability"
+        },
+        {
+            "value": "sub-µm",
+            "context": "precision in object detection",
+            "verified": true,
+            "category": "accuracy",
+            "timeframe": "continuous",
+            "impact_area": "measurement_precision"
+        },
+        {
+            "value": "4+",
+            "context": "hours saved per analysis cycle",
+            "verified": true,
+            "category": "efficiency",
+            "timeframe": "per cycle",
+            "impact_area": "time_savings"
+        },
+        {
+            "value": "99.9%",
+            "context": "accuracy in pattern recognition",
+            "verified": true,
+            "category": "performance",
+            "timeframe": "continuous",
+            "impact_area": "detection_reliability"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "processing",
+            "detail": "Signal processing algorithms",
+            "proficiency": "expert"
+        },
+        {
+            "category": "imaging",
+            "detail": "Image analysis systems",
+            "proficiency": "expert"
+        },
+        {
+            "category": "data",
+            "detail": "Data pipeline development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "automation",
+            "detail": "Automated analysis",
+            "proficiency": "expert"
+        },
+        {
+            "category": "algorithms",
+            "detail": "Pattern recognition",
+            "proficiency": "expert"
+        },
+        {
+            "category": "integration",
+            "detail": "System integration",
+            "proficiency": "expert"
+        },
+        {
+            "category": "optimization",
+            "detail": "Performance optimization",
+            "proficiency": "expert"
+        },
+        {
+            "category": "validation",
+            "detail": "Analysis validation",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Accelerated data analysis",
+        "Enabled new capabilities",
+        "Improved measurement accuracy",
+        "Automated complex processes",
+        "Enhanced research efficiency",
+        "Advanced analysis methods",
+        "Reduced manual effort",
+        "Improved decision making",
+        "Enabled real-time analysis",
+        "Created scalable solutions"
+    ],
+    "skills": [
+        "Signal Processing",
+        "Image Analysis",
+        "Algorithm Development",
+        "Data Pipeline Design",
+        "Pattern Recognition",
+        "System Integration",
+        "Performance Optimization",
+        "Technical Documentation",
+        "Project Management",
+        "Programming",
+        "Statistical Analysis",
+        "Machine Learning"
+    ],
+    "tags": [
+        "Signal Processing",
+        "Data Analysis",
+        "Automation",
+        "Algorithms",
+        "Integration",
+        "Image Processing",
+        "Pattern Recognition",
+        "Research"
+    ],
+    "key_systems": [
+        {
+            "name": "3D Particle Tracking",
+            "capability": "Automated trajectory analysis",
+            "impact": "10x throughput increase"
+        },
+        {
+            "name": "Cell Morphology Analysis",
+            "capability": "Automated size quantification",
+            "impact": "Enhanced research capabilities"
+        },
+        {
+            "name": "Feature Detection System",
+            "capability": "Sub-micron precision",
+            "impact": "Improved measurement accuracy"
+        }
+    ],
+    "analysis_tools": [
+        "Python Scientific Stack",
+        "Image Processing Libraries",
+        "Custom Analysis Algorithms",
+        "Data Processing Pipelines",
+        "Visualization Tools"
+    ],
+    "data_types": [
+        {
+            "category": "Image Data",
+            "sources": "Microscopy, Photography",
+            "processing": "Feature detection"
+        },
+        {
+            "category": "Time Series",
+            "sources": "Sensors, Measurements",
+            "processing": "Pattern analysis"
+        },
+        {
+            "category": "Experimental Data",
+            "sources": "Multiple instruments",
+            "processing": "Statistical analysis"
+        }
+    ],
+    "processing_capabilities": [
+        "Real-time Analysis",
+        "Batch Processing",
+        "Automated Detection",
+        "Pattern Recognition",
+        "Statistical Analysis",
+        "Data Visualization"
+    ],
+    "algorithms_developed": [
+        {
+            "type": "Feature Matching",
+            "application": "Object detection",
+            "performance": "Sub-micron accuracy"
+        },
+        {
+            "type": "3D Reconstruction",
+            "application": "Trajectory analysis",
+            "performance": "Real-time processing"
+        },
+        {
+            "type": "Pattern Recognition",
+            "application": "Cell analysis",
+            "performance": "99.9% accuracy"
+        }
+    ]
+}

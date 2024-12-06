@@ -1,0 +1,1636 @@
+{
+    "id": "AI001",
+    "core": "Engineered AI-powered brand analysis automation system",
+    "dates": {
+      "start": "2023-09",
+      "end": "2024-03"
+    },
+    "company": "Elementsist",
+    "variations": {
+      "technical_ic": {
+        "short": "Built AI-integrated SaaS platform",
+        "medium": "Developed full-stack application with OpenAI integration for automated brand analysis",
+        "detailed": "Architected React/TypeScript application integrating OpenAI Assistant API, implementing complex state management and secure PDF generation"
+      },
+      "ai_specialist": {
+        "short": "Implemented AI-powered brand analysis",
+        "medium": "Developed AI system for automated brand consultation and report generation",
+        "detailed": "Created sophisticated AI integration system using OpenAI Assistant API for dynamic interviews and personalized report generation, reducing consultation time by 8+ hours"
+      },
+      "technical_lead": {
+        "short": "Led AI-assisted development project",
+        "medium": "Led development combining traditional and AI-assisted methodologies",
+        "detailed": "Pioneered AI-assisted development workflow, reducing development time by orders of magnitude while maintaining code quality and security"
+      },
+      "product_manager": {
+        "short": "Launched automated brand analysis product",
+        "medium": "Delivered SaaS platform automating brand consultation process",
+        "detailed": "Transformed 8-hour consultation process into automated system with enterprise-grade security and third-party platform integration"
+      }
+    },
+    "metrics": [
+      {
+        "value": "8+",
+        "context": "hours of manual work automated",
+        "verified": true
+      },
+      {
+        "value": "70%+",
+        "context": "development time reduction",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "React 18/TypeScript frontend",
+      "Firebase authentication/storage",
+      "OpenAI Assistant API integration",
+      "PDF generation system",
+      "Cross-origin iframe embedding",
+      "State persistence system",
+      "Vercel deployment"
+    ],
+    "impact": [
+      "Automated brand consultation process",
+      "Enabled scalable service delivery",
+      "Created embeddable solution",
+      "Implemented enterprise security",
+      "Pioneered AI-assisted development"
+    ],
+    "skills": [
+      "Full-Stack Development",
+      "AI Integration",
+      "Security Implementation",
+      "State Management",
+      "Cloud Architecture",
+      "Development Innovation"
+    ],
+    "tags": [
+      "AI/ML",
+      "SaaS",
+      "Full-Stack",
+      "Innovation",
+      "Automation"
+    ]
+  }
+
+  {
+    "id": "AI002",
+    "core": "Developed and evaluated prompts for RLHF model training",
+    "dates": {
+      "start": "2024-02",
+      "end": "2024-04"
+    },
+    "company": "Scale AI via Outlier",
+    "variations": {
+      "ai_researcher": {
+        "short": "Created prompts for RLHF training",
+        "medium": "Developed sophisticated prompts for AI model improvement",
+        "detailed": "Created complex math and physics-based prompts designed to identify and improve model reasoning capabilities"
+      },
+      "ml_engineer": {
+        "short": "Developed model evaluation prompts",
+        "medium": "Engineered prompts to test model limitations",
+        "detailed": "Engineered sophisticated prompt sequences to identify edge cases and limitations in model reasoning abilities"
+      },
+      "quality_engineer": {
+        "short": "Conducted AI model audits",
+        "medium": "Performed systematic model behavior audits",
+        "detailed": "Conducted regular audits ensuring prompt appropriateness and testing for model bias across various domains"
+      },
+      "technical_lead": {
+        "short": "Led RLHF prompt development",
+        "medium": "Directed development of RLHF training materials",
+        "detailed": "Led development of comprehensive prompt sets combining technical depth with systematic evaluation methods"
+      }
+    },
+    "metrics": [
+      {
+        "value": "multiple",
+        "context": "successful model challenges created",
+        "verified": true
+      },
+      {
+        "value": "regular",
+        "context": "audit frequency",
+        "verified": true
+      },
+      {
+        "value": "diverse",
+        "context": "domain coverage",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "RLHF methodology",
+      "Prompt engineering",
+      "Mathematical reasoning tests",
+      "Physics-based scenarios",
+      "Bias detection",
+      "Model behavior analysis",
+      "Quality assurance protocols",
+      "Performance evaluation metrics"
+    ],
+    "impact": [
+      "Improved model training",
+      "Enhanced reasoning capabilities",
+      "Identified model limitations",
+      "Ensured unbiased responses",
+      "Advanced RLHF methodologies",
+      "Strengthened model evaluation"
+    ],
+    "skills": [
+      "Prompt Engineering",
+      "AI Model Evaluation",
+      "Quality Assurance",
+      "Technical Writing",
+      "Model Behavior Analysis",
+      "Mathematical Reasoning"
+    ],
+    "tags": [
+      "AI/ML",
+      "Quality",
+      "Research",
+      "Model Training",
+      "Technical Writing"
+    ]
+  }
+
+  {
+    "id": "AI003",
+    "core": "Developed AI/ML applications across diverse business domains",
+    "dates": {
+      "start": "2023-09",
+      "end": "2024-04"
+    },
+    "company": "Elementsist",
+    "variations": {
+      "ai_engineer": {
+        "short": "Implemented diverse AI solutions",
+        "medium": "Developed varied AI applications for business use",
+        "detailed": "Created and implemented AI solutions across multiple domains including legal, marketing, research, and business strategy"
+      },
+      "technical_lead": {
+        "short": "Led AI implementation projects",
+        "medium": "Directed development of AI-powered solutions",
+        "detailed": "Led development of AI applications spanning text analysis, content generation, and decision support systems"
+      },
+      "consultant": {
+        "short": "Provided AI solution consulting",
+        "medium": "Delivered AI-powered business solutions",
+        "detailed": "Consulted on AI implementation strategies across diverse business needs, from legal compliance to marketing optimization"
+      },
+      "product_manager": {
+        "short": "Managed AI product development",
+        "medium": "Oversaw AI solution implementation",
+        "detailed": "Managed development and deployment of AI-powered tools for various business applications and client needs"
+      }
+    },
+    "metrics": [
+      {
+        "value": "multiple",
+        "context": "domains served (legal, marketing, research)",
+        "verified": true
+      },
+      {
+        "value": "diverse",
+        "context": "AI tools integrated",
+        "verified": true
+      },
+      {
+        "value": "numerous",
+        "context": "successful implementations",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "LLM integration",
+      "Text generation",
+      "Image generation",
+      "Video content creation",
+      "Legal document analysis",
+      "Market research automation",
+      "Content optimization",
+      "Strategy development tools",
+      "Brand analysis systems"
+    ],
+    "impact": [
+      "Streamlined business processes",
+      "Enhanced decision making",
+      "Automated routine tasks",
+      "Improved content quality",
+      "Accelerated research",
+      "Optimized operations"
+    ],
+    "skills": [
+      "AI Implementation",
+      "Solution Architecture",
+      "Business Analysis",
+      "Technical Integration",
+      "Project Management",
+      "Strategic Planning"
+    ],
+    "tags": [
+      "AI/ML",
+      "Business",
+      "Consulting",
+      "Innovation",
+      "Strategy"
+    ]
+  }
+
+  {
+    "id": "AI004",
+    "core": "Created AI-assisted development workflow for technical projects",
+    "dates": {
+      "start": "2023-10",
+      "end": "2024-04"
+    },
+    "company": "Elementsist",
+    "variations": {
+      "ai_engineer": {
+        "short": "Developed AI-assisted coding workflow",
+        "medium": "Pioneered AI-assisted development methodology",
+        "detailed": "Established innovative development workflow combining traditional programming with AI assistance, significantly reducing development time"
+      },
+      "technical_lead": {
+        "short": "Led AI-assisted development",
+        "medium": "Led implementation of AI-powered development process",
+        "detailed": "Directed implementation of AI-assisted development practices, maintaining code quality while dramatically improving efficiency"
+      },
+      "devops_engineer": {
+        "short": "Optimized development pipeline",
+        "medium": "Integrated AI tools into development workflow",
+        "detailed": "Created efficient development pipeline incorporating AI tools for code generation, optimization, and testing"
+      },
+      "innovation_lead": {
+        "short": "Innovated development practices",
+        "medium": "Pioneered AI-augmented development methods",
+        "detailed": "Established new paradigm for technical development by effectively integrating AI assistance into traditional workflows"
+      }
+    },
+    "metrics": [
+      {
+        "value": "orders of magnitude",
+        "context": "reduction in development time",
+        "verified": true
+      },
+      {
+        "value": "maintained",
+        "context": "code quality standards",
+        "verified": true
+      },
+      {
+        "value": "multiple",
+        "context": "AI tools integrated",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "AI pair programming",
+      "Code optimization",
+      "TypeScript implementation",
+      "Configuration management",
+      "Testing strategies",
+      "Documentation generation",
+      "Error handling",
+      "Security implementation",
+      "Cross-origin solutions"
+    ],
+    "impact": [
+      "Accelerated development cycles",
+      "Maintained code quality",
+      "Improved documentation",
+      "Enhanced testing coverage",
+      "Streamlined configurations",
+      "Enabled rapid prototyping"
+    ],
+    "skills": [
+      "AI Integration",
+      "Development Methodology",
+      "Process Innovation",
+      "Technical Leadership",
+      "Quality Assurance",
+      "System Architecture"
+    ],
+    "tags": [
+      "AI/ML",
+      "Innovation",
+      "Development",
+      "Process Improvement",
+      "Technical Leadership"
+    ]
+  }
+
+  {
+    "id": "AI005",
+    "core": "Implemented large language models for business process automation",
+    "dates": {
+      "start": "2023-11",
+      "end": "2024-04"
+    },
+    "company": "Elementsist",
+    "variations": {
+      "ai_engineer": {
+        "short": "Built LLM business solutions",
+        "medium": "Developed LLM-powered business automation",
+        "detailed": "Engineered LLM implementations for automating complex business processes across multiple domains"
+      },
+      "solution_architect": {
+        "short": "Architected LLM solutions",
+        "medium": "Designed integrated LLM business systems",
+        "detailed": "Architected comprehensive LLM-based solutions for legal analysis, market research, and strategic planning"
+      },
+      "technical_lead": {
+        "short": "Led LLM implementation",
+        "medium": "Directed LLM integration projects",
+        "detailed": "Led development of LLM-powered systems, coordinating between business requirements and technical implementation"
+      },
+      "business_analyst": {
+        "short": "Optimized business processes",
+        "medium": "Enhanced operations through LLM integration",
+        "detailed": "Analyzed and optimized business workflows through strategic implementation of language models"
+      }
+    },
+    "metrics": [
+      {
+        "value": "multiple",
+        "context": "business processes automated",
+        "verified": true
+      },
+      {
+        "value": "significant",
+        "context": "efficiency improvements",
+        "verified": true
+      },
+      {
+        "value": "diverse",
+        "context": "use cases implemented",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "OpenAI API integration",
+      "Custom prompt engineering",
+      "Response parsing",
+      "Error handling",
+      "Context management",
+      "System prompts",
+      "Output validation",
+      "Cost optimization",
+      "Performance monitoring"
+    ],
+    "impact": [
+      "Automated complex tasks",
+      "Reduced processing time",
+      "Improved accuracy",
+      "Enhanced scalability",
+      "Enabled new capabilities",
+      "Optimized resource usage"
+    ],
+    "skills": [
+      "LLM Integration",
+      "Process Automation",
+      "System Architecture",
+      "Business Analysis",
+      "API Development",
+      "Solution Design"
+    ],
+    "tags": [
+      "AI/ML",
+      "Automation",
+      "Business",
+      "Integration",
+      "Innovation"
+    ]
+  }
+
+  {
+    "id": "AI006",
+    "core": "Developed AI-powered content generation and optimization systems",
+    "dates": {
+      "start": "2023-08",
+      "end": "2024-04"
+    },
+    "company": "Elementsist",
+    "variations": {
+      "ai_engineer": {
+        "short": "Built AI content systems",
+        "medium": "Developed AI content generation platform",
+        "detailed": "Engineered comprehensive AI system for generating and optimizing multi-modal content across platforms"
+      },
+      "content_strategist": {
+        "short": "Created AI content strategy",
+        "medium": "Implemented AI-driven content optimization",
+        "detailed": "Developed strategic approach to content creation combining AI generation with human expertise"
+      },
+      "technical_lead": {
+        "short": "Led AI content development",
+        "medium": "Directed AI content system implementation",
+        "detailed": "Led development of integrated AI content generation and optimization platform across multiple media types"
+      },
+      "product_manager": {
+        "short": "Managed AI content product",
+        "medium": "Oversaw AI content platform development",
+        "detailed": "Managed development of AI-powered content platform, balancing technical capabilities with business needs"
+      }
+    },
+    "metrics": [
+      {
+        "value": "multiple",
+        "context": "content types supported (text, image, video)",
+        "verified": true
+      },
+      {
+        "value": "various",
+        "context": "platforms integrated",
+        "verified": true
+      },
+      {
+        "value": "significant",
+        "context": "reduction in content creation time",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Multi-modal AI integration",
+      "Content optimization algorithms",
+      "Platform-specific formatting",
+      "Quality validation systems",
+      "Automated workflows",
+      "Performance analytics",
+      "Style consistency checks",
+      "Content distribution",
+      "Version control"
+    ],
+    "impact": [
+      "Accelerated content creation",
+      "Improved content quality",
+      "Enhanced consistency",
+      "Enabled scalability",
+      "Optimized workflows",
+      "Increased engagement"
+    ],
+    "skills": [
+      "AI Implementation",
+      "Content Strategy",
+      "System Integration",
+      "Quality Assurance",
+      "Process Automation",
+      "Platform Development"
+    ],
+    "tags": [
+      "AI/ML",
+      "Content",
+      "Automation",
+      "Strategy",
+      "Innovation"
+    ]
+  }
+
+  {
+    "id": "AI007",
+    "core": "Developed AI-powered research and analysis automation system",
+    "dates": {
+      "start": "2023-09",
+      "end": "2024-03"
+    },
+    "company": "Elementsist",
+    "variations": {
+      "data_scientist": {
+        "short": "Built AI research automation",
+        "medium": "Developed AI-powered research platform",
+        "detailed": "Engineered comprehensive AI system for automating complex research and analysis tasks across multiple domains"
+      },
+      "research_engineer": {
+        "short": "Created research automation tools",
+        "medium": "Implemented AI research assistance system",
+        "detailed": "Developed sophisticated AI tools for accelerating research processes, including literature review and data analysis"
+      },
+      "technical_lead": {
+        "short": "Led AI research tool development",
+        "medium": "Directed development of AI research platform",
+        "detailed": "Led implementation of AI-powered research automation system, integrating multiple models for comprehensive analysis"
+      },
+      "solution_architect": {
+        "short": "Architected research AI system",
+        "medium": "Designed AI-powered research platform",
+        "detailed": "Architected scalable AI system for automating various aspects of research and analysis workflows"
+      }
+    },
+    "metrics": [
+      {
+        "value": "multiple",
+        "context": "research domains automated",
+        "verified": true
+      },
+      {
+        "value": "significant",
+        "context": "reduction in research time",
+        "verified": true
+      },
+      {
+        "value": "various",
+        "context": "AI models integrated",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Research automation workflows",
+      "Literature analysis tools",
+      "Data synthesis algorithms",
+      "Multi-model integration",
+      "Natural language processing",
+      "Information extraction",
+      "Pattern recognition",
+      "Automated summarization",
+      "Insight generation"
+    ],
+    "impact": [
+      "Accelerated research processes",
+      "Enhanced analysis depth",
+      "Improved insight generation",
+      "Enabled scalable research",
+      "Reduced manual effort",
+      "Standardized analysis"
+    ],
+    "skills": [
+      "AI Integration",
+      "Research Automation",
+      "System Architecture",
+      "Data Analysis",
+      "Process Optimization",
+      "Technical Leadership"
+    ],
+    "tags": [
+      "AI/ML",
+      "Research",
+      "Automation",
+      "Analysis",
+      "Innovation"
+    ]
+  }
+
+  {
+    "id": "AI008",
+    "core": "Implemented AI-assisted competitor and market analysis system",
+    "dates": {
+      "start": "2023-10",
+      "end": "2024-02"
+    },
+    "company": "Elementsist",
+    "variations": {
+      "ai_engineer": {
+        "short": "Built market analysis AI",
+        "medium": "Developed AI market intelligence system",
+        "detailed": "Engineered AI-powered system for automated competitor analysis and market intelligence gathering"
+      },
+      "strategy_analyst": {
+        "short": "Created AI market analysis",
+        "medium": "Implemented AI competitive analysis",
+        "detailed": "Developed comprehensive market analysis system combining AI tools with strategic frameworks"
+      },
+      "technical_lead": {
+        "short": "Led market intelligence AI",
+        "medium": "Directed AI market analysis development",
+        "detailed": "Led development of AI-powered market intelligence platform, integrating multiple data sources and analysis tools"
+      },
+      "business_analyst": {
+        "short": "Automated market research",
+        "medium": "Created AI-driven market insights",
+        "detailed": "Implemented automated system for generating market insights and competitive intelligence using AI"
+      }
+    },
+    "metrics": [
+      {
+        "value": "multiple",
+        "context": "markets analyzed",
+        "verified": true
+      },
+      {
+        "value": "automated",
+        "context": "competitor tracking",
+        "verified": true
+      },
+      {
+        "value": "comprehensive",
+        "context": "market coverage achieved",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Web scraping integration",
+      "NLP for market analysis",
+      "Competitor tracking algorithms",
+      "Trend identification",
+      "Automated reporting",
+      "Data visualization",
+      "Pattern recognition",
+      "Strategic framework integration",
+      "Real-time monitoring"
+    ],
+    "impact": [
+      "Enhanced market understanding",
+      "Accelerated research process",
+      "Improved decision making",
+      "Enabled proactive strategy",
+      "Reduced analysis time",
+      "Standardized reporting"
+    ],
+    "skills": [
+      "Market Analysis",
+      "AI Implementation",
+      "Data Integration",
+      "Strategic Planning",
+      "System Architecture",
+      "Process Automation"
+    ],
+    "tags": [
+      "AI/ML",
+      "Business",
+      "Analysis",
+      "Strategy",
+      "Automation"
+    ]
+  }
+
+  {
+    "id": "BIO001",
+    "core": "Developed automated microfluidic system for cell therapy manufacturing",
+    "dates": {
+      "start": "2021-03",
+      "end": "2023-08"
+    },
+    "company": "Draper Lab",
+    "variations": {
+      "technical_ic": {
+        "short": "Automated cell processing system",
+        "medium": "Developed automated microfluidic system for cell manipulation",
+        "detailed": "Engineered automated acousto-fluidic device for precise cell manipulation in immunotherapy manufacturing process"
+      },
+      "research": {
+        "short": "Advanced microfluidic cell processing",
+        "medium": "Developed novel approach to automated cell manipulation",
+        "detailed": "Pioneered acoustic-based microfluidic system for efficient cell processing, combining multiphysics modeling with experimental validation"
+      },
+      "systems_engineer": {
+        "short": "Integrated bioprocessing system",
+        "medium": "Optimized complex bioprocessing system integration",
+        "detailed": "Led system integration of acoustic, fluidic, and control components for automated cell therapy manufacturing"
+      },
+      "project_lead": {
+        "short": "Led biomanufacturing automation",
+        "medium": "Directed development of automated cell processing system",
+        "detailed": "Led cross-functional development of automated cell processing system, coordinating between biology, engineering, and manufacturing teams"
+      }
+    },
+    "metrics": [
+      {
+        "value": "3x",
+        "context": "reduction in system size",
+        "verified": true
+      },
+      {
+        "value": "significant",
+        "context": "RF power optimization",
+        "verified": true
+      },
+      {
+        "value": "multiple",
+        "context": "cell types processed",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Multiphysics modeling (acoustic, fluid, thermal)",
+      "Automated calibration system",
+      "RF power delivery optimization",
+      "Impedance matching network",
+      "Computer vision integration",
+      "3D particle tracking",
+      "Process parameter optimization",
+      "System size reduction",
+      "Integration with existing workflow"
+    ],
+    "impact": [
+      "Enabled efficient cell therapy manufacturing",
+      "Reduced system footprint",
+      "Improved process reliability",
+      "Enhanced user experience",
+      "Integrated with commercial platform",
+      "Validated through experiments"
+    ],
+    "skills": [
+      "Multiphysics Modeling",
+      "System Integration",
+      "Process Automation",
+      "Computer Vision",
+      "RF Engineering",
+      "Microfluidics",
+      "Experimental Design",
+      "Cross-functional Leadership"
+    ],
+    "tags": [
+      "Biotech",
+      "Automation",
+      "Hardware",
+      "Software",
+      "Research",
+      "Manufacturing"
+    ]
+  }
+
+  {
+    "id": "BIO002",
+    "core": "Invented neuroelectronic interface system leading to biotech startup",
+    "dates": {
+      "start": "2015-09",
+      "end": "2019-07"
+    },
+    "company": "Harvard University",
+    "variations": {
+      "research_scientist": {
+        "short": "Developed neuroelectronic interface",
+        "medium": "Invented novel neuroelectronic interface system",
+        "detailed": "Invented process for fabricating nanopipette electrode arrays on CMOS chip, enabling high-throughput cellular analysis"
+      },
+      "technical_lead": {
+        "short": "Led neurotech development",
+        "medium": "Led development of commercial neurotech platform",
+        "detailed": "Led development of neuroelectronic interface technology from concept through commercialization via startup spinout"
+      },
+      "biotech_engineer": {
+        "short": "Engineered cell analysis platform",
+        "medium": "Developed integrated cellular analysis platform",
+        "detailed": "Created scalable platform for analyzing cellular networks, combining CMOS technology with novel electrode fabrication"
+      },
+      "startup_founder": {
+        "short": "Developed tech for biotech startup",
+        "medium": "Created foundational technology for CytoTronics startup",
+        "detailed": "Invented core technology and manufacturing process leading to successful biotech startup CytoTronics"
+      }
+    },
+    "metrics": [
+      {
+        "value": "5x",
+        "context": "improvement in system lifetime",
+        "verified": true
+      },
+      {
+        "value": "100+",
+        "context": "experiments conducted",
+        "verified": true
+      },
+      {
+        "value": "terabytes",
+        "context": "of data analyzed",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Nanopipette electrode fabrication",
+      "CMOS integration",
+      "Biocompatible manufacturing",
+      "System packaging design",
+      "Cell culture protocols",
+      "Data acquisition systems",
+      "Analysis pipelines",
+      "Experimental validation"
+    ],
+    "impact": [
+      "Led to startup formation",
+      "Advanced neuroscience tools",
+      "Enabled high-throughput analysis",
+      "Created scalable platform",
+      "Improved device reliability",
+      "Established new methodology"
+    ],
+    "skills": [
+      "Microfabrication",
+      "CMOS Integration",
+      "Biotech Development",
+      "Experimental Design",
+      "Data Analysis",
+      "Process Development"
+    ],
+    "tags": [
+      "Biotech",
+      "Hardware",
+      "Research",
+      "Startup",
+      "Innovation"
+    ]
+  }
+
+  {
+    "id": "BIO003",
+    "core": "Developed high-throughput microfluidic system for cell aging studies",
+    "dates": {
+      "start": "2013-08",
+      "end": "2015-05"
+    },
+    "company": "Texas A&M NanoBio Systems Lab",
+    "variations": {
+      "research_scientist": {
+        "short": "Developed microfluidic aging system",
+        "medium": "Created microfluidic platform for aging studies",
+        "detailed": "Designed and implemented microfluidic system for studying cellular aging, incorporating automated analysis and high-throughput processing"
+      },
+      "technical_ic": {
+        "short": "Built automated cell analysis system",
+        "medium": "Developed automated cell morphology analysis platform",
+        "detailed": "Engineered comprehensive system combining microfluidic device fabrication with automated cell analysis software"
+      },
+      "automation_engineer": {
+        "short": "Automated cell analysis workflow",
+        "medium": "Created automated cellular analysis pipeline",
+        "detailed": "Developed automated analysis software that increased experimental throughput by 10x for cell aging studies"
+      },
+      "project_lead": {
+        "short": "Led aging research platform development",
+        "medium": "Managed development of cell aging research tools",
+        "detailed": "Planned and executed multi-year project to build comprehensive tool for studying cell aging"
+      }
+    },
+    "metrics": [
+      {
+        "value": "10x",
+        "context": "increase in experimental throughput",
+        "verified": true
+      },
+      {
+        "value": "100+",
+        "context": "microfluidic devices fabricated",
+        "verified": true
+      },
+      {
+        "value": "multiple",
+        "context": "customer requirements met",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Microfluidic device design",
+      "Clean room fabrication",
+      "Computer vision algorithms",
+      "Automated image analysis",
+      "Cell morphology quantification",
+      "Process optimization",
+      "Data pipeline development",
+      "User interface creation"
+    ],
+    "impact": [
+      "Accelerated aging research",
+      "Enabled high-throughput studies",
+      "Improved experimental accuracy",
+      "Reduced manual analysis time",
+      "Created reusable platform",
+      "Met research milestones"
+    ],
+    "skills": [
+      "Microfluidics",
+      "Device Fabrication",
+      "Image Analysis",
+      "Process Automation",
+      "Software Development",
+      "Project Management"
+    ],
+    "tags": [
+      "Biotech",
+      "Automation",
+      "Research",
+      "Software",
+      "Hardware"
+    ]
+  }
+
+  {
+    "id": "CMOS001",
+    "core": "Developed integrated CMOS-microfluidic platform for protein analysis",
+    "dates": {
+      "start": "2012-08",
+      "end": "2015-05"
+    },
+    "company": "Texas A&M Analog & Mixed Signal Center",
+    "variations": {
+      "research_scientist": {
+        "short": "Integrated CMOS-microfluidic system",
+        "medium": "Developed integrated system for protein studies",
+        "detailed": "Created novel integration of microfluidics with CMOS technology for advanced protein interaction studies"
+      },
+      "hardware_engineer": {
+        "short": "Built CMOS-based biosensor",
+        "medium": "Engineered integrated CMOS biosensor system",
+        "detailed": "Led hardware integration of microfluidic systems with CMOS electronics for protein analysis platform"
+      },
+      "software_engineer": {
+        "short": "Automated chip testing",
+        "medium": "Developed automated chip testing system",
+        "detailed": "Created automated testing software for chip-to-chip interconnects, enabling high-throughput validation"
+      },
+      "systems_engineer": {
+        "short": "Integrated biosensor system",
+        "medium": "Led biosensor system integration",
+        "detailed": "Led complex integration of liquid handling systems with electronic sensors for protein analysis"
+      }
+    },
+    "metrics": [
+      {
+        "value": "multiple",
+        "context": "protein interactions studied",
+        "verified": true
+      },
+      {
+        "value": "automated",
+        "context": "testing process",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "CMOS-microfluidic integration",
+      "Protein interaction sensing",
+      "Automated test software",
+      "Chip-to-chip interconnects",
+      "System packaging",
+      "Test automation",
+      "Data acquisition",
+      "Performance validation"
+    ],
+    "impact": [
+      "Enabled protein interaction studies",
+      "Automated testing processes",
+      "Improved system reliability",
+      "Advanced integration methods",
+      "Enhanced research capabilities",
+      "Streamlined validation"
+    ],
+    "skills": [
+      "CMOS Integration",
+      "Microfluidics",
+      "Test Automation",
+      "System Integration",
+      "Software Development",
+      "Hardware Design"
+    ],
+    "tags": [
+      "Hardware",
+      "Software",
+      "Research",
+      "Integration",
+      "Biotech"
+    ]
+  }
+
+  {
+    "id": "CV001",
+    "core": "Developed 3D particle tracking system using computer vision",
+    "dates": {
+      "start": "2022-03",
+      "end": "2023-06"
+    },
+    "company": "Draper Lab",
+    "variations": {
+      "computer_vision_engineer": {
+        "short": "Built 3D tracking system",
+        "medium": "Developed vision-based 3D tracking system",
+        "detailed": "Engineered computer vision system for automated 3D tracking of blood cells and nanoparticles in microfluidic devices"
+      },
+      "ml_engineer": {
+        "short": "Created ML tracking algorithm",
+        "medium": "Implemented ML-based particle tracking",
+        "detailed": "Developed machine learning algorithm to translate 2D microscope images into accurate 3D trajectories"
+      },
+      "research_engineer": {
+        "short": "Developed particle analysis system",
+        "medium": "Created automated particle tracking platform",
+        "detailed": "Created comprehensive system for analyzing particle behavior in acoustic fields using computer vision and machine learning"
+      },
+      "technical_lead": {
+        "short": "Led vision system development",
+        "medium": "Directed 3D tracking system creation",
+        "detailed": "Led development of automated vision system for quantifying acoustic forces through particle tracking"
+      }
+    },
+    "metrics": [
+      {
+        "value": "3D",
+        "context": "trajectory reconstruction from 2D images",
+        "verified": true
+      },
+      {
+        "value": "multiple",
+        "context": "particle types tracked simultaneously",
+        "verified": true
+      },
+      {
+        "value": "automated",
+        "context": "analysis pipeline",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Computer vision algorithms",
+      "3D reconstruction techniques",
+      "Machine learning integration",
+      "Real-time tracking",
+      "Multi-particle detection",
+      "Trajectory analysis",
+      "Performance optimization",
+      "Data visualization",
+      "Automated calibration"
+    ],
+    "impact": [
+      "Enabled acoustic force measurement",
+      "Automated analysis process",
+      "Improved measurement accuracy",
+      "Enhanced research capabilities",
+      "Accelerated experimentation",
+      "Validated theoretical models"
+    ],
+    "skills": [
+      "Computer Vision",
+      "Machine Learning",
+      "Algorithm Development",
+      "System Integration",
+      "Data Analysis",
+      "Scientific Computing"
+    ],
+    "tags": [
+      "Computer Vision",
+      "AI/ML",
+      "Research",
+      "Automation",
+      "Scientific Computing"
+    ]
+  }
+
+  {
+    "id": "GEN002",
+    "core": "Led implementation of generative design system for photonic integrated circuits",
+    "dates": {
+      "start": "2022-06",
+      "end": "2023-12"
+    },
+    "company": "Draper Lab",
+    "variations": {
+      "technical_ic": {
+        "short": "Developed generative design system for photonics",
+        "medium": "Implemented generative design workflows achieving order-of-magnitude efficiency gains",
+        "detailed": "Architected physics-based generative design system for photonic integrated circuits, delivering order-of-magnitude improvements in design efficiency"
+      },
+      "technical_lead": {
+        "short": "Led photonic design automation team",
+        "medium": "Led cross-functional team implementing generative design for photonics",
+        "detailed": "Led diverse team of ML experts, software developers, and photonics engineers in creating automated design infrastructure for photonic circuits"
+      },
+      "research": {
+        "short": "Pioneered generative photonics design",
+        "medium": "Developed novel generative design approach for photonic circuits",
+        "detailed": "Advanced state-of-the-art in photonic circuit design through implementation of AI-assisted generative design methodologies"
+      },
+      "project_manager": {
+        "short": "Managed photonic design automation project",
+        "medium": "Coordinated development of generative design infrastructure",
+        "detailed": "Managed complex stakeholder requirements while delivering generative design solution that dramatically improved design efficiency"
+      }
+    },
+    "metrics": [
+      {
+        "value": "orders of magnitude",
+        "context": "improvement in design efficiency",
+        "verified": true
+      },
+      {
+        "value": "multiple",
+        "context": "stakeholder teams coordinated",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Physics-based generative algorithms",
+      "High-performance computing integration",
+      "Stakeholder requirement gathering",
+      "Infrastructure development",
+      "Performance validation methods",
+      "Security compliance implementation",
+      "Literature review and benchmarking",
+      "User interface development"
+    ],
+    "impact": [
+      "Enhanced customer service offerings",
+      "Dramatically improved design efficiency",
+      "Created scalable infrastructure",
+      "Established new design capabilities",
+      "Reduced computational resource needs"
+    ],
+    "skills": [
+      "Team Leadership",
+      "Generative AI",
+      "Photonic Design",
+      "Stakeholder Management",
+      "Infrastructure Development",
+      "Requirements Analysis",
+      "Project Management"
+    ],
+    "tags": [
+      "AI/ML",
+      "Hardware",
+      "Leadership",
+      "Innovation",
+      "Research",
+      "Design Automation"
+    ]
+  }
+
+  {
+    "id": "ML001",
+    "core": "Applied machine learning to improve production yield of optical components",
+    "dates": {
+      "start": "2019-10",
+      "end": "present"
+    },
+    "company": "Draper Lab",
+    "variations": {
+      "technical_ic": {
+        "short": "Built ML models for production yield optimization",
+        "medium": "Built ML models from scratch to boost real-world production yield",
+        "detailed": "Built ML models from scratch to boost production yield of optics, implementing data pipeline for high-dimensional inputs and automated retraining"
+      },
+      "technical_lead": {
+        "short": "Led ML-based root cause investigation",
+        "medium": "Led root cause investigation using ML, building team capabilities in data analysis",
+        "detailed": "Led root cause investigation using ML, building team capabilities while maintaining program schedule and budget"
+      },
+      "research": {
+        "short": "Developed ML approach for yield optimization",
+        "medium": "Developed novel ML approach for radiation performance prediction",
+        "detailed": "Developed novel approach to applying ML for radiation performance prediction in optical components"
+      },
+      "business": {
+        "short": "Implemented ML solution for production",
+        "medium": "Implemented ML solution that maintained production schedule",
+        "detailed": "Implemented ML solution that maintained production schedule and reduced costs through automated analysis"
+      }
+    },
+    "metrics": [
+      {
+        "value": "bi-weekly",
+        "context": "decision-making cycles",
+        "verified": true
+      },
+      {
+        "value": "4+",
+        "context": "years of continuous use",
+        "verified": true
+      },
+      {
+        "value": "on-time",
+        "context": "program delivery",
+        "verified": true
+      },
+      {
+        "value": "within budget",
+        "context": "resource management",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Built data pipeline from scratch",
+      "High-dimensional inputs",
+      "Multiple ML algorithms evaluated",
+      "Automated retraining capability",
+      "User-selectable outputs",
+      "Production process integration",
+      "Performance validation methods"
+    ],
+    "impact": [
+      "Critical for navigation systems",
+      "Enabled proactive intervention",
+      "Informed process improvements",
+      "Maintained program timeline",
+      "Optimized resource usage",
+      "Scalable solution implementation"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Data Pipeline Development",
+      "Production Optimization",
+      "Root Cause Analysis",
+      "Team Leadership",
+      "Process Improvement",
+      "Data Analysis"
+    ],
+    "tags": [
+      "AI/ML",
+      "Production",
+      "Leadership",
+      "Data Science",
+      "Manufacturing"
+    ]
+  }
+
+  {
+    "id": "NAV001",
+    "core": "Developed hardware-in-the-loop test platform for vision-based lunar navigation",
+    "dates": {
+      "start": "2022-04",
+      "end": "2023-07"
+    },
+    "company": "Draper Lab",
+    "variations": {
+      "technical_ic": {
+        "short": "Built HWIL lunar navigation platform",
+        "medium": "Developed test platform for vision-based lunar navigation",
+        "detailed": "Engineered hardware-in-the-loop simulation platform for evaluating vision-based navigation algorithms and camera systems for lunar missions"
+      },
+      "systems_engineer": {
+        "short": "Integrated lunar navigation testbed",
+        "medium": "Designed and integrated HWIL platform for space systems",
+        "detailed": "Led system integration of optical, mechanical, and software components for lunar navigation validation platform in GPS-denied environments"
+      },
+      "project_lead": {
+        "short": "Led lunar navigation project delivery",
+        "medium": "Managed accelerated delivery of navigation test system",
+        "detailed": "Led rapid development and delivery of critical navigation test platform, coordinating multiple subsystems while meeting accelerated timeline"
+      },
+      "research": {
+        "short": "Advanced space navigation testing",
+        "medium": "Developed novel approach to lunar navigation validation",
+        "detailed": "Created innovative test methodology for validating vision-based navigation in GPS-denied lunar environments"
+      }
+    },
+    "metrics": [
+      {
+        "value": "weeks",
+        "context": "ahead of rushed deadline",
+        "verified": true
+      },
+      {
+        "value": "multiple",
+        "context": "algorithms evaluated",
+        "verified": true
+      },
+      {
+        "value": "various",
+        "context": "camera models tested",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Hardware-in-the-loop simulation",
+      "Vision system integration",
+      "Camera model evaluation",
+      "Algorithm testing framework",
+      "Mechanical test fixture design",
+      "System requirements definition",
+      "Interface development",
+      "Performance validation",
+      "Future compatibility planning"
+    ],
+    "impact": [
+      "Enabled lunar navigation testing",
+      "Met accelerated timeline",
+      "Supported algorithm development",
+      "Enhanced camera evaluation",
+      "Established test methodology",
+      "Ensured upgrade compatibility"
+    ],
+    "skills": [
+      "System Integration",
+      "Vision Systems",
+      "Test Development",
+      "Project Management",
+      "Requirements Definition",
+      "Hardware Design",
+      "Software Integration",
+      "Space Systems"
+    ],
+    "tags": [
+      "Aerospace",
+      "Hardware",
+      "Software",
+      "Testing",
+      "Integration",
+      "Vision Systems"
+    ]
+  }
+
+  {
+    "id": "RAD001",
+    "core": "Led R&D of next-generation radiation-hardened optical fiber for navigation sensors",
+    "dates": {
+      "start": "2019-10",
+      "end": "present"
+    },
+    "company": "Draper Lab",
+    "variations": {
+      "technical_ic": {
+        "short": "Developed rad-hard optical fiber for navigation sensors",
+        "medium": "Led development of radiation-hardened optical fiber, implementing ML-driven process improvements",
+        "detailed": "Led R&D of radiation-hardened optical fiber for navigation sensors, incorporating ML analysis to optimize production processes and radiation performance"
+      },
+      "research": {
+        "short": "Researched radiation effects in optical fiber",
+        "medium": "Conducted radiation physics research to improve optical fiber performance",
+        "detailed": "Led investigation into radiation effects on optical fiber, combining first principles analysis with ML-driven optimization"
+      },
+      "technical_lead": {
+        "short": "Led rad-hard optical fiber development team",
+        "medium": "Led cross-functional team developing radiation-hardened optical fiber",
+        "detailed": "Directed R&D team across multiple disciplines, coordinating between materials scientists, manufacturing engineers, and test facilities"
+      },
+      "project_manager": {
+        "short": "Managed rad-hard fiber development program",
+        "medium": "Led program developing radiation-hardened fiber for critical navigation systems",
+        "detailed": "Managed development program for mission-critical optical fiber, maintaining schedule and budget while coordinating multiple stakeholders"
+      }
+    },
+    "metrics": [
+      {
+        "value": "on-schedule",
+        "context": "timeline adherence",
+        "verified": true
+      },
+      {
+        "value": "within budget",
+        "context": "resource management",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "First principles radiation physics analysis",
+      "ML-driven process optimization",
+      "Production yield improvement",
+      "Environmental testing protocols",
+      "Performance validation methods",
+      "Manufacturing process development"
+    ],
+    "impact": [
+      "Maintained critical program timeline",
+      "Improved production efficiency",
+      "Established testing standards",
+      "Enhanced product performance",
+      "Developed in-house expertise"
+    ],
+    "skills": [
+      "Radiation Physics",
+      "Machine Learning",
+      "R&D Leadership",
+      "Process Optimization",
+      "Team Management",
+      "Stakeholder Management"
+    ],
+    "tags": [
+      "Hardware",
+      "Research",
+      "Leadership",
+      "Manufacturing",
+      "ML/AI"
+    ]
+  }
+
+  {
+    "id": "SEM001",
+    "core": "Developed automated test platform for advanced photodiode arrays",
+    "dates": {
+      "start": "2016-06",
+      "end": "2018-05"
+    },
+    "company": "MIT Lincoln Lab",
+    "variations": {
+      "technical_ic": {
+        "short": "Built automated photodiode test system",
+        "medium": "Developed automated system for testing photon counting arrays",
+        "detailed": "Engineered automated test platform combining optical imaging, electrical probing, and robust object detection for photodiode characterization"
+      },
+      "automation_engineer": {
+        "short": "Automated semiconductor testing",
+        "medium": "Created automated semiconductor test and validation system",
+        "detailed": "Designed and implemented closed-loop automation system achieving sub-μm precision for semiconductor device testing"
+      },
+      "research": {
+        "short": "Advanced semiconductor test methods",
+        "medium": "Developed novel approach to automated device testing",
+        "detailed": "Pioneered integration of computer vision and precision automation for high-reliability semiconductor testing"
+      },
+      "reliability_engineer": {
+        "short": "Enhanced test reliability",
+        "medium": "Implemented damage-prevention test system",
+        "detailed": "Developed sophisticated error handling and detection systems preventing damage during automated device testing"
+      }
+    },
+    "metrics": [
+      {
+        "value": "sub-μm",
+        "context": "spatial resolution achieved",
+        "verified": true
+      },
+      {
+        "value": "hours",
+        "context": "of continuous autopilot operation",
+        "verified": true
+      },
+      {
+        "value": "zero",
+        "context": "device damage incidents after implementation",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Feature matching algorithms",
+      "Optical imaging integration",
+      "Robust object detection",
+      "Error handling system",
+      "Precision motion control",
+      "Automated calibration",
+      "Contact identification",
+      "Damage prevention protocols",
+      "Extended operation capability"
+    ],
+    "impact": [
+      "Prevented device damage",
+      "Enabled extended automation",
+      "Improved test reliability",
+      "Increased throughput",
+      "Enhanced precision",
+      "Reduced operator intervention"
+    ],
+    "skills": [
+      "Automation Engineering",
+      "Computer Vision",
+      "Precision Control",
+      "Error Handling",
+      "System Integration",
+      "Test Development",
+      "Semiconductor Processing",
+      "Algorithm Development"
+    ],
+    "tags": [
+      "Automation",
+      "Hardware",
+      "Software",
+      "Semiconductor",
+      "Testing",
+      "Computer Vision"
+    ]
+  }
+
+  {
+    "id": "WEB001",
+    "core": "Developed responsive professional website for engineering manufacturing company",
+    "dates": {
+      "start": "2023-06",
+      "end": "2023-09"
+    },
+    "company": "Elementsist",
+    "variations": {
+      "web_developer": {
+        "short": "Built manufacturing company website",
+        "medium": "Developed CMS-driven website with advanced interactions",
+        "detailed": "Architected professional manufacturing website using Webflow's CMS and advanced interactions, implementing responsive design and optimized asset delivery"
+      },
+      "ux_designer": {
+        "short": "Designed manufacturing website UX",
+        "medium": "Created responsive, user-focused manufacturing website",
+        "detailed": "Designed intuitive user experience for manufacturing website with custom animations and optimized mobile-to-desktop transitions"
+      },
+      "technical_lead": {
+        "short": "Led manufacturing website development",
+        "medium": "Led end-to-end development of company website",
+        "detailed": "Managed complete website development from requirements gathering through deployment, implementing advanced features and optimizations"
+      },
+      "marketing_specialist": {
+        "short": "Created lead-generating website",
+        "medium": "Developed conversion-optimized manufacturing website",
+        "detailed": "Created strategic online presence with integrated lead generation and optimized conversion pathways"
+      }
+    },
+    "metrics": [
+      {
+        "value": "70%+",
+        "context": "development time reduction vs traditional coding",
+        "verified": true
+      },
+      {
+        "value": "500+",
+        "context": "employees supported",
+        "verified": true
+      },
+      {
+        "value": "improved",
+        "context": "search rankings",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Webflow CMS implementation",
+      "Advanced interactions",
+      "Custom animations",
+      "Responsive design",
+      "Image delivery optimization",
+      "Contact form integration",
+      "SEO optimization",
+      "Performance tuning",
+      "Analytics integration"
+    ],
+    "impact": [
+      "Elevated brand presence",
+      "Improved lead generation",
+      "Enhanced product showcase",
+      "Reduced page load times",
+      "Optimized search presence",
+      "Enabled content management"
+    ],
+    "skills": [
+      "Web Development",
+      "UX Design",
+      "CMS Implementation",
+      "Performance Optimization",
+      "SEO",
+      "Content Strategy",
+      "Analytics"
+    ],
+    "tags": [
+      "Web Development",
+      "Design",
+      "Marketing",
+      "CMS",
+      "Business Impact"
+    ]
+  }
+
+  {
+    "id": "WEB002",
+    "core": "Developed rapid-deployment website for political campaign",
+    "dates": {
+      "start": "2023-10",
+      "end": "2023-12"
+    },
+    "company": "Elementsist",
+    "variations": {
+      "web_developer": {
+        "short": "Built campaign website",
+        "medium": "Developed dynamic campaign website with donation system",
+        "detailed": "Developed rapid-deployment campaign website with dynamic CMS, secure donation integration, and volunteer management system"
+      },
+      "technical_lead": {
+        "short": "Led campaign website development",
+        "medium": "Led development of comprehensive campaign platform",
+        "detailed": "Directed development of integrated campaign platform combining content management, donation processing, and volunteer coordination"
+      },
+      "digital_strategist": {
+        "short": "Created campaign digital presence",
+        "medium": "Developed strategic campaign digital platform",
+        "detailed": "Established professional online presence with integrated supporter engagement and campaign analytics systems"
+      },
+      "project_manager": {
+        "short": "Managed campaign website delivery",
+        "medium": "Managed rapid website deployment for political campaign",
+        "detailed": "Coordinated rapid development and deployment of campaign website meeting urgent timeline and security requirements"
+      }
+    },
+    "metrics": [
+      {
+        "value": "rapid",
+        "context": "deployment timeline achieved",
+        "verified": true
+      },
+      {
+        "value": "multiple",
+        "context": "integrated systems (donations, volunteers, content)",
+        "verified": true
+      }
+    ],
+    "technical_details": [
+      "Dynamic content management system",
+      "Secure donation integration",
+      "Volunteer sign-up forms",
+      "Mobile-first responsive layouts",
+      "Campaign analytics",
+      "Security implementations",
+      "Content update system",
+      "Performance optimization"
+    ],
+    "impact": [
+      "Established professional online presence",
+      "Enabled supporter engagement",
+      "Facilitated volunteer recruitment",
+      "Supported campaign messaging",
+      "Enabled rapid content updates",
+      "Provided campaign analytics"
+    ],
+    "skills": [
+      "Web Development",
+      "Content Management",
+      "Security Implementation",
+      "Analytics Integration",
+      "Mobile Design",
+      "System Integration"
+    ],
+    "tags": [
+      "Web Development",
+      "Political",
+      "Security",
+      "CMS",
+      "Digital Strategy"
+    ]
+  }

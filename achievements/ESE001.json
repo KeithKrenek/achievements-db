@@ -1,0 +1,244 @@
+{
+    "id": "ESE001",
+    "core": "Led development and optimization of power distribution and energy management systems across multiple applications, achieving significant improvements in efficiency and system performance",
+    "dates": {
+        "start": "2011-12",
+        "end": "present"
+    },
+    "company": "Multiple (Draper Lab, Wood Group Mustang, Zarlec)",
+    "variations": {
+        "power_engineer": {
+            "short": "Optimized power systems",
+            "medium": "Developed efficient power solutions",
+            "detailed": "Engineered optimized power delivery systems for complex applications, achieving significant efficiency improvements and reliability enhancements"
+        },
+        "systems_engineer": {
+            "short": "Led energy system integration",
+            "medium": "Managed power system development",
+            "detailed": "Directed development and integration of power systems across multiple platforms, ensuring optimal performance and reliability"
+        },
+        "rf_engineer": {
+            "short": "Optimized RF power systems",
+            "medium": "Developed RF power solutions",
+            "detailed": "Created optimized RF power delivery systems for acousto-fluidic devices, implementing advanced matching networks and control systems"
+        },
+        "thermal_engineer": {
+            "short": "Managed thermal systems",
+            "medium": "Developed thermal control solutions",
+            "detailed": "Engineered thermal management systems for complex applications, optimizing performance and energy efficiency"
+        },
+        "efficiency_specialist": {
+            "short": "Led efficiency improvements",
+            "medium": "Optimized system efficiency",
+            "detailed": "Directed comprehensive efficiency optimization initiatives across multiple system types and applications"
+        },
+        "controls_engineer": {
+            "short": "Developed control systems",
+            "medium": "Created power control solutions",
+            "detailed": "Engineered sophisticated control systems for power management and distribution applications"
+        },
+        "design_engineer": {
+            "short": "Designed electrical systems",
+            "medium": "Created power system designs",
+            "detailed": "Developed comprehensive electrical system designs incorporating efficiency and reliability requirements"
+        },
+        "integration_specialist": {
+            "short": "Led system integration",
+            "medium": "Managed power system integration",
+            "detailed": "Coordinated integration of power systems with complex hardware platforms and control systems"
+        }
+    },
+    "metrics": [
+        {
+            "value": "40%",
+            "context": "reduction in RF power consumption",
+            "verified": true,
+            "category": "efficiency",
+            "timeframe": "comparative",
+            "impact_area": "power_optimization"
+        },
+        {
+            "value": "24",
+            "context": "elevator control systems built",
+            "verified": true,
+            "category": "production",
+            "timeframe": "cumulative",
+            "impact_area": "system_deployment"
+        },
+        {
+            "value": "3x",
+            "context": "improvement in system portability",
+            "verified": true,
+            "category": "design",
+            "timeframe": "comparative",
+            "impact_area": "form_factor"
+        },
+        {
+            "value": "99.9%",
+            "context": "power delivery efficiency achieved",
+            "verified": true,
+            "category": "performance",
+            "timeframe": "continuous",
+            "impact_area": "energy_efficiency"
+        },
+        {
+            "value": "500+",
+            "context": "employees using electrical standards",
+            "verified": true,
+            "category": "impact",
+            "timeframe": "continuous",
+            "impact_area": "design_practices"
+        },
+        {
+            "value": "2",
+            "context": "ground-fault detection systems developed",
+            "verified": true,
+            "category": "safety",
+            "timeframe": "cumulative",
+            "impact_area": "system_protection"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "power",
+            "detail": "RF power optimization",
+            "proficiency": "expert"
+        },
+        {
+            "category": "thermal",
+            "detail": "Thermal management systems",
+            "proficiency": "expert"
+        },
+        {
+            "category": "controls",
+            "detail": "Power control systems",
+            "proficiency": "expert"
+        },
+        {
+            "category": "integration",
+            "detail": "System integration",
+            "proficiency": "expert"
+        },
+        {
+            "category": "efficiency",
+            "detail": "Energy optimization",
+            "proficiency": "expert"
+        },
+        {
+            "category": "safety",
+            "detail": "Protection systems",
+            "proficiency": "expert"
+        },
+        {
+            "category": "design",
+            "detail": "Electrical system design",
+            "proficiency": "expert"
+        },
+        {
+            "category": "standards",
+            "detail": "Design practices",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Improved energy efficiency",
+        "Reduced power consumption",
+        "Enhanced system reliability",
+        "Established design standards",
+        "Improved safety systems",
+        "Optimized power delivery",
+        "Reduced system size",
+        "Enhanced portability",
+        "Improved thermal management",
+        "Advanced control capabilities"
+    ],
+    "skills": [
+        "Power Systems",
+        "RF Engineering",
+        "Thermal Management",
+        "System Integration",
+        "Efficiency Optimization",
+        "Control Systems",
+        "Safety Design",
+        "Standards Development",
+        "Project Management",
+        "Technical Documentation",
+        "Team Leadership",
+        "Problem Solving"
+    ],
+    "tags": [
+        "Power Systems",
+        "Energy Efficiency",
+        "RF Engineering",
+        "Thermal Control",
+        "Integration",
+        "Safety",
+        "Design",
+        "Standards"
+    ],
+    "key_systems": [
+        {
+            "name": "Acoustofluidic RF System",
+            "impact": "40% power reduction",
+            "innovation": "Optimized matching network"
+        },
+        {
+            "name": "Elevator Controls",
+            "impact": "24 systems deployed",
+            "innovation": "Reliable control design"
+        },
+        {
+            "name": "Ground Fault Protection",
+            "impact": "Enhanced safety",
+            "innovation": "Advanced detection methods"
+        }
+    ],
+    "design_standards": [
+        {
+            "area": "Electrical Design",
+            "scope": "Company-wide",
+            "impact": "500+ users"
+        },
+        {
+            "area": "Safety Systems",
+            "scope": "Multiple products",
+            "impact": "Enhanced protection"
+        },
+        {
+            "area": "Power Distribution",
+            "scope": "System-wide",
+            "impact": "Improved efficiency"
+        }
+    ],
+    "optimization_approaches": [
+        "Impedance Matching",
+        "Thermal Management",
+        "Power Distribution",
+        "Control Systems",
+        "Safety Integration"
+    ],
+    "system_applications": [
+        {
+            "field": "Biotech",
+            "system": "RF power delivery",
+            "requirements": "Precise control"
+        },
+        {
+            "field": "Building Systems",
+            "system": "Elevator controls",
+            "requirements": "Safety critical"
+        },
+        {
+            "field": "Research Equipment",
+            "system": "Power management",
+            "requirements": "High reliability"
+        }
+    ],
+    "safety_features": [
+        "Ground Fault Detection",
+        "Overcurrent Protection",
+        "Thermal Management",
+        "System Monitoring",
+        "Emergency Controls"
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "id": "HWI001",
+    "core": "Led development and integration of complex hardware systems across space, defense, and biotech applications, ensuring successful deployment of mission-critical technologies",
+    "dates": {
+        "start": "2012-06",
+        "end": "present"
+    },
+    "company": "Multiple (Draper Lab, MIT Lincoln Lab, Lockheed Martin)",
+    "variations": {
+        "technical_ic": {
+            "short": "Integrated complex hardware systems",
+            "medium": "Developed and integrated mission-critical hardware",
+            "detailed": "Led development and integration of sophisticated hardware systems including lunar navigation platforms, biomanufacturing tools, and radiation-hardened sensors"
+        },
+        "systems_engineer": {
+            "short": "Led systems integration efforts",
+            "medium": "Managed complex system integration projects",
+            "detailed": "Coordinated integration of multiple subsystems across mechanical, electrical, and optical domains while ensuring compliance with mission requirements"
+        },
+        "test_engineer": {
+            "short": "Developed advanced test platforms",
+            "medium": "Created hardware-in-the-loop test systems",
+            "detailed": "Designed and implemented sophisticated test platforms combining mechanical, optical, and electronic systems for validating mission-critical hardware"
+        },
+        "integration_lead": {
+            "short": "Led hardware integration teams",
+            "medium": "Directed cross-functional integration efforts",
+            "detailed": "Led cross-functional teams in integrating complex systems, coordinating between design, manufacturing, and test groups to ensure successful deployment"
+        },
+        "validation_engineer": {
+            "short": "Established validation protocols",
+            "medium": "Developed system validation frameworks",
+            "detailed": "Created comprehensive validation protocols for complex hardware systems, ensuring compliance with stringent performance requirements"
+        },
+        "manufacturing_engineer": {
+            "short": "Optimized production processes",
+            "medium": "Developed manufacturing solutions",
+            "detailed": "Created efficient manufacturing processes for complex hardware systems, ensuring scalability and reliability"
+        },
+        "hardware_architect": {
+            "short": "Designed system architectures",
+            "medium": "Created hardware system architectures",
+            "detailed": "Developed comprehensive system architectures integrating multiple technologies and ensuring operational reliability"
+        },
+        "reliability_engineer": {
+            "short": "Ensured system reliability",
+            "medium": "Developed reliability frameworks",
+            "detailed": "Created and implemented reliability frameworks for mission-critical hardware systems operating in extreme environments"
+        }
+    },
+    "metrics": [
+        {
+            "value": "15+",
+            "context": "large military radar antennas characterized",
+            "verified": true,
+            "category": "scale",
+            "timeframe": "cumulative",
+            "impact_area": "defense_systems"
+        },
+        {
+            "value": "4+",
+            "context": "hours saved per test data analysis",
+            "verified": true,
+            "category": "efficiency",
+            "timeframe": "per analysis",
+            "impact_area": "operational_efficiency"
+        },
+        {
+            "value": "24",
+            "context": "elevator controls built",
+            "verified": true,
+            "category": "production",
+            "timeframe": "cumulative",
+            "impact_area": "manufacturing"
+        },
+        {
+            "value": "100%",
+            "context": "mission requirements met",
+            "verified": true,
+            "category": "performance",
+            "timeframe": "continuous",
+            "impact_area": "project_success"
+        },
+        {
+            "value": "sub-µm",
+            "context": "positioning accuracy achieved",
+            "verified": true,
+            "category": "precision",
+            "timeframe": "continuous",
+            "impact_area": "technical_capability"
+        },
+        {
+            "value": "3",
+            "context": "different extreme environments validated",
+            "verified": true,
+            "category": "versatility",
+            "timeframe": "cumulative",
+            "impact_area": "application_range"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "integration",
+            "detail": "Hardware-in-the-loop simulation",
+            "proficiency": "expert"
+        },
+        {
+            "category": "test",
+            "detail": "Environmental testing protocols",
+            "proficiency": "expert"
+        },
+        {
+            "category": "controls",
+            "detail": "Precision motion control",
+            "proficiency": "expert"
+        },
+        {
+            "category": "imaging",
+            "detail": "Vision-based navigation systems",
+            "proficiency": "expert"
+        },
+        {
+            "category": "electronics",
+            "detail": "RF system optimization",
+            "proficiency": "expert"
+        },
+        {
+            "category": "mechanical",
+            "detail": "Precision mechanical design",
+            "proficiency": "expert"
+        },
+        {
+            "category": "validation",
+            "detail": "System validation frameworks",
+            "proficiency": "expert"
+        },
+        {
+            "category": "manufacturing",
+            "detail": "Production process optimization",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Enabled lunar navigation testing",
+        "Streamlined test procedures",
+        "Improved manufacturing efficiency",
+        "Enhanced system reliability",
+        "Reduced integration time",
+        "Advanced test capabilities",
+        "Established validation standards",
+        "Improved product quality",
+        "Reduced operational costs",
+        "Enabled new mission capabilities"
+    ],
+    "skills": [
+        "Systems Integration",
+        "Hardware Testing",
+        "Test Development",
+        "Project Management",
+        "Cross-functional Leadership",
+        "Requirements Analysis",
+        "Technical Documentation",
+        "Process Optimization",
+        "Quality Control",
+        "Risk Management",
+        "Stakeholder Communication",
+        "Manufacturing Process Development"
+    ],
+    "tags": [
+        "Hardware",
+        "Integration",
+        "Testing",
+        "Space Systems",
+        "Defense",
+        "Manufacturing",
+        "Automation",
+        "Quality Control"
+    ],
+    "methodology": [
+        "Systems Engineering",
+        "Test-Driven Development",
+        "Quality by Design",
+        "Continuous Integration",
+        "Design for Manufacturing"
+    ],
+    "domain_impact": [
+        "Space Systems",
+        "Defense Technology",
+        "Manufacturing",
+        "Biotech",
+        "Navigation Systems"
+    ],
+    "tech_stack": [
+        "CAD Software",
+        "Test Equipment",
+        "Control Systems",
+        "Data Acquisition",
+        "Analysis Software",
+        "Manufacturing Tools"
+    ],
+    "key_projects": [
+        {
+            "name": "Lunar Navigation Platform",
+            "impact": "Enabled testing of vision-based navigation",
+            "location": "Draper Lab"
+        },
+        {
+            "name": "Radar System Characterization",
+            "impact": "Validated 15+ military systems",
+            "location": "Lockheed Martin"
+        },
+        {
+            "name": "Biomanufacturing Integration",
+            "impact": "Successfully deployed commercial system",
+            "location": "Draper Lab"
+        }
+    ],
+    "certification_required": [
+        "Security Clearance",
+        "Quality System Training",
+        "Safety Protocols"
+    ],
+    "environmental_conditions": [
+        "Space Environment",
+        "High Radiation",
+        "Clean Room",
+        "Temperature Extremes"
+    ]
+}

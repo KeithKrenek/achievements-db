@@ -1,0 +1,244 @@
+{
+    "id": "SEN001",
+    "core": "Led development of advanced sensor systems across multiple domains, including CMOS biosensors, photon counting arrays, navigation sensors, and integrated optical systems",
+    "dates": {
+        "start": "2015-09",
+        "end": "present"
+    },
+    "company": "Multiple (Draper Lab, Harvard, MIT Lincoln Lab)",
+    "variations": {
+        "sensor_engineer": {
+            "short": "Developed advanced sensors",
+            "medium": "Created sophisticated sensor systems",
+            "detailed": "Engineered complex sensor systems incorporating multiple sensing modalities and advanced integration techniques"
+        },
+        "systems_architect": {
+            "short": "Architected sensor platforms",
+            "medium": "Designed integrated sensor systems",
+            "detailed": "Created comprehensive sensor system architectures combining multiple technologies for enhanced capabilities"
+        },
+        "research_scientist": {
+            "short": "Advanced sensor technology",
+            "medium": "Led sensor research initiatives",
+            "detailed": "Conducted research advancing state-of-the-art in sensor technology, developing novel approaches and capabilities"
+        },
+        "integration_lead": {
+            "short": "Led sensor integration",
+            "medium": "Managed sensor system integration",
+            "detailed": "Directed integration of complex sensor systems, ensuring optimal performance and reliability"
+        },
+        "biotech_engineer": {
+            "short": "Developed biosensors",
+            "medium": "Created advanced biosensor systems",
+            "detailed": "Engineered sophisticated biosensor platforms for cellular analysis and drug screening applications"
+        },
+        "photonics_engineer": {
+            "short": "Developed optical sensors",
+            "medium": "Created photonic sensing systems",
+            "detailed": "Designed and implemented advanced optical and photonic sensor systems for critical applications"
+        },
+        "validation_engineer": {
+            "short": "Led sensor validation",
+            "medium": "Developed sensor validation methods",
+            "detailed": "Created comprehensive validation protocols for complex sensor systems across multiple domains"
+        },
+        "manufacturing_engineer": {
+            "short": "Led sensor production",
+            "medium": "Developed sensor manufacturing",
+            "detailed": "Created scalable manufacturing processes for advanced sensor systems, ensuring reliable production"
+        }
+    },
+    "metrics": [
+        {
+            "value": "4096",
+            "context": "recording channels on CMOS array",
+            "verified": true,
+            "category": "scale",
+            "timeframe": "per device",
+            "impact_area": "measurement_capability"
+        },
+        {
+            "value": "5x",
+            "context": "improvement in sensor lifetime",
+            "verified": true,
+            "category": "reliability",
+            "timeframe": "comparative",
+            "impact_area": "device_durability"
+        },
+        {
+            "value": "sub-µm",
+            "context": "spatial resolution achieved",
+            "verified": true,
+            "category": "precision",
+            "timeframe": "continuous",
+            "impact_area": "measurement_accuracy"
+        },
+        {
+            "value": "100+",
+            "context": "devices successfully fabricated",
+            "verified": true,
+            "category": "production",
+            "timeframe": "cumulative",
+            "impact_area": "manufacturing_scale"
+        },
+        {
+            "value": "30%",
+            "context": "reduction in radiation sensitivity",
+            "verified": true,
+            "category": "performance",
+            "timeframe": "comparative",
+            "impact_area": "environmental_tolerance"
+        },
+        {
+            "value": "3",
+            "context": "sensing modalities integrated",
+            "verified": true,
+            "category": "integration",
+            "timeframe": "per system",
+            "impact_area": "system_capability"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "integration",
+            "detail": "CMOS sensor integration",
+            "proficiency": "expert"
+        },
+        {
+            "category": "fabrication",
+            "detail": "Nano/micro-fabrication",
+            "proficiency": "expert"
+        },
+        {
+            "category": "characterization",
+            "detail": "Sensor characterization",
+            "proficiency": "expert"
+        },
+        {
+            "category": "electronics",
+            "detail": "Sensor electronics",
+            "proficiency": "expert"
+        },
+        {
+            "category": "optics",
+            "detail": "Optical system design",
+            "proficiency": "expert"
+        },
+        {
+            "category": "validation",
+            "detail": "Performance validation",
+            "proficiency": "expert"
+        },
+        {
+            "category": "manufacturing",
+            "detail": "Production processes",
+            "proficiency": "expert"
+        },
+        {
+            "category": "analysis",
+            "detail": "Data analysis systems",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Advanced measurement capabilities",
+        "Enabled new applications",
+        "Improved device reliability",
+        "Enhanced system performance",
+        "Reduced production costs",
+        "Increased measurement accuracy",
+        "Created new sensing capabilities",
+        "Advanced field knowledge",
+        "Enabled commercial products",
+        "Improved manufacturing processes"
+    ],
+    "skills": [
+        "Sensor Design",
+        "System Integration",
+        "Micro/Nanofabrication",
+        "Characterization",
+        "Electronics Design",
+        "Optical Engineering",
+        "Process Development",
+        "Data Analysis",
+        "Quality Control",
+        "Manufacturing",
+        "Technical Documentation",
+        "Project Management"
+    ],
+    "tags": [
+        "Sensors",
+        "Integration",
+        "Manufacturing",
+        "Research",
+        "Development",
+        "Biotech",
+        "Photonics",
+        "Electronics"
+    ],
+    "sensor_types": [
+        {
+            "category": "Biosensors",
+            "application": "Cell analysis",
+            "technology": "CMOS arrays"
+        },
+        {
+            "category": "Optical Sensors",
+            "application": "Navigation",
+            "technology": "Photon counting"
+        },
+        {
+            "category": "Integrated Sensors",
+            "application": "Multiple",
+            "technology": "Hybrid systems"
+        }
+    ],
+    "key_developments": [
+        {
+            "name": "CMOS Nanoelectrode Array",
+            "impact": "High-throughput cell analysis",
+            "innovation": "4096-channel recording"
+        },
+        {
+            "name": "Rad-Hard Optical Sensors",
+            "impact": "Enhanced radiation tolerance",
+            "innovation": "Novel materials integration"
+        },
+        {
+            "name": "Photon Counting Arrays",
+            "impact": "Advanced imaging capability",
+            "innovation": "Single-photon sensitivity"
+        }
+    ],
+    "manufacturing_processes": [
+        "CMOS Integration",
+        "Nanofabrication",
+        "Clean Room Processing",
+        "System Packaging",
+        "Quality Control"
+    ],
+    "test_protocols": [
+        "Environmental Testing",
+        "Performance Validation",
+        "Reliability Assessment",
+        "Calibration Procedures",
+        "Quality Verification"
+    ],
+    "applications": [
+        {
+            "field": "Biotechnology",
+            "use": "Cell analysis",
+            "impact": "Drug discovery"
+        },
+        {
+            "field": "Navigation",
+            "use": "Position sensing",
+            "impact": "Guidance systems"
+        },
+        {
+            "field": "Space Systems",
+            "use": "Radiation-hard sensing",
+            "impact": "Mission reliability"
+        }
+    ]
+}

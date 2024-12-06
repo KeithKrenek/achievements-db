@@ -1,0 +1,234 @@
+{
+    "id": "TSD001",
+    "core": "Developed sophisticated test systems and validation platforms across space, defense, and biotech applications, enabling critical performance validation and automated testing capabilities",
+    "dates": {
+        "start": "2016-06",
+        "end": "present"
+    },
+    "company": "Multiple (Draper Lab, MIT Lincoln Lab, Harvard)",
+    "variations": {
+        "test_engineer": {
+            "short": "Built advanced test platforms",
+            "medium": "Developed complex test systems",
+            "detailed": "Created sophisticated test platforms combining hardware, software, and automation for validating critical system performance"
+        },
+        "automation_engineer": {
+            "short": "Automated test processes",
+            "medium": "Developed automated test systems",
+            "detailed": "Engineered automated test solutions incorporating computer vision, precision control, and error handling for extended autonomous operation"
+        },
+        "systems_integrator": {
+            "short": "Integrated test platforms",
+            "medium": "Led test system integration",
+            "detailed": "Directed integration of multiple subsystems into comprehensive test platforms, ensuring reliable operation and accurate validation"
+        },
+        "validation_engineer": {
+            "short": "Developed validation systems",
+            "medium": "Created system validation platforms",
+            "detailed": "Designed and implemented validation systems for complex technologies, establishing performance benchmarks and verification protocols"
+        },
+        "calibration_specialist": {
+            "short": "Created calibration systems",
+            "medium": "Developed automated calibration",
+            "detailed": "Engineered automated calibration systems incorporating machine learning and optimization algorithms for optimal system performance"
+        },
+        "quality_engineer": {
+            "short": "Led test quality initiatives",
+            "medium": "Established test quality systems",
+            "detailed": "Developed comprehensive quality frameworks for test and validation processes, ensuring reliable and repeatable results"
+        },
+        "hardware_architect": {
+            "short": "Designed test hardware",
+            "medium": "Architected test platforms",
+            "detailed": "Created hardware architectures for complex test systems, integrating multiple technologies and ensuring reliable operation"
+        },
+        "software_developer": {
+            "short": "Developed test software",
+            "medium": "Created test control systems",
+            "detailed": "Engineered sophisticated software systems for test control, data acquisition, and analysis automation"
+        }
+    },
+    "metrics": [
+        {
+            "value": "24+",
+            "context": "hours of continuous autonomous operation",
+            "verified": true,
+            "category": "automation",
+            "timeframe": "continuous",
+            "impact_area": "operational_efficiency"
+        },
+        {
+            "value": "sub-µm",
+            "context": "spatial resolution achieved",
+            "verified": true,
+            "category": "precision",
+            "timeframe": "continuous",
+            "impact_area": "measurement_accuracy"
+        },
+        {
+            "value": "99.9%",
+            "context": "test reliability achieved",
+            "verified": true,
+            "category": "reliability",
+            "timeframe": "continuous",
+            "impact_area": "test_quality"
+        },
+        {
+            "value": "zero",
+            "context": "equipment damage incidents",
+            "verified": true,
+            "category": "safety",
+            "timeframe": "cumulative",
+            "impact_area": "equipment_protection"
+        },
+        {
+            "value": "4+",
+            "context": "hours saved per test cycle",
+            "verified": true,
+            "category": "efficiency",
+            "timeframe": "per cycle",
+            "impact_area": "time_savings"
+        },
+        {
+            "value": "3D",
+            "context": "tracking capabilities implemented",
+            "verified": true,
+            "category": "functionality",
+            "timeframe": "continuous",
+            "impact_area": "measurement_capability"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "hardware",
+            "detail": "Hardware-in-the-loop simulation",
+            "proficiency": "expert"
+        },
+        {
+            "category": "automation",
+            "detail": "Test automation systems",
+            "proficiency": "expert"
+        },
+        {
+            "category": "vision",
+            "detail": "Computer vision integration",
+            "proficiency": "expert"
+        },
+        {
+            "category": "control",
+            "detail": "Precision motion control",
+            "proficiency": "expert"
+        },
+        {
+            "category": "calibration",
+            "detail": "Automated calibration systems",
+            "proficiency": "expert"
+        },
+        {
+            "category": "software",
+            "detail": "Test control software",
+            "proficiency": "expert"
+        },
+        {
+            "category": "integration",
+            "detail": "System integration",
+            "proficiency": "expert"
+        },
+        {
+            "category": "analysis",
+            "detail": "Data analysis automation",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Enabled autonomous testing",
+        "Improved measurement accuracy",
+        "Protected valuable equipment",
+        "Reduced operator workload",
+        "Increased test throughput",
+        "Enhanced data quality",
+        "Streamlined validation processes",
+        "Enabled new capabilities",
+        "Improved operational efficiency",
+        "Advanced test methodologies"
+    ],
+    "skills": [
+        "Test System Design",
+        "Automation Engineering",
+        "Computer Vision",
+        "Motion Control",
+        "Data Acquisition",
+        "System Integration",
+        "Error Handling",
+        "Quality Assurance",
+        "Software Development",
+        "Hardware Design",
+        "Data Analysis",
+        "Technical Documentation"
+    ],
+    "tags": [
+        "Testing",
+        "Automation",
+        "Integration",
+        "Validation",
+        "Quality",
+        "Hardware",
+        "Software",
+        "Control Systems"
+    ],
+    "key_systems": [
+        {
+            "name": "Lunar Navigation Test Platform",
+            "capabilities": "Vision-based navigation validation",
+            "impact": "Enabled critical mission testing"
+        },
+        {
+            "name": "Automated Photodiode Tester",
+            "capabilities": "Precision electrical probing",
+            "impact": "Protected valuable arrays"
+        },
+        {
+            "name": "3D Particle Tracking System",
+            "capabilities": "Automated trajectory analysis",
+            "impact": "Enhanced research capabilities"
+        }
+    ],
+    "test_capabilities": [
+        {
+            "type": "Environmental Testing",
+            "parameters": "Temperature, radiation, vacuum",
+            "applications": "Space systems"
+        },
+        {
+            "type": "Precision Measurements",
+            "parameters": "Sub-micron positioning",
+            "applications": "Device characterization"
+        },
+        {
+            "type": "Automated Analysis",
+            "parameters": "3D tracking, pattern recognition",
+            "applications": "Research validation"
+        }
+    ],
+    "automation_features": [
+        "Error Recovery",
+        "Data Logging",
+        "Real-time Monitoring",
+        "Automated Calibration",
+        "Quality Validation"
+    ],
+    "validation_protocols": [
+        "Performance Verification",
+        "System Calibration",
+        "Error Analysis",
+        "Data Quality Checks",
+        "Safety Protocols"
+    ],
+    "test_environments": [
+        "Clean Room",
+        "Radiation Facility",
+        "Thermal Chamber",
+        "Optical Laboratory",
+        "Production Floor"
+    ]
+}

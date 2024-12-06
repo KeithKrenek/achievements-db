@@ -1,185 +1,185 @@
 {
-  "id": "ML001",
-  "core": "Applied machine learning to improve production yield and optimize decision-making processes for critical manufacturing systems",
-  "dates": {
-      "start": "2019-10",
-      "end": "present"
-  },
-  "company": "Draper Lab",
-  "variations": {
-      "technical_ic": {
-          "short": "Built ML models to optimize production processes",
-          "medium": "Developed ML pipeline from scratch to boost manufacturing yield",
-          "detailed": "Architected end-to-end ML system for manufacturing optimization, implementing data pipeline for high-dimensional inputs and automated retraining capabilities"
-      },
-      "technical_lead": {
-          "short": "Led ML-based process improvement initiative",
-          "medium": "Led root cause investigation using ML, building team capabilities in data analysis",
-          "detailed": "Led manufacturing optimization initiative using ML, building team capabilities while maintaining program schedule and budget constraints"
-      },
-      "research": {
-          "short": "Developed novel ML approach for yield optimization",
-          "medium": "Created new ML methodology for performance prediction in manufacturing",
-          "detailed": "Pioneered ML-driven approach to manufacturing optimization, combining physics-based modeling with data-driven insights"
-      },
-      "business_development": {
-          "short": "Implemented ML solution saving $1M+ annually",
-          "medium": "Deployed ML system that maintained critical production timeline",
-          "detailed": "Implemented ML solution that preserved $10M+ program timeline while reducing operational costs through automated analysis"
-      },
-      "innovation_lead": {
-          "short": "Pioneered ML adoption in manufacturing",
-          "medium": "Led transition to ML-driven decision making in production",
-          "detailed": "Spearheaded adoption of ML methodologies in manufacturing, establishing new paradigm for process optimization"
-      },
-      "subject_matter_expert": {
-          "short": "Provided ML expertise for manufacturing",
-          "medium": "Guided implementation of ML systems across production",
-          "detailed": "Served as technical authority for ML integration in manufacturing, advising on algorithm selection and implementation strategies"
-      },
-      "consultant": {
-          "short": "Advised on ML strategy for manufacturing",
-          "medium": "Developed ML roadmap for production optimization",
-          "detailed": "Created comprehensive ML strategy for manufacturing optimization, including technical requirements and implementation plans"
-      }
-  },
-  "metrics": [
-      {
-          "value": "bi-weekly",
-          "context": "decision-making cycles",
-          "verified": true,
-          "category": "efficiency",
-          "timeframe": "continuous",
-          "impact_area": "operations"
-      },
-      {
-          "value": "4+",
-          "context": "years of continuous use",
-          "verified": true,
-          "category": "reliability",
-          "timeframe": "long-term",
-          "impact_area": "sustainability"
-      },
-      {
-          "value": "70%+",
-          "context": "reduction in analysis time",
-          "verified": true,
-          "category": "efficiency",
-          "timeframe": "per-analysis",
-          "impact_area": "productivity"
-      },
-      {
-          "value": "100%",
-          "context": "on-time program delivery",
-          "verified": true,
-          "category": "performance",
-          "timeframe": "project duration",
-          "impact_area": "project_management"
-      },
-      {
-          "value": "3x",
-          "context": "improvement in prediction accuracy",
-          "verified": true,
-          "category": "performance",
-          "timeframe": "comparative",
-          "impact_area": "quality"
-      },
-      {
-          "value": "terabytes",
-          "context": "of manufacturing data analyzed",
-          "verified": true,
-          "category": "scale",
-          "timeframe": "cumulative",
-          "impact_area": "data_processing"
-      }
-  ],
-  "technical_details": [
-      {
-          "category": "infrastructure",
-          "detail": "Built data pipeline from scratch",
-          "proficiency": "expert"
-      },
-      {
-          "category": "data",
-          "detail": "High-dimensional input processing",
-          "proficiency": "expert"
-      },
-      {
-          "category": "algorithms",
-          "detail": "Multiple ML algorithms evaluated and optimized",
-          "proficiency": "expert"
-      },
-      {
-          "category": "automation",
-          "detail": "Automated retraining capability",
-          "proficiency": "expert"
-      },
-      {
-          "category": "integration",
-          "detail": "Production process integration",
-          "proficiency": "expert"
-      },
-      {
-          "category": "validation",
-          "detail": "Performance validation methods",
-          "proficiency": "expert"
-      }
-  ],
-  "impact": [
-      "Critical for navigation systems reliability",
-      "Enabled proactive process intervention",
-      "Informed strategic process improvements",
-      "Maintained critical program timeline",
-      "Optimized resource allocation",
-      "Established scalable ML framework",
-      "Reduced operational costs",
-      "Improved product quality"
-  ],
-  "skills": [
-      "Machine Learning",
-      "Data Pipeline Development",
-      "Production Optimization",
-      "Root Cause Analysis",
-      "Team Leadership",
-      "Process Improvement",
-      "Data Analysis",
-      "Algorithm Design",
-      "System Integration",
-      "Stakeholder Management",
-      "Technical Documentation",
-      "Cross-functional Leadership"
-  ],
-  "tags": [
-      "AI/ML",
-      "Production",
-      "Leadership",
-      "Data Science",
-      "Manufacturing",
-      "Innovation",
-      "Process Optimization",
-      "Enterprise Scale",
-      "Mission Critical",
-      "Defense Industry"
-  ],
-  "methodology": [
-      "Agile",
-      "Data-Driven Development",
-      "Iterative Optimization"
-  ],
-  "domain_impact": [
-      "Defense",
-      "Manufacturing",
-      "Navigation Systems"
-  ],
-  "tech_stack": [
-      "Python",
-      "SQL",
-      "TensorFlow",
-      "Scikit-learn",
-      "Git",
-      "Docker"
-  ],
-  "certification_required": [
-      "Security Clearance"
-  ]
+    "id": "ML001",
+    "core": "Applied machine learning to improve production yield and optimize decision-making processes for critical manufacturing systems",
+    "dates": {
+        "start": "2019-10",
+        "end": "present"
+    },
+    "company": "Draper Lab",
+    "variations": {
+        "technical_ic": {
+            "short": "Built ML models to optimize production processes",
+            "medium": "Developed ML pipeline from scratch to boost manufacturing yield",
+            "detailed": "Architected end-to-end ML system for manufacturing optimization, implementing data pipeline for high-dimensional inputs and automated retraining capabilities"
+        },
+        "technical_lead": {
+            "short": "Led ML-based process improvement initiative",
+            "medium": "Led root cause investigation using ML, building team capabilities in data analysis",
+            "detailed": "Led manufacturing optimization initiative using ML, building team capabilities while maintaining program schedule and budget constraints"
+        },
+        "research": {
+            "short": "Developed novel ML approach for yield optimization",
+            "medium": "Created new ML methodology for performance prediction in manufacturing",
+            "detailed": "Pioneered ML-driven approach to manufacturing optimization, combining physics-based modeling with data-driven insights"
+        },
+        "business_development": {
+            "short": "Implemented ML solution saving $1M+ annually",
+            "medium": "Deployed ML system that maintained critical production timeline",
+            "detailed": "Implemented ML solution that preserved $10M+ program timeline while reducing operational costs through automated analysis"
+        },
+        "innovation_lead": {
+            "short": "Pioneered ML adoption in manufacturing",
+            "medium": "Led transition to ML-driven decision making in production",
+            "detailed": "Spearheaded adoption of ML methodologies in manufacturing, establishing new paradigm for process optimization"
+        },
+        "subject_matter_expert": {
+            "short": "Provided ML expertise for manufacturing",
+            "medium": "Guided implementation of ML systems across production",
+            "detailed": "Served as technical authority for ML integration in manufacturing, advising on algorithm selection and implementation strategies"
+        },
+        "consultant": {
+            "short": "Advised on ML strategy for manufacturing",
+            "medium": "Developed ML roadmap for production optimization",
+            "detailed": "Created comprehensive ML strategy for manufacturing optimization, including technical requirements and implementation plans"
+        }
+    },
+    "metrics": [
+        {
+            "value": "bi-weekly",
+            "context": "decision-making cycles",
+            "verified": true,
+            "category": "efficiency",
+            "timeframe": "continuous",
+            "impact_area": "operations"
+        },
+        {
+            "value": "4+",
+            "context": "years of continuous use",
+            "verified": true,
+            "category": "reliability",
+            "timeframe": "long-term",
+            "impact_area": "sustainability"
+        },
+        {
+            "value": "70%+",
+            "context": "reduction in analysis time",
+            "verified": true,
+            "category": "efficiency",
+            "timeframe": "per-analysis",
+            "impact_area": "productivity"
+        },
+        {
+            "value": "100%",
+            "context": "on-time program delivery",
+            "verified": true,
+            "category": "performance",
+            "timeframe": "project duration",
+            "impact_area": "project_management"
+        },
+        {
+            "value": "3x",
+            "context": "improvement in prediction accuracy",
+            "verified": true,
+            "category": "performance",
+            "timeframe": "comparative",
+            "impact_area": "quality"
+        },
+        {
+            "value": "terabytes",
+            "context": "of manufacturing data analyzed",
+            "verified": true,
+            "category": "scale",
+            "timeframe": "cumulative",
+            "impact_area": "data_processing"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "infrastructure",
+            "detail": "Built data pipeline from scratch",
+            "proficiency": "expert"
+        },
+        {
+            "category": "data",
+            "detail": "High-dimensional input processing",
+            "proficiency": "expert"
+        },
+        {
+            "category": "algorithms",
+            "detail": "Multiple ML algorithms evaluated and optimized",
+            "proficiency": "expert"
+        },
+        {
+            "category": "automation",
+            "detail": "Automated retraining capability",
+            "proficiency": "expert"
+        },
+        {
+            "category": "integration",
+            "detail": "Production process integration",
+            "proficiency": "expert"
+        },
+        {
+            "category": "validation",
+            "detail": "Performance validation methods",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Critical for navigation systems reliability",
+        "Enabled proactive process intervention",
+        "Informed strategic process improvements",
+        "Maintained critical program timeline",
+        "Optimized resource allocation",
+        "Established scalable ML framework",
+        "Reduced operational costs",
+        "Improved product quality"
+    ],
+    "skills": [
+        "Machine Learning",
+        "Data Pipeline Development",
+        "Production Optimization",
+        "Root Cause Analysis",
+        "Team Leadership",
+        "Process Improvement",
+        "Data Analysis",
+        "Algorithm Design",
+        "System Integration",
+        "Stakeholder Management",
+        "Technical Documentation",
+        "Cross-functional Leadership"
+    ],
+    "tags": [
+        "AI/ML",
+        "Production",
+        "Leadership",
+        "Data Science",
+        "Manufacturing",
+        "Innovation",
+        "Process Optimization",
+        "Enterprise Scale",
+        "Mission Critical",
+        "Defense Industry"
+    ],
+    "methodology": [
+        "Agile",
+        "Data-Driven Development",
+        "Iterative Optimization"
+    ],
+    "domain_impact": [
+        "Defense",
+        "Manufacturing",
+        "Navigation Systems"
+    ],
+    "tech_stack": [
+        "Python",
+        "SQL",
+        "TensorFlow",
+        "Scikit-learn",
+        "Git",
+        "Docker"
+    ],
+    "certification_required": [
+        "Security Clearance"
+    ]
 }

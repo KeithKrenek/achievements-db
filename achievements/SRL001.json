@@ -1,0 +1,250 @@
+{
+    "id": "SRL001",
+    "core": "Led groundbreaking research initiatives across neuroscience, photonics, and radiation physics, directing cross-functional teams and establishing new research capabilities",
+    "dates": {
+        "start": "2015-09",
+        "end": "present"
+    },
+    "company": "Multiple (Harvard, Draper Lab, Texas A&M)",
+    "variations": {
+        "research_director": {
+            "short": "Led multi-disciplinary research",
+            "medium": "Directed cross-functional research programs",
+            "detailed": "Led diverse research teams across multiple disciplines, establishing new research directions and capabilities while maintaining program objectives"
+        },
+        "principal_investigator": {
+            "short": "Led research investigations",
+            "medium": "Spearheaded critical research programs",
+            "detailed": "Directed comprehensive research programs from conception through execution, managing resources and delivering breakthrough results"
+        },
+        "lab_founder": {
+            "short": "Established research facilities",
+            "medium": "Built research labs from ground up",
+            "detailed": "Created and equipped new research facilities, establishing protocols and building teams for cutting-edge investigations"
+        },
+        "technical_mentor": {
+            "short": "Mentored research teams",
+            "medium": "Guided technical team development",
+            "detailed": "Provided technical and professional guidance to research teams, fostering growth and building technical capabilities"
+        },
+        "innovation_lead": {
+            "short": "Drove research innovation",
+            "medium": "Led breakthrough research initiatives",
+            "detailed": "Spearheaded development of novel research approaches, creating new possibilities for scientific investigation"
+        },
+        "research_strategist": {
+            "short": "Developed research strategies",
+            "medium": "Created comprehensive research plans",
+            "detailed": "Developed and implemented strategic research plans aligning technical goals with organizational objectives"
+        },
+        "collaboration_lead": {
+            "short": "Led research partnerships",
+            "medium": "Managed multi-institution collaborations",
+            "detailed": "Directed collaborative research efforts across institutions, coordinating resources and aligning objectives"
+        },
+        "publication_lead": {
+            "short": "Led research publications",
+            "medium": "Directed scientific publications",
+            "detailed": "Led development and publication of research findings in prestigious journals, establishing scientific credibility"
+        }
+    },
+    "metrics": [
+        {
+            "value": "100+",
+            "context": "experiments conducted",
+            "verified": true,
+            "category": "scale",
+            "timeframe": "cumulative",
+            "impact_area": "research_productivity"
+        },
+        {
+            "value": "terabytes",
+            "context": "of research data analyzed",
+            "verified": true,
+            "category": "data",
+            "timeframe": "cumulative",
+            "impact_area": "analysis_capability"
+        },
+        {
+            "value": "4+",
+            "context": "years mentoring team members",
+            "verified": true,
+            "category": "leadership",
+            "timeframe": "cumulative",
+            "impact_area": "team_development"
+        },
+        {
+            "value": "5",
+            "context": "peer-reviewed publications",
+            "verified": true,
+            "category": "impact",
+            "timeframe": "cumulative",
+            "impact_area": "scientific_contribution"
+        },
+        {
+            "value": "1",
+            "context": "patent awarded",
+            "verified": true,
+            "category": "innovation",
+            "timeframe": "cumulative",
+            "impact_area": "intellectual_property"
+        },
+        {
+            "value": "2x",
+            "context": "group size growth through strategic hiring",
+            "verified": true,
+            "category": "growth",
+            "timeframe": "comparative",
+            "impact_area": "team_building"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "research",
+            "detail": "Multi-disciplinary investigation methods",
+            "proficiency": "expert"
+        },
+        {
+            "category": "analysis",
+            "detail": "Advanced data analysis techniques",
+            "proficiency": "expert"
+        },
+        {
+            "category": "equipment",
+            "detail": "Research facility development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "protocols",
+            "detail": "Experimental procedure development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "collaboration",
+            "detail": "Multi-institution coordination",
+            "proficiency": "expert"
+        },
+        {
+            "category": "publication",
+            "detail": "Scientific writing and presentation",
+            "proficiency": "expert"
+        },
+        {
+            "category": "mentoring",
+            "detail": "Technical team development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "strategy",
+            "detail": "Research program development",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Advanced scientific knowledge",
+        "Built research capabilities",
+        "Developed team expertise",
+        "Created new technologies",
+        "Established research protocols",
+        "Generated intellectual property",
+        "Fostered collaborations",
+        "Enhanced research efficiency",
+        "Advanced field understanding",
+        "Created commercial opportunities"
+    ],
+    "skills": [
+        "Research Leadership",
+        "Scientific Investigation",
+        "Team Development",
+        "Strategic Planning",
+        "Data Analysis",
+        "Technical Writing",
+        "Grant Writing",
+        "Program Management",
+        "Mentoring",
+        "Collaboration Management",
+        "Resource Allocation",
+        "Risk Assessment"
+    ],
+    "tags": [
+        "Research",
+        "Leadership",
+        "Innovation",
+        "Mentoring",
+        "Publication",
+        "Collaboration",
+        "Strategy",
+        "Development"
+    ],
+    "methodology": [
+        "Scientific Method",
+        "Agile Research",
+        "Design of Experiments",
+        "Statistical Analysis",
+        "Iterative Development"
+    ],
+    "domain_impact": [
+        "Neuroscience",
+        "Photonics",
+        "Radiation Physics",
+        "Materials Science",
+        "Bioengineering"
+    ],
+    "publications": [
+        {
+            "title": "Design of CMOS nanoelectrode array",
+            "journal": "IEEE Journal of Solid-State Circuits",
+            "year": 2020,
+            "impact": "Advanced neuroelectronic interfaces"
+        },
+        {
+            "title": "Lab on a Chip",
+            "journal": "Nature Biomedical Engineering",
+            "year": 2020,
+            "impact": "Advanced microfluidic technology"
+        }
+    ],
+    "research_facilities": [
+        "Wet Biology Lab",
+        "Characterization Lab",
+        "Radiation Test Facility",
+        "Cleanroom",
+        "Analysis Lab"
+    ],
+    "awards_recognition": [
+        {
+            "name": "Harvard Distinction in Teaching",
+            "year": "2019",
+            "impact": "Recognition of mentorship excellence"
+        },
+        {
+            "name": "NSF Graduate Research Fellowship",
+            "year": "2015",
+            "impact": "Research funding and recognition"
+        }
+    ],
+    "teaching_impact": [
+        "Harvard Teaching Award",
+        "Graduate Student Mentoring",
+        "Technical Team Training",
+        "Public Science Communication",
+        "Industry-Academia Bridge"
+    ],
+    "key_collaborations": [
+        {
+            "institution": "Harvard University",
+            "focus": "Neuroelectronic interfaces",
+            "outcome": "Published research and patent"
+        },
+        {
+            "institution": "Draper Laboratory",
+            "focus": "Radiation physics",
+            "outcome": "Advanced testing methods"
+        },
+        {
+            "institution": "MIT Lincoln Laboratory",
+            "focus": "Advanced imaging",
+            "outcome": "Improved system performance"
+        }
+    ]
+}

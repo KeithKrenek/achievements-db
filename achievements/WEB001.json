@@ -1,83 +1,228 @@
 {
-    "id": "WEB001",
-    "core": "Developed responsive professional website for engineering manufacturing company",
-    "dates": {
-      "start": "2023-06",
-      "end": "2023-09"
-    },
-    "company": "Elementsist",
-    "variations": {
+  "id": "WEB001",
+  "core": "Developed diverse portfolio of digital solutions including enterprise websites, marketing platforms, and SaaS applications, driving significant business growth and digital transformation",
+  "dates": {
+      "start": "2011-12",
+      "end": "present"
+  },
+  "company": "Multiple (Wood Group Mustang, Elementsist, Independent)",
+  "variations": {
+      "technical_ic": {
+          "short": "Built enterprise web platforms",
+          "medium": "Developed sophisticated web applications and platforms",
+          "detailed": "Created enterprise-grade web solutions including company-wide knowledge bases, no-code websites, and data-driven marketing platforms"
+      },
       "web_developer": {
-        "short": "Built manufacturing company website",
-        "medium": "Developed CMS-driven website with advanced interactions",
-        "detailed": "Architected professional manufacturing website using Webflow's CMS and advanced interactions, implementing responsive design and optimized asset delivery"
+          "short": "Engineered responsive websites",
+          "medium": "Developed professional websites using modern frameworks",
+          "detailed": "Built responsive, user-friendly websites using both traditional development and no-code platforms, implementing advanced features and analytics"
+      },
+      "digital_strategist": {
+          "short": "Led digital transformation initiatives",
+          "medium": "Developed comprehensive digital marketing strategies",
+          "detailed": "Created and executed digital strategies incorporating analytics, automation, and conversion optimization to drive business growth"
+      },
+      "marketing_technologist": {
+          "short": "Implemented marketing technology",
+          "medium": "Developed data-driven marketing systems",
+          "detailed": "Built integrated marketing technology systems combining analytics, automation, and conversion tracking to optimize customer acquisition"
+      },
+      "content_strategist": {
+          "short": "Developed content strategies",
+          "medium": "Created industry-specific content solutions",
+          "detailed": "Developed comprehensive content strategies and management systems for various industries, optimizing for engagement and conversion"
+      },
+      "growth_engineer": {
+          "short": "Built growth automation systems",
+          "medium": "Engineered automated growth systems",
+          "detailed": "Created automated systems for lead generation and conversion optimization, integrating analytics and marketing automation"
       },
       "ux_designer": {
-        "short": "Designed manufacturing website UX",
-        "medium": "Created responsive, user-focused manufacturing website",
-        "detailed": "Designed intuitive user experience for manufacturing website with custom animations and optimized mobile-to-desktop transitions"
+          "short": "Designed user experiences",
+          "medium": "Created intuitive digital interfaces",
+          "detailed": "Designed and implemented user-centered digital experiences optimizing for engagement and conversion"
       },
-      "technical_lead": {
-        "short": "Led manufacturing website development",
-        "medium": "Led end-to-end development of company website",
-        "detailed": "Managed complete website development from requirements gathering through deployment, implementing advanced features and optimizations"
-      },
-      "marketing_specialist": {
-        "short": "Created lead-generating website",
-        "medium": "Developed conversion-optimized manufacturing website",
-        "detailed": "Created strategic online presence with integrated lead generation and optimized conversion pathways"
+      "technical_consultant": {
+          "short": "Advised on digital transformation",
+          "medium": "Guided technical implementation of digital strategies",
+          "detailed": "Provided strategic guidance on digital transformation initiatives, from technical architecture to implementation"
       }
-    },
-    "metrics": [
+  },
+  "metrics": [
       {
-        "value": "70%+",
-        "context": "development time reduction vs traditional coding",
-        "verified": true
+          "value": "500+",
+          "context": "employees served by enterprise website",
+          "verified": true,
+          "category": "scale",
+          "timeframe": "continuous",
+          "impact_area": "internal_communications"
       },
       {
-        "value": "500+",
-        "context": "employees supported",
-        "verified": true
+          "value": "$85k",
+          "context": "monthly revenue achieved from $0 in 8 months",
+          "verified": true,
+          "category": "growth",
+          "timeframe": "8 months",
+          "impact_area": "business_development"
       },
       {
-        "value": "improved",
-        "context": "search rankings",
-        "verified": true
+          "value": "40%",
+          "context": "increase in conversion rates",
+          "verified": true,
+          "category": "performance",
+          "timeframe": "comparative",
+          "impact_area": "marketing"
+      },
+      {
+          "value": "2",
+          "context": "professional websites built with Webflow",
+          "verified": true,
+          "category": "delivery",
+          "timeframe": "cumulative",
+          "impact_area": "web_development"
+      },
+      {
+          "value": "30%",
+          "context": "reduction in overhead costs",
+          "verified": true,
+          "category": "efficiency",
+          "timeframe": "comparative",
+          "impact_area": "operations"
+      },
+      {
+          "value": "15+",
+          "context": "engineers trained on new protocols",
+          "verified": true,
+          "category": "training",
+          "timeframe": "cumulative",
+          "impact_area": "knowledge_transfer"
       }
-    ],
-    "technical_details": [
-      "Webflow CMS implementation",
-      "Advanced interactions",
-      "Custom animations",
-      "Responsive design",
-      "Image delivery optimization",
-      "Contact form integration",
-      "SEO optimization",
-      "Performance tuning",
-      "Analytics integration"
-    ],
-    "impact": [
-      "Elevated brand presence",
-      "Improved lead generation",
-      "Enhanced product showcase",
-      "Reduced page load times",
-      "Optimized search presence",
-      "Enabled content management"
-    ],
-    "skills": [
+  ],
+  "technical_details": [
+      {
+          "category": "web",
+          "detail": "Responsive web development",
+          "proficiency": "expert"
+      },
+      {
+          "category": "cms",
+          "detail": "Content management systems",
+          "proficiency": "expert"
+      },
+      {
+          "category": "analytics",
+          "detail": "Meta Pixel implementation",
+          "proficiency": "expert"
+      },
+      {
+          "category": "automation",
+          "detail": "Marketing automation",
+          "proficiency": "expert"
+      },
+      {
+          "category": "platform",
+          "detail": "Webflow development",
+          "proficiency": "expert"
+      },
+      {
+          "category": "design",
+          "detail": "UI/UX design",
+          "proficiency": "expert"
+      },
+      {
+          "category": "optimization",
+          "detail": "Conversion optimization",
+          "proficiency": "expert"
+      },
+      {
+          "category": "integration",
+          "detail": "Third-party platform integration",
+          "proficiency": "expert"
+      }
+  ],
+  "impact": [
+      "Scaled business revenue rapidly",
+      "Reduced operational costs",
+      "Improved employee productivity",
+      "Enhanced user engagement",
+      "Streamlined content management",
+      "Optimized conversion rates",
+      "Established digital presence",
+      "Improved data-driven decision making",
+      "Enhanced brand visibility",
+      "Created scalable solutions"
+  ],
+  "skills": [
       "Web Development",
-      "UX Design",
-      "CMS Implementation",
-      "Performance Optimization",
-      "SEO",
+      "Digital Strategy",
+      "Content Management",
+      "Analytics Implementation",
+      "UX/UI Design",
+      "Marketing Automation",
+      "Growth Engineering",
+      "Technical Writing",
+      "Project Management",
+      "Stakeholder Management",
+      "Data Analysis",
+      "Conversion Optimization"
+  ],
+  "tags": [
+      "Web Development",
+      "Digital Marketing",
       "Content Strategy",
-      "Analytics"
-    ],
-    "tags": [
-      "Web Development",
-      "Design",
-      "Marketing",
-      "CMS",
-      "Business Impact"
-    ]
-  }
+      "Analytics",
+      "Automation",
+      "Growth",
+      "UX/UI",
+      "Enterprise"
+  ],
+  "methodology": [
+      "Agile Development",
+      "Growth Hacking",
+      "Data-Driven Design",
+      "Iterative Optimization",
+      "User-Centered Design"
+  ],
+  "domain_impact": [
+      "Enterprise Solutions",
+      "Digital Marketing",
+      "E-commerce",
+      "Professional Services",
+      "Political Campaigns"
+  ],
+  "tech_stack": [
+      "Webflow",
+      "HTML/CSS",
+      "JavaScript",
+      "Analytics Platforms",
+      "CMS Systems",
+      "Marketing Tools",
+      "Meta Pixel",
+      "SEO Tools"
+  ],
+  "key_projects": [
+      {
+          "name": "Enterprise Knowledge Base",
+          "impact": "Served 500+ employees globally",
+          "platform": "SharePoint"
+      },
+      {
+          "name": "Digital Services Business",
+          "impact": "Scaled to $85k monthly revenue",
+          "platform": "Multiple"
+      },
+      {
+          "name": "Professional Websites",
+          "impact": "Created industry-specific solutions",
+          "platform": "Webflow"
+      }
+  ],
+  "business_capabilities": [
+      "Lead Generation",
+      "Conversion Optimization",
+      "Content Management",
+      "Performance Analytics",
+      "User Engagement",
+      "Brand Development"
+  ]
+}

@@ -1,0 +1,244 @@
+{
+    "id": "MPD002",
+    "core": "Led development and optimization of manufacturing processes for complex systems across biotech, defense, and photonics industries, achieving significant improvements in yield, efficiency, and scalability",
+    "dates": {
+        "start": "2015-09",
+        "end": "present"
+    },
+    "company": "Multiple (Draper Lab, Harvard, MIT Lincoln Lab)",
+    "variations": {
+        "process_engineer": {
+            "short": "Developed manufacturing processes",
+            "medium": "Created advanced production methods",
+            "detailed": "Engineered sophisticated manufacturing processes incorporating automation, quality control, and scalability considerations"
+        },
+        "manufacturing_lead": {
+            "short": "Led production development",
+            "medium": "Directed manufacturing optimization",
+            "detailed": "Led comprehensive manufacturing process development from concept through implementation, achieving significant yield improvements"
+        },
+        "scale_up_specialist": {
+            "short": "Led process scale-up",
+            "medium": "Managed manufacturing scale-up",
+            "detailed": "Directed transition of processes from laboratory to production scale, ensuring reliability and efficiency"
+        },
+        "optimization_engineer": {
+            "short": "Optimized production processes",
+            "medium": "Led process optimization initiatives",
+            "detailed": "Created and implemented comprehensive process optimization strategies, significantly improving manufacturing efficiency"
+        },
+        "integration_manager": {
+            "short": "Managed process integration",
+            "medium": "Led manufacturing integration",
+            "detailed": "Coordinated integration of multiple manufacturing processes and systems, ensuring seamless production flow"
+        },
+        "quality_engineer": {
+            "short": "Led manufacturing quality",
+            "medium": "Developed quality control systems",
+            "detailed": "Created comprehensive quality control frameworks for complex manufacturing processes"
+        },
+        "automation_specialist": {
+            "short": "Developed automated processes",
+            "medium": "Created automation solutions",
+            "detailed": "Engineered automated manufacturing systems incorporating advanced control and monitoring capabilities"
+        },
+        "technology_transfer_lead": {
+            "short": "Led process transfer",
+            "medium": "Managed technology transfer",
+            "detailed": "Directed transfer of manufacturing processes between facilities and organizations"
+        }
+    },
+    "metrics": [
+        {
+            "value": "5x",
+            "context": "improvement in manufacturing yield",
+            "verified": true,
+            "category": "efficiency",
+            "timeframe": "comparative",
+            "impact_area": "production_yield"
+        },
+        {
+            "value": "40%",
+            "context": "reduction in process steps",
+            "verified": true,
+            "category": "optimization",
+            "timeframe": "comparative",
+            "impact_area": "process_efficiency"
+        },
+        {
+            "value": "100+",
+            "context": "devices successfully manufactured",
+            "verified": true,
+            "category": "scale",
+            "timeframe": "cumulative",
+            "impact_area": "production_volume"
+        },
+        {
+            "value": "99.9%",
+            "context": "quality standards compliance",
+            "verified": true,
+            "category": "quality",
+            "timeframe": "continuous",
+            "impact_area": "product_quality"
+        },
+        {
+            "value": "3",
+            "context": "major processes scaled up",
+            "verified": true,
+            "category": "development",
+            "timeframe": "cumulative",
+            "impact_area": "process_maturation"
+        },
+        {
+            "value": "24/7",
+            "context": "automated operation achieved",
+            "verified": true,
+            "category": "automation",
+            "timeframe": "continuous",
+            "impact_area": "operational_efficiency"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "manufacturing",
+            "detail": "Process development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "automation",
+            "detail": "Manufacturing automation",
+            "proficiency": "expert"
+        },
+        {
+            "category": "quality",
+            "detail": "Quality control systems",
+            "proficiency": "expert"
+        },
+        {
+            "category": "integration",
+            "detail": "Process integration",
+            "proficiency": "expert"
+        },
+        {
+            "category": "optimization",
+            "detail": "Yield improvement",
+            "proficiency": "expert"
+        },
+        {
+            "category": "scale-up",
+            "detail": "Production scale-up",
+            "proficiency": "expert"
+        },
+        {
+            "category": "validation",
+            "detail": "Process validation",
+            "proficiency": "expert"
+        },
+        {
+            "category": "documentation",
+            "detail": "Manufacturing documentation",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Improved production yield",
+        "Reduced manufacturing costs",
+        "Enhanced product quality",
+        "Increased operational efficiency",
+        "Enabled scalable production",
+        "Improved process reliability",
+        "Reduced manual operations",
+        "Established quality standards",
+        "Created manufacturing capabilities",
+        "Advanced production methods"
+    ],
+    "skills": [
+        "Process Development",
+        "Manufacturing Optimization",
+        "Quality Control",
+        "Automation Engineering",
+        "System Integration",
+        "Scale-up Strategy",
+        "Documentation",
+        "Risk Management",
+        "Project Leadership",
+        "Technical Training",
+        "Vendor Management",
+        "Cost Analysis"
+    ],
+    "tags": [
+        "Manufacturing",
+        "Process Development",
+        "Automation",
+        "Quality",
+        "Integration",
+        "Scale-up",
+        "Production",
+        "Optimization"
+    ],
+    "key_processes": [
+        {
+            "name": "Nanoelectrode Array Manufacturing",
+            "impact": "Enabled commercial production",
+            "innovation": "Novel fabrication method"
+        },
+        {
+            "name": "Biotech Device Production",
+            "impact": "5x yield improvement",
+            "innovation": "Automated assembly"
+        },
+        {
+            "name": "Photonics Integration",
+            "impact": "Enhanced reliability",
+            "innovation": "Advanced packaging"
+        }
+    ],
+    "manufacturing_capabilities": [
+        {
+            "type": "Clean Room Processing",
+            "applications": "Multiple devices",
+            "features": "Class 100 environment"
+        },
+        {
+            "type": "Automated Assembly",
+            "applications": "System integration",
+            "features": "24/7 operation"
+        },
+        {
+            "type": "Quality Control",
+            "applications": "All processes",
+            "features": "Real-time monitoring"
+        }
+    ],
+    "process_standards": [
+        "GMP Compliance",
+        "ISO Standards",
+        "Military Specifications",
+        "Quality System Regulations",
+        "Environmental Standards"
+    ],
+    "optimization_methods": [
+        "Statistical Process Control",
+        "Design of Experiments",
+        "Lean Manufacturing",
+        "Six Sigma",
+        "Continuous Improvement"
+    ],
+    "scale_up_strategies": [
+        {
+            "phase": "Lab to Pilot",
+            "challenges": "Process validation",
+            "solutions": "Staged implementation"
+        },
+        {
+            "phase": "Pilot to Production",
+            "challenges": "Quality maintenance",
+            "solutions": "Automated control"
+        },
+        {
+            "phase": "Production Optimization",
+            "challenges": "Efficiency improvement",
+            "solutions": "Continuous monitoring"
+        }
+    ]
+}

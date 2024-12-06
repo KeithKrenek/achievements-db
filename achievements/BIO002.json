@@ -1,211 +1,211 @@
 {
-  "id": "BIO002",
-  "core": "Invented breakthrough neuroelectronic interface system enabling scalable cellular analysis, leading to successful biotech startup",
-  "dates": {
-      "start": "2015-09",
-      "end": "2019-07"
-  },
-  "company": "Harvard University",
-  "variations": {
-      "research_scientist": {
-          "short": "Led development of novel neuroelectronic interface",
-          "medium": "Invented scalable neuroelectronic interface system for cellular analysis",
-          "detailed": "Pioneered fabrication process for nanopipette electrode arrays on CMOS chip, enabling unprecedented high-throughput analysis of cellular networks and drug screening"
-      },
-      "technical_lead": {
-          "short": "Led neurotech platform development",
-          "medium": "Led development of commercial-ready neurotech platform",
-          "detailed": "Led cross-functional development of neuroelectronic interface technology from concept through successful commercialization, coordinating between academic researchers, fabrication facilities, and industry partners"
-      },
-      "biotech_engineer": {
-          "short": "Engineered next-gen cell analysis platform",
-          "medium": "Developed integrated cellular analysis platform with commercial applications",
-          "detailed": "Created scalable platform for analyzing cellular networks, combining CMOS technology with novel electrode fabrication techniques to enable high-throughput drug screening"
-      },
-      "startup_founder": {
-          "short": "Founded biotech startup CytoTronics",
-          "medium": "Created and commercialized foundational technology for CytoTronics",
-          "detailed": "Invented core technology and scalable manufacturing process leading to successful biotech startup CytoTronics, now delivering commercial solutions for drug discovery"
-      },
-      "innovation_lead": {
-          "short": "Pioneered new biotech analysis method",
-          "medium": "Led innovation in cellular analysis technology",
-          "detailed": "Spearheaded development of novel approach to cellular analysis, creating new possibilities for drug discovery and neuroscience research"
-      },
-      "subject_matter_expert": {
-          "short": "Led neurotech development strategy",
-          "medium": "Guided development of novel biosensor platform",
-          "detailed": "Provided technical leadership in development of complex biosensor system, integrating expertise in electronics, biology, and materials science"
-      },
-      "consultant": {
-          "short": "Advised on biotech commercialization",
-          "medium": "Guided translation of academic research to commercial product",
-          "detailed": "Provided strategic guidance on commercialization of complex biotech platform, from prototype refinement through market validation"
-      }
-  },
-  "metrics": [
-      {
-          "value": "5x",
-          "context": "improvement in system lifetime",
-          "verified": true,
-          "category": "performance",
-          "timeframe": "comparative",
-          "impact_area": "product_reliability"
-      },
-      {
-          "value": "100+",
-          "context": "experiments conducted",
-          "verified": true,
-          "category": "scale",
-          "timeframe": "project duration",
-          "impact_area": "research_validation"
-      },
-      {
-          "value": "10x",
-          "context": "increase in experimental throughput",
-          "verified": true,
-          "category": "efficiency",
-          "timeframe": "comparative",
-          "impact_area": "productivity"
-      },
-      {
-          "value": "terabytes",
-          "context": "of experimental data analyzed",
-          "verified": true,
-          "category": "scale",
-          "timeframe": "cumulative",
-          "impact_area": "data_processing"
-      },
-      {
-          "value": "4096",
-          "context": "simultaneous recording channels",
-          "verified": true,
-          "category": "performance",
-          "timeframe": "per device",
-          "impact_area": "technical_capability"
-      },
-      {
-          "value": "1",
-          "context": "patent filed",
-          "verified": true,
-          "category": "innovation",
-          "timeframe": "project duration",
-          "impact_area": "intellectual_property"
-      }
-  ],
-  "technical_details": [
-      {
-          "category": "fabrication",
-          "detail": "Nanopipette electrode fabrication",
-          "proficiency": "expert"
-      },
-      {
-          "category": "integration",
-          "detail": "CMOS integration",
-          "proficiency": "expert"
-      },
-      {
-          "category": "process",
-          "detail": "Biocompatible manufacturing",
-          "proficiency": "expert"
-      },
-      {
-          "category": "design",
-          "detail": "System packaging design",
-          "proficiency": "expert"
-      },
-      {
-          "category": "biology",
-          "detail": "Cell culture protocols",
-          "proficiency": "expert"
-      },
-      {
-          "category": "software",
-          "detail": "Data acquisition systems",
-          "proficiency": "expert"
-      },
-      {
-          "category": "analysis",
-          "detail": "Analysis pipelines",
-          "proficiency": "expert"
-      },
-      {
-          "category": "validation",
-          "detail": "Experimental validation",
-          "proficiency": "expert"
-      },
-      {
-          "category": "software",
-          "detail": "Cell morphology analysis automation",
-          "proficiency": "expert"
-      }
-  ],
-  "impact": [
-      "Founded successful biotech startup",
-      "Advanced neuroscience research capabilities",
-      "Enabled high-throughput drug screening",
-      "Created scalable analysis platform",
-      "Improved device reliability",
-      "Established new methodology",
-      "Generated valuable intellectual property",
-      "Created jobs in biotech sector",
-      "Accelerated drug discovery process",
-      "Advanced brain research tools"
-  ],
-  "skills": [
-      "Microfabrication",
-      "CMOS Integration",
-      "Biotech Development",
-      "Experimental Design",
-      "Data Analysis",
-      "Process Development",
-      "Patent Development",
-      "Team Leadership",
-      "Strategic Planning",
-      "Research Management",
-      "Technology Transfer",
-      "Commercial Development"
-  ],
-  "tags": [
-      "Biotech",
-      "Hardware",
-      "Research",
-      "Startup",
-      "Innovation",
-      "Drug Discovery",
-      "Neuroscience",
-      "Commercial Success"
-  ],
-  "methodology": [
-      "Scientific Method",
-      "Design for Manufacturing",
-      "Iterative Development",
-      "Technology Transfer"
-  ],
-  "domain_impact": [
-      "Biotechnology",
-      "Pharmaceuticals",
-      "Neuroscience",
-      "Drug Discovery"
-  ],
-  "tech_stack": [
-      "CMOS Technology",
-      "Python",
-      "MATLAB",
-      "CAD Tools",
-      "Data Analysis Software",
-      "Microscopy Systems"
-  ],
-  "certification_required": [
-      "Lab Safety",
-      "Human Subjects Research"
-  ],
-  "publications": [
-      {
-          "title": "The design of a CMOS nanoelectrode array with 4096 current-clamp/voltage-clamp amplifiers for intracellular recording/stimulation of mammalian neurons",
-          "journal": "IEEE Journal of Solid-State Circuits",
-          "year": 2020,
-          "impact": "Demonstrated system capabilities"
-      }
-  ]
+    "id": "BIO002",
+    "core": "Invented breakthrough neuroelectronic interface system enabling scalable cellular analysis, leading to successful biotech startup",
+    "dates": {
+        "start": "2015-09",
+        "end": "2019-07"
+    },
+    "company": "Harvard University",
+    "variations": {
+        "research_scientist": {
+            "short": "Led development of novel neuroelectronic interface",
+            "medium": "Invented scalable neuroelectronic interface system for cellular analysis",
+            "detailed": "Pioneered fabrication process for nanopipette electrode arrays on CMOS chip, enabling unprecedented high-throughput analysis of cellular networks and drug screening"
+        },
+        "technical_lead": {
+            "short": "Led neurotech platform development",
+            "medium": "Led development of commercial-ready neurotech platform",
+            "detailed": "Led cross-functional development of neuroelectronic interface technology from concept through successful commercialization, coordinating between academic researchers, fabrication facilities, and industry partners"
+        },
+        "biotech_engineer": {
+            "short": "Engineered next-gen cell analysis platform",
+            "medium": "Developed integrated cellular analysis platform with commercial applications",
+            "detailed": "Created scalable platform for analyzing cellular networks, combining CMOS technology with novel electrode fabrication techniques to enable high-throughput drug screening"
+        },
+        "startup_founder": {
+            "short": "Founded biotech startup CytoTronics",
+            "medium": "Created and commercialized foundational technology for CytoTronics",
+            "detailed": "Invented core technology and scalable manufacturing process leading to successful biotech startup CytoTronics, now delivering commercial solutions for drug discovery"
+        },
+        "innovation_lead": {
+            "short": "Pioneered new biotech analysis method",
+            "medium": "Led innovation in cellular analysis technology",
+            "detailed": "Spearheaded development of novel approach to cellular analysis, creating new possibilities for drug discovery and neuroscience research"
+        },
+        "subject_matter_expert": {
+            "short": "Led neurotech development strategy",
+            "medium": "Guided development of novel biosensor platform",
+            "detailed": "Provided technical leadership in development of complex biosensor system, integrating expertise in electronics, biology, and materials science"
+        },
+        "consultant": {
+            "short": "Advised on biotech commercialization",
+            "medium": "Guided translation of academic research to commercial product",
+            "detailed": "Provided strategic guidance on commercialization of complex biotech platform, from prototype refinement through market validation"
+        }
+    },
+    "metrics": [
+        {
+            "value": "5x",
+            "context": "improvement in system lifetime",
+            "verified": true,
+            "category": "performance",
+            "timeframe": "comparative",
+            "impact_area": "product_reliability"
+        },
+        {
+            "value": "100+",
+            "context": "experiments conducted",
+            "verified": true,
+            "category": "scale",
+            "timeframe": "project duration",
+            "impact_area": "research_validation"
+        },
+        {
+            "value": "10x",
+            "context": "increase in experimental throughput",
+            "verified": true,
+            "category": "efficiency",
+            "timeframe": "comparative",
+            "impact_area": "productivity"
+        },
+        {
+            "value": "terabytes",
+            "context": "of experimental data analyzed",
+            "verified": true,
+            "category": "scale",
+            "timeframe": "cumulative",
+            "impact_area": "data_processing"
+        },
+        {
+            "value": "4096",
+            "context": "simultaneous recording channels",
+            "verified": true,
+            "category": "performance",
+            "timeframe": "per device",
+            "impact_area": "technical_capability"
+        },
+        {
+            "value": "1",
+            "context": "patent filed",
+            "verified": true,
+            "category": "innovation",
+            "timeframe": "project duration",
+            "impact_area": "intellectual_property"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "fabrication",
+            "detail": "Nanopipette electrode fabrication",
+            "proficiency": "expert"
+        },
+        {
+            "category": "integration",
+            "detail": "CMOS integration",
+            "proficiency": "expert"
+        },
+        {
+            "category": "process",
+            "detail": "Biocompatible manufacturing",
+            "proficiency": "expert"
+        },
+        {
+            "category": "design",
+            "detail": "System packaging design",
+            "proficiency": "expert"
+        },
+        {
+            "category": "biology",
+            "detail": "Cell culture protocols",
+            "proficiency": "expert"
+        },
+        {
+            "category": "software",
+            "detail": "Data acquisition systems",
+            "proficiency": "expert"
+        },
+        {
+            "category": "analysis",
+            "detail": "Analysis pipelines",
+            "proficiency": "expert"
+        },
+        {
+            "category": "validation",
+            "detail": "Experimental validation",
+            "proficiency": "expert"
+        },
+        {
+            "category": "software",
+            "detail": "Cell morphology analysis automation",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Founded successful biotech startup",
+        "Advanced neuroscience research capabilities",
+        "Enabled high-throughput drug screening",
+        "Created scalable analysis platform",
+        "Improved device reliability",
+        "Established new methodology",
+        "Generated valuable intellectual property",
+        "Created jobs in biotech sector",
+        "Accelerated drug discovery process",
+        "Advanced brain research tools"
+    ],
+    "skills": [
+        "Microfabrication",
+        "CMOS Integration",
+        "Biotech Development",
+        "Experimental Design",
+        "Data Analysis",
+        "Process Development",
+        "Patent Development",
+        "Team Leadership",
+        "Strategic Planning",
+        "Research Management",
+        "Technology Transfer",
+        "Commercial Development"
+    ],
+    "tags": [
+        "Biotech",
+        "Hardware",
+        "Research",
+        "Startup",
+        "Innovation",
+        "Drug Discovery",
+        "Neuroscience",
+        "Commercial Success"
+    ],
+    "methodology": [
+        "Scientific Method",
+        "Design for Manufacturing",
+        "Iterative Development",
+        "Technology Transfer"
+    ],
+    "domain_impact": [
+        "Biotechnology",
+        "Pharmaceuticals",
+        "Neuroscience",
+        "Drug Discovery"
+    ],
+    "tech_stack": [
+        "CMOS Technology",
+        "Python",
+        "MATLAB",
+        "CAD Tools",
+        "Data Analysis Software",
+        "Microscopy Systems"
+    ],
+    "certification_required": [
+        "Lab Safety",
+        "Human Subjects Research"
+    ],
+    "publications": [
+        {
+            "title": "The design of a CMOS nanoelectrode array with 4096 current-clamp/voltage-clamp amplifiers for intracellular recording/stimulation of mammalian neurons",
+            "journal": "IEEE Journal of Solid-State Circuits",
+            "year": 2020,
+            "impact": "Demonstrated system capabilities"
+        }
+    ]
 }

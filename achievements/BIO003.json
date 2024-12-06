@@ -1,81 +1,178 @@
 {
-    "id": "BIO003",
-    "core": "Developed high-throughput microfluidic system for cell aging studies",
-    "dates": {
-      "start": "2013-08",
-      "end": "2015-05"
-    },
-    "company": "Texas A&M NanoBio Systems Lab",
-    "variations": {
-      "research_scientist": {
-        "short": "Developed microfluidic aging system",
-        "medium": "Created microfluidic platform for aging studies",
-        "detailed": "Designed and implemented microfluidic system for studying cellular aging, incorporating automated analysis and high-throughput processing"
+  "id": "BIO003",
+  "core": "Invented and commercialized breakthrough neuroelectronic manufacturing process leading to successful biotech startup CytoTronics, including patented technology for analyzing electrogenic cells",
+  "dates": {
+      "start": "2015-09",
+      "end": "2020-12"
+  },
+  "company": "CytoTronics (Harvard University Spinout)",
+  "variations": {
+      "founding_inventor": {
+          "short": "Created foundational technology",
+          "medium": "Invented core manufacturing process",
+          "detailed": "Invented scalable manufacturing method for nanoelectrode arrays that became foundation for successful biotech startup CytoTronics"
       },
-      "technical_ic": {
-        "short": "Built automated cell analysis system",
-        "medium": "Developed automated cell morphology analysis platform",
-        "detailed": "Engineered comprehensive system combining microfluidic device fabrication with automated cell analysis software"
+      "process_developer": {
+          "short": "Developed manufacturing process",
+          "medium": "Created biocompatible fabrication method",
+          "detailed": "Developed and optimized biocompatible electrochemistry process for manufacturing nanoelectrode arrays on CMOS chips, enabling commercial production"
       },
-      "automation_engineer": {
-        "short": "Automated cell analysis workflow",
-        "medium": "Created automated cellular analysis pipeline",
-        "detailed": "Developed automated analysis software that increased experimental throughput by 10x for cell aging studies"
+      "patent_inventor": {
+          "short": "Led patent development",
+          "medium": "Created patented cell analysis technology",
+          "detailed": "Invented and patented novel electronic circuits and methods for analyzing electrogenic cells, securing intellectual property protection"
       },
-      "project_lead": {
-        "short": "Led aging research platform development",
-        "medium": "Managed development of cell aging research tools",
-        "detailed": "Planned and executed multi-year project to build comprehensive tool for studying cell aging"
+      "commercialization_lead": {
+          "short": "Led technology transfer",
+          "medium": "Guided research-to-market transition",
+          "detailed": "Led transition of academic research into commercial venture, developing scalable manufacturing processes and establishing market presence"
       }
-    },
-    "metrics": [
+  },
+  "metrics": [
       {
-        "value": "10x",
-        "context": "increase in experimental throughput",
-        "verified": true
+          "value": "1",
+          "context": "patent awarded",
+          "verified": true,
+          "category": "intellectual_property",
+          "timeframe": "cumulative",
+          "impact_area": "technology_protection"
       },
       {
-        "value": "100+",
-        "context": "microfluidic devices fabricated",
-        "verified": true
+          "value": "5x",
+          "context": "improvement in device lifetime",
+          "verified": true,
+          "category": "performance",
+          "timeframe": "comparative",
+          "impact_area": "product_reliability"
       },
       {
-        "value": "multiple",
-        "context": "customer requirements met",
-        "verified": true
+          "value": "100%",
+          "context": "process adoption by startup",
+          "verified": true,
+          "category": "commercialization",
+          "timeframe": "continuous",
+          "impact_area": "technology_transfer"
+      },
+      {
+          "value": "4096",
+          "context": "recording channels achieved",
+          "verified": true,
+          "category": "technology",
+          "timeframe": "per device",
+          "impact_area": "technical_capability"
       }
-    ],
-    "technical_details": [
-      "Microfluidic device design",
-      "Clean room fabrication",
-      "Computer vision algorithms",
-      "Automated image analysis",
-      "Cell morphology quantification",
-      "Process optimization",
-      "Data pipeline development",
-      "User interface creation"
-    ],
-    "impact": [
-      "Accelerated aging research",
-      "Enabled high-throughput studies",
-      "Improved experimental accuracy",
-      "Reduced manual analysis time",
-      "Created reusable platform",
-      "Met research milestones"
-    ],
-    "skills": [
-      "Microfluidics",
-      "Device Fabrication",
-      "Image Analysis",
-      "Process Automation",
-      "Software Development",
-      "Project Management"
-    ],
-    "tags": [
+  ],
+  "technical_details": [
+      {
+          "category": "fabrication",
+          "detail": "Nanoelectrode array manufacturing",
+          "proficiency": "expert"
+      },
+      {
+          "category": "process",
+          "detail": "Biocompatible electrochemistry",
+          "proficiency": "expert"
+      },
+      {
+          "category": "integration",
+          "detail": "CMOS integration",
+          "proficiency": "expert"
+      },
+      {
+          "category": "validation",
+          "detail": "Process validation",
+          "proficiency": "expert"
+      },
+      {
+          "category": "scale-up",
+          "detail": "Manufacturing scale-up",
+          "proficiency": "expert"
+      }
+  ],
+  "impact": [
+      "Created successful biotech startup",
+      "Enabled commercial production",
+      "Advanced neuroscience capabilities",
+      "Generated valuable IP",
+      "Established manufacturing process",
+      "Improved device reliability",
+      "Created scalable solution",
+      "Advanced field knowledge",
+      "Enabled new applications",
+      "Created jobs in biotech sector"
+  ],
+  "skills": [
+      "Process Development",
+      "Manufacturing Scale-up",
+      "Patent Development",
+      "Technology Transfer",
+      "Biocompatible Design",
+      "Process Validation",
+      "Quality Control",
+      "Technical Documentation",
+      "Cross-functional Leadership",
+      "Commercialization Strategy"
+  ],
+  "tags": [
       "Biotech",
-      "Automation",
-      "Research",
-      "Software",
-      "Hardware"
-    ]
-  }
+      "Manufacturing",
+      "Innovation",
+      "Startup",
+      "Patents",
+      "Technology Transfer",
+      "Process Development",
+      "Commercialization"
+  ],
+  "patents": [
+      {
+          "number": "PCT/US2018/058081",
+          "title": "Electronic circuits for analyzing electrogenic cells",
+          "filing_date": "2018-11-30",
+          "status": "Granted",
+          "inventors": ["D Ham", "H Park", "K Krenek", "T Ye", "J Abbott", "W Wu"],
+          "commercial_use": "Active implementation at CytoTronics"
+      }
+  ],
+  "commercialization_stages": [
+      {
+          "stage": "Research Development",
+          "outcome": "Functional prototype",
+          "timeframe": "2015-2018"
+      },
+      {
+          "stage": "Process Optimization",
+          "outcome": "Scalable manufacturing",
+          "timeframe": "2018-2019"
+      },
+      {
+          "stage": "Technology Transfer",
+          "outcome": "Commercial implementation",
+          "timeframe": "2019-2020"
+      }
+  ],
+  "manufacturing_capabilities": [
+      {
+          "process": "Nanoelectrode Fabrication",
+          "scale": "Commercial production",
+          "status": "Active"
+      },
+      {
+          "process": "CMOS Integration",
+          "scale": "High-volume manufacturing",
+          "status": "Implemented"
+      },
+      {
+          "process": "Biocompatible Processing",
+          "scale": "Production level",
+          "status": "Validated"
+      }
+  ],
+  "publications": [
+      {
+          "title": "The design of a CMOS nanoelectrode array with 4096 current-clamp/voltage-clamp amplifiers for intracellular recording/stimulation of mammalian neurons",
+          "journal": "IEEE Journal of Solid-State Circuits",
+          "year": 2020,
+          "impact": "Demonstrated system capabilities"
+      }
+  ]
+}

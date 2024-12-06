@@ -1,0 +1,231 @@
+{
+    "id": "MPD001",
+    "core": "Led development and optimization of advanced materials and manufacturing processes for mission-critical applications in radiation environments, biotech, and precision sensors",
+    "dates": {
+        "start": "2015-09",
+        "end": "present"
+    },
+    "company": "Multiple (Draper Lab, Harvard, MIT Lincoln Lab)",
+    "variations": {
+        "materials_scientist": {
+            "short": "Developed advanced materials",
+            "medium": "Optimized materials for extreme environments",
+            "detailed": "Led development of radiation-resistant and biocompatible materials, combining materials science with advanced characterization techniques"
+        },
+        "process_engineer": {
+            "short": "Optimized manufacturing processes",
+            "medium": "Developed scalable manufacturing methods",
+            "detailed": "Created and optimized manufacturing processes for complex materials and devices, ensuring scalability and reproducibility"
+        },
+        "research_lead": {
+            "short": "Led materials research initiatives",
+            "medium": "Directed advanced materials development",
+            "detailed": "Spearheaded research into novel materials and processes, leading teams across multiple disciplines to achieve breakthrough performance"
+        },
+        "technical_lead": {
+            "short": "Led process development",
+            "medium": "Directed manufacturing optimization",
+            "detailed": "Led cross-functional teams in developing and implementing new manufacturing processes, balancing performance, cost, and scalability"
+        },
+        "quality_engineer": {
+            "short": "Established quality frameworks",
+            "medium": "Developed quality control systems",
+            "detailed": "Created comprehensive quality control frameworks for advanced materials manufacturing, ensuring consistent performance"
+        },
+        "innovation_lead": {
+            "short": "Pioneered new processes",
+            "medium": "Led manufacturing innovation",
+            "detailed": "Spearheaded development of novel manufacturing approaches, creating new capabilities for advanced materials production"
+        },
+        "characterization_specialist": {
+            "short": "Led materials analysis",
+            "medium": "Developed characterization methods",
+            "detailed": "Created and implemented advanced characterization techniques for novel materials and processes"
+        },
+        "manufacturing_scientist": {
+            "short": "Scaled production processes",
+            "medium": "Developed scalable manufacturing",
+            "detailed": "Translated laboratory processes to scalable manufacturing methods while maintaining critical performance parameters"
+        }
+    },
+    "metrics": [
+        {
+            "value": "5x",
+            "context": "improvement in device lifetime",
+            "verified": true,
+            "category": "performance",
+            "timeframe": "comparative",
+            "impact_area": "product_reliability"
+        },
+        {
+            "value": "30%",
+            "context": "reduction in radiation sensitivity",
+            "verified": true,
+            "category": "performance",
+            "timeframe": "comparative",
+            "impact_area": "radiation_hardness"
+        },
+        {
+            "value": "100+",
+            "context": "microfluidic devices fabricated",
+            "verified": true,
+            "category": "production",
+            "timeframe": "cumulative",
+            "impact_area": "manufacturing_scale"
+        },
+        {
+            "value": "99%",
+            "context": "cell viability maintained",
+            "verified": true,
+            "category": "performance",
+            "timeframe": "continuous",
+            "impact_area": "biocompatibility"
+        },
+        {
+            "value": "40%",
+            "context": "reduction in process steps",
+            "verified": true,
+            "category": "efficiency",
+            "timeframe": "comparative",
+            "impact_area": "manufacturing_efficiency"
+        },
+        {
+            "value": "3",
+            "context": "new material systems developed",
+            "verified": true,
+            "category": "innovation",
+            "timeframe": "cumulative",
+            "impact_area": "technical_capability"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "materials",
+            "detail": "Radiation-resistant materials development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "process",
+            "detail": "Biocompatible manufacturing",
+            "proficiency": "expert"
+        },
+        {
+            "category": "fabrication",
+            "detail": "Nano/micro-fabrication techniques",
+            "proficiency": "expert"
+        },
+        {
+            "category": "characterization",
+            "detail": "Advanced materials analysis",
+            "proficiency": "expert"
+        },
+        {
+            "category": "integration",
+            "detail": "Materials-process integration",
+            "proficiency": "expert"
+        },
+        {
+            "category": "optimization",
+            "detail": "Process optimization methods",
+            "proficiency": "expert"
+        },
+        {
+            "category": "quality",
+            "detail": "Quality control systems",
+            "proficiency": "expert"
+        },
+        {
+            "category": "scale-up",
+            "detail": "Manufacturing scale-up",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Enhanced device reliability",
+        "Improved radiation tolerance",
+        "Advanced manufacturing capabilities",
+        "Enabled new device architectures",
+        "Reduced production costs",
+        "Improved process reproducibility",
+        "Created scalable solutions",
+        "Enhanced product quality",
+        "Enabled new applications",
+        "Advanced field knowledge"
+    ],
+    "skills": [
+        "Materials Science",
+        "Process Development",
+        "Manufacturing Optimization",
+        "Quality Control",
+        "Experimental Design",
+        "Data Analysis",
+        "Team Leadership",
+        "Project Management",
+        "Technical Writing",
+        "Risk Assessment",
+        "Vendor Management",
+        "Cost Analysis"
+    ],
+    "tags": [
+        "Materials",
+        "Manufacturing",
+        "Research",
+        "Innovation",
+        "Quality Control",
+        "Process Development",
+        "Optimization",
+        "Scale-up"
+    ],
+    "methodology": [
+        "Design for Manufacturing",
+        "Quality by Design",
+        "Statistical Process Control",
+        "Design of Experiments",
+        "Lean Manufacturing"
+    ],
+    "domain_impact": [
+        "Defense Systems",
+        "Biotechnology",
+        "Medical Devices",
+        "Space Technology",
+        "Sensors"
+    ],
+    "tech_stack": [
+        "Fabrication Equipment",
+        "Characterization Tools",
+        "Analysis Software",
+        "Process Control Systems",
+        "Quality Management Systems"
+    ],
+    "key_achievements": [
+        {
+            "name": "Nanoelectrode Array Process",
+            "impact": "Enabled commercial production at CytoTronics",
+            "type": "Manufacturing Process"
+        },
+        {
+            "name": "Rad-Hard Optical Materials",
+            "impact": "30% improvement in radiation tolerance",
+            "type": "Materials Development"
+        },
+        {
+            "name": "Biocompatible Integration",
+            "impact": "5x improvement in device lifetime",
+            "type": "Process Integration"
+        }
+    ],
+    "facilities_utilized": [
+        "Cleanroom Facilities",
+        "Materials Characterization Labs",
+        "Radiation Test Facilities",
+        "Bioprocessing Labs",
+        "Manufacturing Plants"
+    ],
+    "standards_compliance": [
+        "GMP Requirements",
+        "Military Standards",
+        "ISO Standards",
+        "Quality System Regulations",
+        "Environmental Standards"
+    ]
+}

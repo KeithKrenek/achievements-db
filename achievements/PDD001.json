@@ -1,0 +1,254 @@
+{
+    "id": "PDD001",
+    "core": "Led development of comprehensive technical documentation, research proposals, and training materials across multiple disciplines, ensuring effective knowledge transfer and program success",
+    "dates": {
+        "start": "2015-09",
+        "end": "present"
+    },
+    "company": "Multiple (Draper Lab, Harvard, Independent)",
+    "variations": {
+        "technical_writer": {
+            "short": "Created technical documentation",
+            "medium": "Developed comprehensive documentation",
+            "detailed": "Created sophisticated technical documentation systems spanning multiple technical domains and user types"
+        },
+        "proposal_developer": {
+            "short": "Led proposal development",
+            "medium": "Created research proposals",
+            "detailed": "Developed successful research proposals and program plans, securing funding and program approvals"
+        },
+        "documentation_lead": {
+            "short": "Led documentation initiatives",
+            "medium": "Managed documentation systems",
+            "detailed": "Directed development of comprehensive documentation frameworks ensuring knowledge capture and transfer"
+        },
+        "training_developer": {
+            "short": "Created training materials",
+            "medium": "Developed training programs",
+            "detailed": "Engineered effective training materials and programs for complex technical systems and processes"
+        },
+        "content_strategist": {
+            "short": "Developed content strategy",
+            "medium": "Led technical content development",
+            "detailed": "Created strategic approaches to technical content development and distribution across organizations"
+        },
+        "knowledge_manager": {
+            "short": "Managed technical knowledge",
+            "medium": "Led knowledge management",
+            "detailed": "Directed capture and distribution of technical knowledge across multiple domains and platforms"
+        },
+        "communications_lead": {
+            "short": "Led technical communications",
+            "medium": "Managed technical messaging",
+            "detailed": "Developed effective technical communication strategies for diverse audiences and purposes"
+        },
+        "standards_developer": {
+            "short": "Created documentation standards",
+            "medium": "Developed documentation frameworks",
+            "detailed": "Established comprehensive standards and frameworks for technical documentation across organizations"
+        }
+    },
+    "metrics": [
+        {
+            "value": "dozens",
+            "context": "technical articles published",
+            "verified": true,
+            "category": "output",
+            "timeframe": "cumulative",
+            "impact_area": "knowledge_sharing"
+        },
+        {
+            "value": "500+",
+            "context": "employees using documentation",
+            "verified": true,
+            "category": "reach",
+            "timeframe": "continuous",
+            "impact_area": "organizational_impact"
+        },
+        {
+            "value": "15+",
+            "context": "training sessions delivered",
+            "verified": true,
+            "category": "training",
+            "timeframe": "cumulative",
+            "impact_area": "capability_development"
+        },
+        {
+            "value": "5",
+            "context": "major proposals developed",
+            "verified": true,
+            "category": "development",
+            "timeframe": "cumulative",
+            "impact_area": "program_initiation"
+        },
+        {
+            "value": "40%",
+            "context": "reduction in training time",
+            "verified": true,
+            "category": "efficiency",
+            "timeframe": "comparative",
+            "impact_area": "learning_optimization"
+        },
+        {
+            "value": "multiple",
+            "context": "audiences effectively reached",
+            "verified": true,
+            "category": "communication",
+            "timeframe": "continuous",
+            "impact_area": "knowledge_transfer"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "documentation",
+            "detail": "Technical documentation systems",
+            "proficiency": "expert"
+        },
+        {
+            "category": "proposals",
+            "detail": "Proposal development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "training",
+            "detail": "Training material development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "communication",
+            "detail": "Technical communication",
+            "proficiency": "expert"
+        },
+        {
+            "category": "knowledge",
+            "detail": "Knowledge management",
+            "proficiency": "expert"
+        },
+        {
+            "category": "standards",
+            "detail": "Documentation standards",
+            "proficiency": "expert"
+        },
+        {
+            "category": "content",
+            "detail": "Content strategy",
+            "proficiency": "expert"
+        },
+        {
+            "category": "systems",
+            "detail": "Documentation systems",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Enhanced knowledge transfer",
+        "Improved training efficiency",
+        "Secured program funding",
+        "Standardized documentation",
+        "Accelerated learning",
+        "Improved communication",
+        "Enabled knowledge sharing",
+        "Enhanced understanding",
+        "Facilitated collaboration",
+        "Advanced organizational capabilities"
+    ],
+    "skills": [
+        "Technical Writing",
+        "Proposal Development",
+        "Training Creation",
+        "Knowledge Management",
+        "Content Strategy",
+        "Documentation Systems",
+        "Communication Planning",
+        "Stakeholder Management",
+        "Project Planning",
+        "Process Documentation",
+        "Standard Development",
+        "Information Architecture"
+    ],
+    "tags": [
+        "Documentation",
+        "Proposals",
+        "Training",
+        "Communication",
+        "Knowledge Management",
+        "Technical Writing",
+        "Standards",
+        "Content"
+    ],
+    "key_achievements": [
+        {
+            "name": "Company-wide Documentation",
+            "impact": "500+ users served",
+            "outcome": "Enhanced efficiency"
+        },
+        {
+            "name": "Technical Blog Articles",
+            "impact": "Broad audience reach",
+            "outcome": "Knowledge sharing"
+        },
+        {
+            "name": "Training Programs",
+            "impact": "Reduced training time",
+            "outcome": "Improved capabilities"
+        }
+    ],
+    "documentation_types": [
+        {
+            "category": "Technical Standards",
+            "audience": "Engineers",
+            "purpose": "Design guidance"
+        },
+        {
+            "category": "Training Materials",
+            "audience": "New employees",
+            "purpose": "Skill development"
+        },
+        {
+            "category": "Research Proposals",
+            "audience": "Stakeholders",
+            "purpose": "Program approval"
+        }
+    ],
+    "communication_approaches": [
+        "Technical Briefings",
+        "Written Documentation",
+        "Training Sessions",
+        "Knowledge Bases",
+        "Process Guides"
+    ],
+    "audience_engagements": [
+        {
+            "group": "Military Personnel",
+            "topic": "Radiation physics",
+            "approach": "Technical briefings"
+        },
+        {
+            "group": "Students",
+            "topic": "Brain-machine interfaces",
+            "approach": "Interactive presentations"
+        },
+        {
+            "group": "General Public",
+            "topic": "Technical blogs",
+            "approach": "Accessible writing"
+        }
+    ],
+    "knowledge_systems": [
+        {
+            "type": "Documentation Repository",
+            "purpose": "Central reference",
+            "users": "All employees"
+        },
+        {
+            "type": "Training Platform",
+            "purpose": "Skills development",
+            "users": "Technical staff"
+        },
+        {
+            "type": "Process Guidelines",
+            "purpose": "Standardization",
+            "users": "Operations teams"
+        }
+    ]
+}

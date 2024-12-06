@@ -1,0 +1,194 @@
+{
+    "id": "DOC001",
+    "core": "Established comprehensive technical documentation frameworks and standards across multiple organizations, including electrical design practices, environmental testing protocols, and system validation procedures",
+    "dates": {
+        "start": "2015-09",
+        "end": "present"
+    },
+    "company": "Multiple (Draper Lab, Wood Group Mustang, Harvard)",
+    "variations": {
+        "documentation_lead": {
+            "short": "Led documentation initiatives",
+            "medium": "Established documentation standards",
+            "detailed": "Created and implemented comprehensive technical documentation frameworks ensuring knowledge capture and transfer across organizations"
+        },
+        "standards_developer": {
+            "short": "Developed technical standards",
+            "medium": "Created engineering standards",
+            "detailed": "Established company-wide standards for electrical design practices and environmental testing protocols"
+        },
+        "technical_writer": {
+            "short": "Created technical documentation",
+            "medium": "Developed comprehensive documentation",
+            "detailed": "Authored detailed technical documentation spanning multiple domains and user types"
+        },
+        "process_developer": {
+            "short": "Created technical processes",
+            "medium": "Established standard procedures",
+            "detailed": "Developed standardized processes for complex technical operations and testing procedures"
+        }
+    },
+    "metrics": [
+        {
+            "value": "500+",
+            "context": "employees using documentation",
+            "verified": true,
+            "category": "reach",
+            "timeframe": "continuous",
+            "impact_area": "knowledge_transfer"
+        },
+        {
+            "value": "3",
+            "context": "major documentation frameworks established",
+            "verified": true,
+            "category": "development",
+            "timeframe": "cumulative",
+            "impact_area": "standards_implementation"
+        },
+        {
+            "value": "40%",
+            "context": "reduction in documentation time",
+            "verified": true,
+            "category": "efficiency",
+            "timeframe": "comparative",
+            "impact_area": "process_optimization"
+        },
+        {
+            "value": "15+",
+            "context": "engineers trained on protocols",
+            "verified": true,
+            "category": "training",
+            "timeframe": "cumulative",
+            "impact_area": "capability_development"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "standards",
+            "detail": "Technical standards development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "documentation",
+            "detail": "Documentation systems",
+            "proficiency": "expert"
+        },
+        {
+            "category": "process",
+            "detail": "Process documentation",
+            "proficiency": "expert"
+        },
+        {
+            "category": "training",
+            "detail": "Documentation training",
+            "proficiency": "expert"
+        },
+        {
+            "category": "quality",
+            "detail": "Quality control documentation",
+            "proficiency": "expert"
+        },
+        {
+            "category": "validation",
+            "detail": "Test protocol documentation",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Enhanced knowledge transfer",
+        "Improved process efficiency",
+        "Standardized procedures",
+        "Reduced training time",
+        "Enhanced quality control",
+        "Improved compliance",
+        "Streamlined operations",
+        "Reduced errors",
+        "Enhanced team capabilities",
+        "Facilitated scaling"
+    ],
+    "skills": [
+        "Technical Writing",
+        "Standards Development",
+        "Process Documentation",
+        "Training Development",
+        "Quality Control",
+        "Knowledge Management",
+        "System Documentation",
+        "Procedure Development",
+        "Information Architecture",
+        "Document Control",
+        "Content Strategy",
+        "Technical Communication"
+    ],
+    "tags": [
+        "Documentation",
+        "Standards",
+        "Technical Writing",
+        "Process Development",
+        "Training",
+        "Quality Control",
+        "Knowledge Management"
+    ],
+    "document_types": [
+        {
+            "category": "Engineering Standards",
+            "scope": "Company-wide electrical design practices",
+            "users": "Engineering teams",
+            "status": "Implemented"
+        },
+        {
+            "category": "Testing Protocols",
+            "scope": "Environmental testing procedures",
+            "users": "Test engineers",
+            "status": "Active"
+        },
+        {
+            "category": "Process Documentation",
+            "scope": "Manufacturing and validation procedures",
+            "users": "Production teams",
+            "status": "Maintained"
+        }
+    ],
+    "key_frameworks": [
+        {
+            "name": "Electrical Design Standards",
+            "impact": "Used by 500+ employees globally",
+            "outcome": "Standardized design practices"
+        },
+        {
+            "name": "Environmental Test Protocols",
+            "impact": "Enhanced test reliability",
+            "outcome": "Consistent validation procedures"
+        },
+        {
+            "name": "System Validation Framework",
+            "impact": "Improved quality control",
+            "outcome": "Standardized validation process"
+        }
+    ],
+    "implementation_methods": [
+        {
+            "method": "Staged Rollout",
+            "purpose": "Ensure smooth adoption",
+            "result": "Successful implementation"
+        },
+        {
+            "method": "User Training",
+            "purpose": "Enable effective use",
+            "result": "Enhanced user capability"
+        },
+        {
+            "method": "Feedback Integration",
+            "purpose": "Continuous improvement",
+            "result": "Optimized documentation"
+        }
+    ],
+    "documentation_systems": [
+        "Version Control",
+        "Change Management",
+        "Access Control",
+        "Review Procedures",
+        "Update Protocols",
+        "Distribution Systems"
+    ]
+}

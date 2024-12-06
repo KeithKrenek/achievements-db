@@ -1,82 +1,191 @@
 {
     "id": "AI003",
-    "core": "Developed AI/ML applications across diverse business domains",
+    "core": "Developed and implemented sophisticated AI/ML solutions across multiple domains, including prompt engineering for RLHF model training and AI-assisted development workflows",
     "dates": {
-      "start": "2023-09",
-      "end": "2024-04"
+        "start": "2023-09",
+        "end": "present"
     },
-    "company": "Elementsist",
+    "company": "Multiple (Scale AI, Draper Lab, Independent)",
     "variations": {
-      "ai_engineer": {
-        "short": "Implemented diverse AI solutions",
-        "medium": "Developed varied AI applications for business use",
-        "detailed": "Created and implemented AI solutions across multiple domains including legal, marketing, research, and business strategy"
-      },
-      "technical_lead": {
-        "short": "Led AI implementation projects",
-        "medium": "Directed development of AI-powered solutions",
-        "detailed": "Led development of AI applications spanning text analysis, content generation, and decision support systems"
-      },
-      "consultant": {
-        "short": "Provided AI solution consulting",
-        "medium": "Delivered AI-powered business solutions",
-        "detailed": "Consulted on AI implementation strategies across diverse business needs, from legal compliance to marketing optimization"
-      },
-      "product_manager": {
-        "short": "Managed AI product development",
-        "medium": "Oversaw AI solution implementation",
-        "detailed": "Managed development and deployment of AI-powered tools for various business applications and client needs"
-      }
+        "prompt_engineer": {
+            "short": "Developed RLHF training prompts",
+            "medium": "Created sophisticated model evaluation prompts",
+            "detailed": "Engineered complex math and physics-based prompts designed to challenge and improve model reasoning capabilities while maintaining rigorous bias checking protocols"
+        },
+        "ml_engineer": {
+            "short": "Developed AI-assisted workflows",
+            "medium": "Created ML-enhanced development processes",
+            "detailed": "Implemented AI-assisted development methodologies, reducing development time while maintaining code quality and security standards"
+        },
+        "quality_engineer": {
+            "short": "Led AI model auditing",
+            "medium": "Conducted systematic model evaluations",
+            "detailed": "Performed regular audits ensuring prompt appropriateness and testing for model bias across various domains"
+        },
+        "automation_engineer": {
+            "short": "Created AI automation systems",
+            "medium": "Developed AI-powered automation",
+            "detailed": "Built automated systems leveraging AI for enhanced efficiency and accuracy in development workflows"
+        }
     },
     "metrics": [
-      {
-        "value": "multiple",
-        "context": "domains served (legal, marketing, research)",
-        "verified": true
-      },
-      {
-        "value": "diverse",
-        "context": "AI tools integrated",
-        "verified": true
-      },
-      {
-        "value": "numerous",
-        "context": "successful implementations",
-        "verified": true
-      }
+        {
+            "value": "70%+",
+            "context": "reduction in development time",
+            "verified": true,
+            "category": "efficiency",
+            "timeframe": "comparative",
+            "impact_area": "development_speed"
+        },
+        {
+            "value": "100%",
+            "context": "prompt audit compliance",
+            "verified": true,
+            "category": "quality",
+            "timeframe": "continuous",
+            "impact_area": "model_safety"
+        },
+        {
+            "value": "multiple",
+            "context": "successful model challenges created",
+            "verified": true,
+            "category": "development",
+            "timeframe": "cumulative",
+            "impact_area": "model_improvement"
+        },
+        {
+            "value": "diverse",
+            "context": "domain coverage in prompts",
+            "verified": true,
+            "category": "scope",
+            "timeframe": "continuous",
+            "impact_area": "model_capabilities"
+        }
     ],
     "technical_details": [
-      "LLM integration",
-      "Text generation",
-      "Image generation",
-      "Video content creation",
-      "Legal document analysis",
-      "Market research automation",
-      "Content optimization",
-      "Strategy development tools",
-      "Brand analysis systems"
+        {
+            "category": "prompting",
+            "detail": "RLHF prompt development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "evaluation",
+            "detail": "Model behavior analysis",
+            "proficiency": "expert"
+        },
+        {
+            "category": "automation",
+            "detail": "AI-assisted development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "quality",
+            "detail": "Bias detection",
+            "proficiency": "expert"
+        },
+        {
+            "category": "integration",
+            "detail": "AI tool integration",
+            "proficiency": "expert"
+        },
+        {
+            "category": "validation",
+            "detail": "Prompt effectiveness testing",
+            "proficiency": "expert"
+        }
     ],
     "impact": [
-      "Streamlined business processes",
-      "Enhanced decision making",
-      "Automated routine tasks",
-      "Improved content quality",
-      "Accelerated research",
-      "Optimized operations"
+        "Enhanced model capabilities",
+        "Improved development efficiency",
+        "Reduced bias in models",
+        "Advanced testing methodologies",
+        "Streamlined development processes",
+        "Enhanced code quality",
+        "Improved model safety",
+        "Accelerated development cycles",
+        "Enhanced testing coverage",
+        "Advanced AI safety practices"
     ],
     "skills": [
-      "AI Implementation",
-      "Solution Architecture",
-      "Business Analysis",
-      "Technical Integration",
-      "Project Management",
-      "Strategic Planning"
+        "Prompt Engineering",
+        "AI Model Evaluation",
+        "Bias Detection",
+        "Quality Assurance",
+        "AI Safety",
+        "Python Development",
+        "Technical Writing",
+        "Process Optimization",
+        "AI Integration",
+        "Model Behavior Analysis",
+        "Test Development",
+        "Documentation"
     ],
     "tags": [
-      "AI/ML",
-      "Business",
-      "Consulting",
-      "Innovation",
-      "Strategy"
+        "AI/ML",
+        "Prompt Engineering",
+        "Model Training",
+        "Quality Assurance",
+        "Automation",
+        "Development",
+        "Safety",
+        "Testing"
+    ],
+    "prompt_categories": [
+        {
+            "type": "Mathematical Reasoning",
+            "purpose": "Challenge model capabilities",
+            "implementation": "Complex problem-solving scenarios"
+        },
+        {
+            "type": "Physics-Based",
+            "purpose": "Test scientific understanding",
+            "implementation": "Real-world physics applications"
+        },
+        {
+            "type": "Edge Cases",
+            "purpose": "Identify model limitations",
+            "implementation": "Boundary condition testing"
+        }
+    ],
+    "ai_workflows": [
+        {
+            "area": "Development Assistance",
+            "tools": "AI pair programming",
+            "impact": "Accelerated development"
+        },
+        {
+            "area": "Code Optimization",
+            "tools": "AI code review",
+            "impact": "Enhanced code quality"
+        },
+        {
+            "area": "Testing",
+            "tools": "Automated test generation",
+            "impact": "Improved coverage"
+        }
+    ],
+    "quality_processes": [
+        {
+            "process": "Bias Checking",
+            "frequency": "Continuous",
+            "methodology": "Systematic audits"
+        },
+        {
+            "process": "Prompt Validation",
+            "frequency": "Per development cycle",
+            "methodology": "Effectiveness testing"
+        },
+        {
+            "process": "Safety Verification",
+            "frequency": "Regular intervals",
+            "methodology": "Comprehensive review"
+        }
+    ],
+    "development_practices": [
+        "AI-Assisted Programming",
+        "Automated Testing",
+        "Continuous Quality Checks",
+        "Iterative Refinement",
+        "Safety-First Design"
     ]
-  }
+}

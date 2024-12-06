@@ -1,0 +1,225 @@
+{
+  "id": "CVS001",
+  "core": "Developed automated computer vision and control systems enabling autonomous testing and analysis across multiple critical applications",
+  "dates": {
+      "start": "2016-06",
+      "end": "2023-08"
+  },
+  "company": "Multiple (MIT Lincoln Lab, Draper Lab, Harvard)",
+  "variations": {
+      "technical_ic": {
+          "short": "Built automated vision analysis systems",
+          "medium": "Developed computer vision systems for automated testing",
+          "detailed": "Created sophisticated computer vision and automation systems for high-precision testing and analysis, enabling autonomous operation of critical research equipment"
+      },
+      "automation_engineer": {
+          "short": "Led test automation development",
+          "medium": "Developed autonomous testing platforms",
+          "detailed": "Engineered automated testing platforms combining precision controls, computer vision, and error handling to enable extended autonomous operation"
+      },
+      "research_scientist": {
+          "short": "Advanced automated analysis methods",
+          "medium": "Developed automated scientific analysis tools",
+          "detailed": "Created automated analysis systems for scientific research, increasing experimental throughput and enabling new types of measurements"
+      },
+      "systems_engineer": {
+          "short": "Integrated automated test systems",
+          "medium": "Led automated system integration",
+          "detailed": "Led integration of complex automated systems combining mechanical, optical, and software components for autonomous operation"
+      },
+      "ml_specialist": {
+          "short": "Implemented ML-based object detection",
+          "medium": "Developed ML vision algorithms",
+          "detailed": "Created machine learning algorithms for robust object detection and tracking in challenging experimental conditions"
+      },
+      "quality_engineer": {
+          "short": "Automated quality control processes",
+          "medium": "Developed automated QC systems",
+          "detailed": "Created automated quality control systems incorporating computer vision and precision control for manufacturing processes"
+      },
+      "process_developer": {
+          "short": "Optimized automated workflows",
+          "medium": "Created automated analysis pipelines",
+          "detailed": "Developed end-to-end automated workflows combining data acquisition, analysis, and process control"
+      },
+      "software_architect": {
+          "short": "Designed automation software",
+          "medium": "Architected automation systems",
+          "detailed": "Created software architecture for robust automated systems with sophisticated error handling and recovery"
+      }
+  },
+  "metrics": [
+      {
+          "value": "10x",
+          "context": "increase in experimental throughput",
+          "verified": true,
+          "category": "efficiency",
+          "timeframe": "comparative",
+          "impact_area": "productivity"
+      },
+      {
+          "value": "24+",
+          "context": "hours of continuous autonomous operation",
+          "verified": true,
+          "category": "automation",
+          "timeframe": "continuous",
+          "impact_area": "operational_efficiency"
+      },
+      {
+          "value": "sub-µm",
+          "context": "spatial resolution achieved",
+          "verified": true,
+          "category": "performance",
+          "timeframe": "continuous",
+          "impact_area": "precision"
+      },
+      {
+          "value": "99.9%",
+          "context": "object detection accuracy",
+          "verified": true,
+          "category": "reliability",
+          "timeframe": "continuous",
+          "impact_area": "quality"
+      },
+      {
+          "value": "zero",
+          "context": "damage incidents during automated testing",
+          "verified": true,
+          "category": "reliability",
+          "timeframe": "project duration",
+          "impact_area": "equipment_safety"
+      },
+      {
+          "value": "3D",
+          "context": "tracking capability implemented",
+          "verified": true,
+          "category": "functionality",
+          "timeframe": "continuous",
+          "impact_area": "analysis_capability"
+      }
+  ],
+  "technical_details": [
+      {
+          "category": "vision",
+          "detail": "Computer vision algorithm development",
+          "proficiency": "expert"
+      },
+      {
+          "category": "automation",
+          "detail": "Automated control system development",
+          "proficiency": "expert"
+      },
+      {
+          "category": "software",
+          "detail": "Error handling and recovery systems",
+          "proficiency": "expert"
+      },
+      {
+          "category": "integration",
+          "detail": "Hardware-software integration",
+          "proficiency": "expert"
+      },
+      {
+          "category": "algorithms",
+          "detail": "3D trajectory reconstruction",
+          "proficiency": "expert"
+      },
+      {
+          "category": "imaging",
+          "detail": "High-precision imaging systems",
+          "proficiency": "expert"
+      },
+      {
+          "category": "ml",
+          "detail": "Machine learning for object detection",
+          "proficiency": "expert"
+      },
+      {
+          "category": "robotics",
+          "detail": "Precision motion control",
+          "proficiency": "expert"
+      }
+  ],
+  "impact": [
+      "Enabled 24/7 autonomous operation",
+      "Increased experimental throughput",
+      "Protected valuable equipment",
+      "Improved measurement precision",
+      "Reduced operator workload",
+      "Enabled new research capabilities",
+      "Standardized testing procedures",
+      "Created reusable automation framework",
+      "Advanced manufacturing capabilities",
+      "Improved data quality"
+  ],
+  "skills": [
+      "Computer Vision",
+      "Machine Learning",
+      "System Integration",
+      "Software Architecture",
+      "Process Automation",
+      "Quality Control",
+      "Error Handling",
+      "Data Analysis",
+      "Motion Control",
+      "Scientific Computing",
+      "Technical Documentation",
+      "Cross-functional Leadership"
+  ],
+  "tags": [
+      "Automation",
+      "Computer Vision",
+      "Hardware",
+      "Software",
+      "Research",
+      "Manufacturing",
+      "Quality Control",
+      "Process Development"
+  ],
+  "methodology": [
+      "Agile Development",
+      "Test-Driven Development",
+      "Continuous Integration",
+      "Design for Reliability",
+      "Iterative Optimization"
+  ],
+  "domain_impact": [
+      "Scientific Research",
+      "Manufacturing",
+      "Quality Control",
+      "Process Automation"
+  ],
+  "tech_stack": [
+      "Python",
+      "OpenCV",
+      "Machine Learning Libraries",
+      "Motion Control Systems",
+      "Scientific Imaging",
+      "Data Analysis Tools"
+  ],
+  "key_applications": [
+      {
+          "name": "Photodiode Testing",
+          "impact": "Prevented damage to arrays while enabling 24/7 testing",
+          "location": "MIT Lincoln Lab"
+      },
+      {
+          "name": "Cell Analysis",
+          "impact": "10x increase in experimental throughput",
+          "location": "Harvard"
+      },
+      {
+          "name": "Particle Tracking",
+          "impact": "Enabled 3D trajectory analysis",
+          "location": "Draper Lab"
+      }
+  ],
+  "system_capabilities": [
+      "Autonomous Operation",
+      "Error Recovery",
+      "Data Logging",
+      "Performance Monitoring",
+      "Quality Validation",
+      "Remote Monitoring"
+  ]
+}

@@ -1,0 +1,236 @@
+{
+    "id": "TTC001",
+    "core": "Led successful technology transfer initiatives from research conception through commercial deployment, including biotech startup spinout and transition of advanced technologies to manufacturing",
+    "dates": {
+        "start": "2015-09",
+        "end": "present"
+    },
+    "company": "Multiple (Harvard/CytoTronics, Draper Lab, Independent)",
+    "variations": {
+        "commercialization_lead": {
+            "short": "Led technology commercialization",
+            "medium": "Directed research-to-market transitions",
+            "detailed": "Led comprehensive technology commercialization efforts from academic research through market deployment, including successful biotech startup launch"
+        },
+        "startup_founder": {
+            "short": "Founded biotech startup",
+            "medium": "Launched successful research spinout",
+            "detailed": "Transformed academic research into commercial venture, developing scalable manufacturing processes and establishing market presence"
+        },
+        "technology_transfer_manager": {
+            "short": "Managed technology transfer",
+            "medium": "Led research-to-production transition",
+            "detailed": "Directed transition of complex technologies from research environment to production, ensuring manufacturability and commercial viability"
+        },
+        "innovation_strategist": {
+            "short": "Developed commercialization strategies",
+            "medium": "Created technology transition roadmaps",
+            "detailed": "Developed comprehensive strategies for transitioning advanced technologies from research to commercial applications"
+        },
+        "intellectual_property_developer": {
+            "short": "Led IP development",
+            "medium": "Managed patent development process",
+            "detailed": "Directed intellectual property development and protection, including successful patent applications and licensing strategies"
+        },
+        "manufacturing_consultant": {
+            "short": "Guided manufacturing transition",
+            "medium": "Led production process development",
+            "detailed": "Developed and optimized manufacturing processes for complex technologies, ensuring scalability and commercial viability"
+        },
+        "business_developer": {
+            "short": "Led market development",
+            "medium": "Developed commercial opportunities",
+            "detailed": "Identified and developed market opportunities for advanced technologies, creating successful commercialization pathways"
+        },
+        "technical_advisor": {
+            "short": "Provided commercialization guidance",
+            "medium": "Advised on technology transition",
+            "detailed": "Offered strategic guidance on technology commercialization, bridging research and business objectives"
+        }
+    },
+    "metrics": [
+        {
+            "value": "1",
+            "context": "successful startup launched",
+            "verified": true,
+            "category": "commercialization",
+            "timeframe": "cumulative",
+            "impact_area": "business_creation"
+        },
+        {
+            "value": "1",
+            "context": "patent filed and awarded",
+            "verified": true,
+            "category": "intellectual_property",
+            "timeframe": "cumulative",
+            "impact_area": "ip_protection"
+        },
+        {
+            "value": "$85k",
+            "context": "monthly revenue achieved from $0",
+            "verified": true,
+            "category": "growth",
+            "timeframe": "8 months",
+            "impact_area": "business_development"
+        },
+        {
+            "value": "5x",
+            "context": "improvement in manufacturing yield",
+            "verified": true,
+            "category": "production",
+            "timeframe": "comparative",
+            "impact_area": "manufacturing_efficiency"
+        },
+        {
+            "value": "3",
+            "context": "different industries served",
+            "verified": true,
+            "category": "market",
+            "timeframe": "cumulative",
+            "impact_area": "market_reach"
+        },
+        {
+            "value": "40%",
+            "context": "reduction in production costs",
+            "verified": true,
+            "category": "efficiency",
+            "timeframe": "comparative",
+            "impact_area": "cost_optimization"
+        }
+    ],
+    "technical_details": [
+        {
+            "category": "commercialization",
+            "detail": "Technology transfer processes",
+            "proficiency": "expert"
+        },
+        {
+            "category": "manufacturing",
+            "detail": "Scale-up methodologies",
+            "proficiency": "expert"
+        },
+        {
+            "category": "ip",
+            "detail": "Patent development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "business",
+            "detail": "Market analysis",
+            "proficiency": "expert"
+        },
+        {
+            "category": "process",
+            "detail": "Manufacturing optimization",
+            "proficiency": "expert"
+        },
+        {
+            "category": "strategy",
+            "detail": "Commercial development",
+            "proficiency": "expert"
+        },
+        {
+            "category": "validation",
+            "detail": "Commercial validation",
+            "proficiency": "expert"
+        },
+        {
+            "category": "integration",
+            "detail": "Technology integration",
+            "proficiency": "expert"
+        }
+    ],
+    "impact": [
+        "Created successful startup",
+        "Generated valuable IP",
+        "Enabled commercial production",
+        "Reduced manufacturing costs",
+        "Expanded market reach",
+        "Improved product scalability",
+        "Enhanced manufacturing efficiency",
+        "Created new business opportunities",
+        "Advanced industry capabilities",
+        "Established market presence"
+    ],
+    "skills": [
+        "Technology Transfer",
+        "Business Development",
+        "Patent Development",
+        "Manufacturing Scale-up",
+        "Market Analysis",
+        "Strategic Planning",
+        "Process Optimization",
+        "Stakeholder Management",
+        "Risk Assessment",
+        "Commercial Strategy",
+        "Financial Planning",
+        "Technical Leadership"
+    ],
+    "tags": [
+        "Commercialization",
+        "Technology Transfer",
+        "Manufacturing",
+        "Innovation",
+        "Business Development",
+        "Patents",
+        "Startups",
+        "Scale-up"
+    ],
+    "key_projects": [
+        {
+            "name": "CytoTronics Startup",
+            "outcome": "Successful biotech company launch",
+            "technology": "Neuroelectronic interface system"
+        },
+        {
+            "name": "Digital Services Business",
+            "outcome": "Achieved $85k monthly revenue",
+            "technology": "Marketing automation systems"
+        },
+        {
+            "name": "Manufacturing Process Development",
+            "outcome": "5x yield improvement",
+            "technology": "Advanced materials processing"
+        }
+    ],
+    "patents_ip": [
+        {
+            "type": "Patent",
+            "title": "Electronic circuits for analyzing electrogenic cells",
+            "status": "Awarded",
+            "application": "PCT/US2018/058081"
+        }
+    ],
+    "commercialization_stages": [
+        "Research Validation",
+        "Technology Assessment",
+        "Market Analysis",
+        "Process Development",
+        "Scale-up",
+        "Commercial Launch"
+    ],
+    "market_sectors": [
+        "Biotechnology",
+        "Digital Services",
+        "Advanced Manufacturing",
+        "Research Tools",
+        "Defense Technology"
+    ],
+    "transition_strategies": [
+        {
+            "phase": "Research to Prototype",
+            "approach": "Iterative development",
+            "outcome": "Functional demonstration"
+        },
+        {
+            "phase": "Prototype to Production",
+            "approach": "Process optimization",
+            "outcome": "Manufacturing readiness"
+        },
+        {
+            "phase": "Production to Market",
+            "approach": "Phased launch",
+            "outcome": "Commercial success"
+        }
+    ]
+}
